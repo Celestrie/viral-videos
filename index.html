@@ -264,33 +264,49 @@
   .hcard b{color:var(--text)}
   .tipcard{border-color:var(--accent-brd)}   /* subtle accent, no orange rail */
 
-  /* ---------- v8/v9 in-page playback lightbox ----------
-     Dark overlay + centered player. The TikTok embed iframe is created
-     lazily per tap (never pre-embedded) and destroyed on close.
-     v9 ZOOM FIX — root cause: embed/v2 is NOT a bare 9:16 player. It is a
-     fit-content CARD (container min-width:325px; video wrapper inline
-     max-width:325px; video box = padding-top:177.78% of width) with ~180px
-     of chrome BELOW the video (Watch bar + handle + caption + sound). v8
-     forced the iframe into an exact 9:16 box, leaving zero room for that
-     chrome, so the embed's own short-viewport clamps (max-height:100vh /
-     height:calc(100vh - 64px)) squeezed its video container off 9:16 and
-     its object-fit:cover then CROPPED the video = the "slightly zoomed"
-     look. Fix: the iframe renders on a fixed 350x780 stage (the embed's
-     natural card geometry — video never squeezed) and the stage is
-     uniformly transform:scale()d to fit the viewport; JS (lbResize) sets
-     the box size + scale on open and on window resize. Uniform scale =
-     letterbox when small, never zoom/crop. */
+  /* ---------- v8-v10 in-page playback lightbox ----------
+     Dark overlay + centered player. The TikTok iframe is created lazily
+     per tap (never pre-embedded) and destroyed on close.
+     v10 PRIMARY = the official Player API, player/v1/<id> (harness-measured
+     2026-07-27): a BARE contain-fit player — an exact 9:16 box is filled
+     edge to edge; any other box shape gets TikTok's own blurred letterbox
+     bands, NEVER a crop. So the primary path needs no stage/scale math at
+     all: .lbfr just fills the JS-sized 9:16 .lbplayer box.
+     v10 RETRY = one embed/v2 attempt on error/4s-no-load, which keeps the
+     v9 geometry: embed/v2 is a fit-content CARD (min-width:325px video +
+     ~180px chrome below) whose short-viewport clamps object-fit:cover-crop
+     the video, so it lays out on a fixed 350x780 .lbstage (natural card
+     geometry — clamps never fire) uniformly transform:scale()d to fit.
+     Letterbox acceptable, crop never — both paths obey it. */
   .lb{position:fixed;inset:0;z-index:60;background:rgba(0,0,0,.86);
     display:flex;align-items:center;justify-content:center;padding:18px}
   .lbbox{position:relative}
   .lbplayer{position:relative;background:#000;
     border:1px solid var(--border);border-radius:16px;overflow:hidden}
+  .lbfr{position:absolute;inset:0;width:100%;height:100%;border:0;
+    opacity:0;transition:opacity .25s ease}       /* v10 bare player/v1 */
   .lbstage{position:absolute;top:0;left:0;width:350px;height:780px;
-    transform-origin:0 0}
+    transform-origin:0 0}                          /* v9 embed/v2 card stage */
   .lbstage iframe{width:100%;height:100%;border:0;
     opacity:0;transition:opacity .25s ease}
   .lbload{position:absolute;inset:0;display:flex;align-items:center;
     justify-content:center;color:var(--muted);font-size:13px}
+  /* v10 pacing spinner: shown while the courtesy min-gap between iframe
+     creations runs out (rapid close->open taps) */
+  .lbspin{position:absolute;inset:0;display:flex;align-items:center;
+    justify-content:center}
+  .lbspin::after{content:"";width:28px;height:28px;border-radius:50%;
+    border:3px solid rgba(255,255,255,.18);border-top-color:#fff;
+    animation:lbspin .8s linear infinite}
+  @keyframes lbspin{to{transform:rotate(360deg)}}
+  /* v10 graceful degradation: muted hint fades in ~5s after the player
+     loads — a visible exit when TikTok throttles (its overload-protect
+     page fires a normal load event; we cannot detect it cross-origin).
+     Space is reserved (visibility, not display) so nothing jumps. */
+  .lbhint{display:block;text-align:center;margin-top:10px;color:var(--muted);
+    font-size:12.5px;opacity:0;visibility:hidden;transition:opacity .45s ease}
+  .lbhint.show{opacity:1;visibility:visible}
+  .lbhint:hover{color:#fff}
   .lbx{position:absolute;top:-12px;right:-12px;z-index:2;width:34px;height:34px;
     display:flex;align-items:center;justify-content:center;background:var(--card);
     border:1px solid var(--hover-brd);color:var(--text);border-radius:999px;
@@ -431,11 +447,12 @@
   <div class="copyright">© Celestrie — made for our creator partners</div>
 </div></footer>
 
-<!-- v8 playback lightbox: TikTok official embed, iframe created per tap only -->
+<!-- v8-v10 playback lightbox: official TikTok player, iframe created per tap only -->
 <div id="lb" class="lb hidden" role="dialog" aria-modal="true" aria-label="Video player">
   <div class="lbbox">
     <button class="lbx" id="lbx" type="button" aria-label="Close">✕</button>
     <div class="lbplayer" id="lbbody"></div>
+    <a class="lbhint" id="lbhint" href="#" target="_blank" rel="noopener">Not playing? Watch it on TikTok →</a>
     <a class="lblink" id="lblink" href="#" target="_blank" rel="noopener">Open on TikTok ↗</a>
   </div>
 </div>
@@ -576,33 +593,50 @@ function card(v){
   return c;
 }
 
-// ---------- v8/v9 in-page playback lightbox ----------
-// TikTok's OFFICIAL embed player (never re-hosted video files). The iframe
-// is created lazily on tap — the grid never pre-embeds — and destroyed on
+// ---------- v8-v10 in-page playback lightbox ----------
+// OFFICIAL TikTok players only (never re-hosted video files). The iframe is
+// created lazily on tap — the grid never pre-embeds — and destroyed on
 // close so playback always stops. Close on X / backdrop / Esc.
-// FALLBACK: creators can disable embedding (and embeds can just fail) — if
-// the iframe's load event hasn't fired within LB_TIMEOUT the modal body
-// swaps to a friendly card (thumb + red "Watch on TikTok" button, new tab).
-// v9 SIZING (zoom fix): the iframe always lays out on a fixed
-// LB_EMBED_W x LB_EMBED_H stage = the embed's natural card geometry
-// (325px video wrapper + card padding, 16/9 video + ~180px chrome below),
-// so the embed NEVER enters its shrunk-viewport clamp branch (which
-// object-fit:cover-crops the video = the v8 "zoomed" bug). lbResize()
-// scales the stage uniformly to fit the current viewport.
+// v10 CHAIN: player/v1/<id> (Player API, bare contain-fit player — measured:
+// exact 9:16 box fills edge to edge, other shapes blur-letterbox, never
+// crop) -> on error/4s-no-load ONE embed/v2 attempt (v9 350x780 card stage,
+// uniformly scaled) -> 4s again -> the friendly fallback card (unchanged).
+// v10 GRACEFUL DEGRADATION: TikTok's per-IP overload-protect page fires a
+// NORMAL load event cross-origin (undetectable), so ~5s after any player
+// load a muted "Not playing? Watch it on TikTok →" hint fades in under the
+// player — harmless when playback works, a visible exit when throttled.
+// v10 PACING: a courtesy LB_MIN_GAP between iframe creations (tiny spinner
+// bridges the remainder on rapid close->open taps) so quick tapping never
+// hammers the endpoint. Politeness only — nothing defeats the protection.
 const LB_TIMEOUT = 4000;
 const LB_EMBED_W = 350, LB_EMBED_H = 780;   // embed/v2 natural card geometry
-let lbTimer = null, lbKey = null;
+const LB_HINT_MS = 5000;                    // hint fade-in delay after load
+const LB_MIN_GAP = 1200;                    // courtesy gap between iframes
+let lbTimer = null, lbKey = null, lbHintTimer = null, lbGateTimer = null;
+let lbMode = "v1";        // current geometry: "v1" bare player | "v2" card stage
+let lbLast = -1e9;        // performance.now() of the last iframe creation
+let lbToken = 0;          // invalidates pending timers after close/reopen
 
 function lbResize(){
   if (!document.body.classList.contains("lbopen")) return;
-  const s = Math.min(1,
-    (window.innerWidth * 0.92) / LB_EMBED_W,
-    (window.innerHeight - 96) / LB_EMBED_H);   // 96 = overlay pad + X + link row
   const box = $("#lbbody");
-  box.style.width  = Math.round(LB_EMBED_W * s) + "px";
-  box.style.height = Math.round(LB_EMBED_H * s) + "px";
-  const st = box.querySelector(".lbstage");
-  if (st) st.style.transform = "scale(" + s + ")";
+  if (lbMode === "v1") {
+    // bare player: exact 9:16 box (no stage math — the player contains-fits)
+    let w = Math.min(380, window.innerWidth * 0.92);
+    let h = w * 16 / 9;
+    const maxH = window.innerHeight - 120;   // overlay pad + X + hint + link
+    if (h > maxH) { h = maxH; w = h * 9 / 16; }
+    box.style.width  = Math.round(w) + "px";
+    box.style.height = Math.round(h) + "px";
+  } else {
+    const s = Math.min(1,
+      (window.innerWidth * 0.92) / LB_EMBED_W,
+      (window.innerHeight - 120) / LB_EMBED_H);
+    box.style.width  = Math.round(LB_EMBED_W * s) + "px";
+    box.style.height = Math.round(LB_EMBED_H * s) + "px";
+    const st = box.querySelector(".lbstage");
+    if (st) st.style.transform = "scale(" + s + ")";
+  }
 }
 window.addEventListener("resize", lbResize);
 
@@ -612,7 +646,11 @@ function videoIdOf(v){
 }
 
 function lbClose(){
+  lbToken++;                            // kills pending gate/fail/hint steps
   clearTimeout(lbTimer); lbTimer = null;
+  clearTimeout(lbHintTimer); lbHintTimer = null;
+  clearTimeout(lbGateTimer); lbGateTimer = null;
+  $("#lbhint").classList.remove("show");
   $("#lb").classList.add("hidden");
   $("#lbbody").textContent = "";        // destroys the iframe -> stops playback
   document.body.classList.remove("lbopen");
@@ -621,6 +659,8 @@ function lbClose(){
 
 function lbFallback(v){
   clearTimeout(lbTimer); lbTimer = null;
+  clearTimeout(lbHintTimer); lbHintTimer = null;   // card has its own link
+  $("#lbhint").classList.remove("show");
   const body = $("#lbbody");
   body.textContent = "";                 // drop the dead iframe
   const f = document.createElement("div");
@@ -644,38 +684,87 @@ function lbFallback(v){
   body.appendChild(f);
 }
 
+// one player attempt. mode "v1" = Player API bare player (primary); on
+// error / LB_TIMEOUT no-load it chains to ONE "v2" embed/v2 attempt (v9
+// card-stage geometry), then to the fallback card. Every iframe creation
+// stamps lbLast for the pacing gate.
+function lbAttempt(v, vid, tok, mode){
+  if (tok !== lbToken) return;                   // closed/reopened meanwhile
+  lbMode = mode;
+  const body = $("#lbbody");
+  body.textContent = "";
+  const load = document.createElement("div");
+  load.className = "lbload"; load.textContent = "Loading video…";
+  body.appendChild(load);
+  const fr = document.createElement("iframe");   // lazy: exists only while open
+  fr.allow = "autoplay; encrypted-media; fullscreen; picture-in-picture";
+  fr.setAttribute("allowfullscreen", "");
+  fr.setAttribute("title", "TikTok video by @" + (v.handle || "creator"));
+  const fail = () => {
+    if (tok !== lbToken) return;
+    if (mode === "v1") lbAttempt(v, vid, tok, "v2");   // one embed/v2 retry
+    else lbFallback(v);
+  };
+  fr.addEventListener("load", () => {            // success -> fade the player in
+    if (!fr.isConnected || tok !== lbToken) return;    // already swapped away
+    clearTimeout(lbTimer); lbTimer = null;
+    fr.style.opacity = "1";
+    load.remove();
+    clearTimeout(lbHintTimer);                   // graceful-degradation hint:
+    lbHintTimer = setTimeout(() => {             // overload-protect also fires
+      if (tok === lbToken) $("#lbhint").classList.add("show");   // load, so
+    }, LB_HINT_MS);                              // always offer a gentle exit
+  });
+  fr.addEventListener("error", fail);
+  lbLast = performance.now();                    // pacing stamp
+  if (mode === "v1") {
+    fr.className = "lbfr";                       // fills the 9:16 box
+    fr.src = "https://www.tiktok.com/player/v1/" + vid + "?controls=1";
+    body.appendChild(fr);
+  } else {
+    const stage = document.createElement("div"); // v9 fixed-geometry stage,
+    stage.className = "lbstage";                 // uniformly scaled by lbResize
+    fr.src = "https://www.tiktok.com/embed/v2/" + vid;
+    stage.appendChild(fr);
+    body.appendChild(stage);
+  }
+  lbResize();
+  clearTimeout(lbTimer);
+  lbTimer = setTimeout(fail, LB_TIMEOUT);
+}
+
 function openLightbox(v){
   if (!okUrl(v.url)) return;
   const vid = videoIdOf(v);
   if (!vid) { window.open(v.url, "_blank", "noopener"); return; }
-  const body = $("#lbbody");
-  body.textContent = "";
+  const tok = ++lbToken;
+  clearTimeout(lbTimer); lbTimer = null;
+  clearTimeout(lbHintTimer); lbHintTimer = null;
+  clearTimeout(lbGateTimer); lbGateTimer = null;
+  lbMode = "v1";
+  $("#lbbody").textContent = "";
   $("#lblink").href = v.url;
+  const hint = $("#lbhint");
+  hint.classList.remove("show");
+  hint.href = v.url;
   $("#lb").classList.remove("hidden");
   document.body.classList.add("lbopen");
-  const load = document.createElement("div");
-  load.className = "lbload"; load.textContent = "Loading video…";
-  body.appendChild(load);
-  const stage = document.createElement("div");   // v9: fixed-geometry stage,
-  stage.className = "lbstage";                   // uniformly scaled by lbResize
-  const fr = document.createElement("iframe");   // lazy: exists only while open
-  fr.src = "https://www.tiktok.com/embed/v2/" + vid;
-  fr.allow = "autoplay; encrypted-media; fullscreen; picture-in-picture";
-  fr.setAttribute("allowfullscreen", "");
-  fr.setAttribute("title", "TikTok video by @" + (v.handle || "creator"));
-  fr.addEventListener("load", () => {            // success -> fade the player in
-    if (!fr.isConnected) return;                 // fallback already swapped in
-    clearTimeout(lbTimer); lbTimer = null;
-    fr.style.opacity = "1";
-    load.remove();
-  });
-  stage.appendChild(fr);
-  body.appendChild(stage);
   lbResize();
-  clearTimeout(lbTimer);
-  lbTimer = setTimeout(() => lbFallback(v), LB_TIMEOUT);
+  if (lbKey) document.removeEventListener("keydown", lbKey);
   lbKey = e => { if (e.key === "Escape") lbClose(); };
   document.addEventListener("keydown", lbKey);
+  // courtesy pacing: >= LB_MIN_GAP between iframe creations. Rapid
+  // close->open taps see a tiny spinner for the remainder instead of a
+  // burst of embed loads. Politeness toward the endpoint, nothing more.
+  const wait = Math.max(0, LB_MIN_GAP - (performance.now() - lbLast));
+  if (wait > 0) {
+    const sp = document.createElement("div");
+    sp.className = "lbspin";
+    $("#lbbody").appendChild(sp);
+    lbGateTimer = setTimeout(() => lbAttempt(v, vid, tok, "v1"), wait);
+  } else {
+    lbAttempt(v, vid, tok, "v1");
+  }
 }
 
 $("#lbx").onclick = lbClose;
