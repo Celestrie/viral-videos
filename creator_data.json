@@ -4,17 +4,17 @@
  "note": "Top 500 videos by sales + views (of 527 studied). Refreshed with every publish.",
  "tiers": {
   "1": "🎃 Our Niche · Pumpkin Seed Oil",
-  "2": "💊 Similar Niches",
-  "3": "🌍 Other Niches"
+  "2": "💊 Similar Niches · Hair Growth",
+  "3": "🌍 Other Niches - Steal Format Only"
  },
  "tier_defs": {
   "1": "Videos selling our exact product — pumpkin seed oil for hair growth. Copy the recipe closely.",
-  "2": "Supplements chasing the same benefits — hair, skin, wellness — just not ours. Keep the hook, swap in our product.",
+  "2": "Supplements chasing the same benefits — hair growth, skin, wellness — just not ours. Keep the hook, swap in our product.",
   "3": "Completely different product worlds — the formats are the loot. Steal the format, never the topic."
  },
  "tier_intro": {
   "1": "These videos sell our exact product. Copy the recipe closely.",
-  "2": "Supplements chasing the same benefits — hair, skin, wellness. Keep the hook structure, adapt the words to our product.",
+  "2": "Supplements chasing the same benefits — hair growth, skin, wellness. Keep the hook structure, adapt the words to our product.",
   "3": "Completely different product worlds. Steal the format, never the topic."
  },
  "angles": {
