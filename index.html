@@ -4,7 +4,14 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="noindex">
+<meta name="theme-color" content="#0F0F0F">
+<meta property="og:title" content="Celestrie · Viral Videos">
 <title>Celestrie · Viral Videos</title>
+<meta property="og:image" content="favicon-512.png">
+<link rel="icon" href="favicon.ico" sizes="32x32 16x16">
+<link rel="icon" type="image/png" sizes="192x192" href="favicon-192.png">
+<link rel="icon" type="image/png" sizes="512x512" href="favicon-512.png">
+<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
 <style>
   /* TikTok dark — the ONLY theme (owner verdict, v4).
      red = CTAs / selling signals / active filters · cyan = links, focus ·
@@ -47,13 +54,15 @@
     border-radius:999px;padding:4px 12px;font-size:12.5px;color:var(--muted);white-space:nowrap}
   header .count b{color:var(--text)}
 
-  /* ---------- sticky top bar (every view): scope pills LEFT + nav tabs RIGHT;
-       the "Narrow it down" selects row (browse only) sticks beneath it ---------- */
-  .topbar{position:sticky;top:0;z-index:30;background:var(--fbar-bg);
-    backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);
+  /* ---------- ONE sticky header container (every view, v5): nav tabs LEFT,
+       scope pills to their right in the same row; the "Narrow it down" row
+       (browse only) stacks beneath INSIDE the same container. Single sticky
+       unit -> no per-row top-offset math, no z-index fighting, and a fully
+       OPAQUE background so scrolling content can never ghost through. ---------- */
+  .topbar{position:sticky;top:0;z-index:30;background:var(--bg);
     padding:10px 0 8px;border-bottom:1px solid var(--border)}
-  .srow{display:flex;gap:10px;align-items:center}
-  .tabs{display:flex;gap:6px;flex:0 0 auto;margin-left:auto}
+  .srow{display:flex;gap:14px;align-items:center}
+  .tabs{display:flex;gap:6px;flex:0 0 auto}
   .tbtn{flex:0 0 auto;background:var(--card);border:1px solid var(--border);color:var(--muted);
     border-radius:999px;padding:8px 14px;font-size:13px;font-weight:700;cursor:pointer;
     font-family:inherit;white-space:nowrap;transition:.15s}
@@ -73,8 +82,8 @@
     font-family:inherit;white-space:nowrap;transition:.15s}
   .pill.active{background:var(--accent);border-color:var(--accent);color:#fff}
   .pill:not(.active):hover{color:var(--text);border-color:var(--hover-brd)}
-  .pills{display:flex;gap:8px;flex-wrap:nowrap;min-width:0;overflow-x:auto;
-    scrollbar-width:none;padding-bottom:2px}
+  .pills{display:flex;gap:8px;flex:1 1 auto;flex-wrap:nowrap;min-width:0;
+    overflow-x:auto;scrollbar-width:none;padding-bottom:2px}
   .pills::-webkit-scrollbar{display:none}
   .selwrap{display:contents}
   .frow select,.frow input{
@@ -100,9 +109,9 @@
   .fclear:hover{color:#fff}
 
   @media(max-width:820px){
-    /* compact sticky strip: tabs row on top, pills strip beneath (both scroll-x) */
+    /* compact sticky strip: tab strip on top, pills strip beneath (both scroll-x) */
     .srow{flex-wrap:wrap;gap:8px}
-    .tabs{order:-1;flex:1 1 100%;margin-left:0;overflow-x:auto;scrollbar-width:none}
+    .tabs{flex:1 1 100%;overflow-x:auto;scrollbar-width:none}
     .tabs::-webkit-scrollbar{display:none}
     .tbtn{padding:7px 12px;font-size:12.5px}
     .pills{flex:1 1 100%}
@@ -212,12 +221,12 @@
 <div class="topbar">
   <div class="wrap">
     <div class="srow">
-      <div class="pills" id="pills"></div>
       <nav class="tabs">
         <button class="tbtn active" id="btn-howto" type="button">How to use</button>
         <button class="tbtn" id="btn-browse" type="button">Browse videos</button>
         <button class="tbtn" id="btn-angles" type="button">Proven angles</button>
       </nav>
+      <div class="pills" id="pills"></div>
     </div>
     <div id="browsebar">
       <div class="glabel gsep">Narrow it down</div>
