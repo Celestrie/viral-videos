@@ -260,8 +260,10 @@
   .strip::-webkit-scrollbar-track{background:transparent}
   .strip::-webkit-scrollbar-thumb{background:#3A3A3C;border-radius:3px}
   .strip::-webkit-scrollbar-thumb:hover{background:var(--accent)}
-  .gwin{flex:0 0 172px;width:172px;scroll-snap-align:start;min-width:0}
-  @media(max-width:520px){.gwin{flex-basis:150px;width:150px}}
+  /* v14: every gallery card is winner-sized; EXACTLY 3 fill the row at rest
+     (flex-basis = a third of the container minus the two 8px gaps), the rest
+     overflow rightward behind the fade. */
+  .gwin{flex:0 0 calc((100% - 16px)/3);min-width:0;scroll-snap-align:start}
   .scard{flex:0 0 120px;width:120px;scroll-snap-align:start;min-width:0}
   .scard .thumb{border-radius:10px;border:1px solid var(--border)}
   .scard .smeta{padding:5px 2px 0}
@@ -987,13 +989,14 @@ function buildAngles(){
         r.textContent = "🎵 Sound that works: " + a.sound;
         el.appendChild(r);
       }
-      // owner 2026-07-27 v13: ONE horizontal gallery per angle — the 3 headline
-      // winners lead (full winner cards), the rest continue rightward as small
-      // cards. The separate "More of this angle" strip + label are RETIRED.
-      if (a.winners.length || (a.more || []).length) {
+      // owner 2026-07-27 v14: ONE gallery per angle, ALL cards winner-sized —
+      // exactly 3 visible at rest (like the old grid), the rest scroll in from
+      // the right. The small-card tier + "More of this angle" label are RETIRED.
+      const gal = a.winners.concat(a.more || []);
+      if (gal.length) {
         const sw = document.createElement("div"); sw.className = "stripwrap";
         const row = document.createElement("div"); row.className = "strip";
-        a.winners.forEach(v => {
+        gal.forEach(v => {
           const wc = document.createElement("div"); wc.className = "winner gwin";
           wc.appendChild(thumbEl(v));
           const wm = document.createElement("div"); wm.className = "wmeta";
@@ -1013,19 +1016,6 @@ function buildAngles(){
             wc.appendChild(wl);
           }
           row.appendChild(wc);
-        });
-        (a.more || []).forEach(v => {
-          const sc = document.createElement("div"); sc.className = "scard";
-          sc.appendChild(thumbEl(v));       // same lightbox chain + hover
-          const sm = document.createElement("div"); sm.className = "smeta";
-          const sh = document.createElement("div");
-          sh.className = "handle"; sh.textContent = "@" + v.handle;
-          const ss = document.createElement("div"); ss.className = "sstats";
-          ss.innerHTML = "<span>" + kfmt(v.views) + "</span>" +
-                         '<span class="s">$' + kfmt(v.sales) + "</span>";
-          sm.appendChild(sh); sm.appendChild(ss);
-          sc.appendChild(sm);
-          row.appendChild(sc);
         });
         const fade = document.createElement("div"); fade.className = "sfade";
         const syncFade = () => fade.classList.toggle("off",
