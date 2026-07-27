@@ -1,0 +1,5730 @@
+{
+ "brand": "Celestrie",
+ "built": "2026-07-27",
+ "note": "Top 500 videos by sales + views (of 527 studied). Refreshed with every publish.",
+ "tiers": {
+  "1": "🎃 Our niche — pumpkin seed oil & hair growth",
+  "2": "💄 Similar beauty & wellness niches",
+  "3": "🌍 Other categories — steal their formats"
+ },
+ "tier_intro": {
+  "1": "These videos sell our exact product. Copy the recipe closely.",
+  "2": "Similar niches. Keep the hook structure, adapt the words to our product.",
+  "3": "Totally different categories. Steal the format, never the topic."
+ },
+ "angles": {
+  "1": [
+   {
+    "name": "GLP-1 shedding confessional — testimonial + audience callout with softgel-pour proof",
+    "badge": "🏆 Proven",
+    "hook": "A casual, no-glam woman talks straight to camera (couch, car, mid lip-gloss) and names the journey in the first sentence: 'I finally got my hair to stop falling out after being on a GLP-1' / 'I could scream to every person on a GLP losing their hair' — often pouring softgels into her palm or holding up the injector pen at 0s, caption 'This DHT blocker stopped my hair fall out', with brush/drain shed-hair photo overlays as proof. The top video is a stitch reacting to a GLP user showing her thinning ponytail.",
+    "why": "GLP-1 shedding is a huge, anxious, fast-growing audience that feels ignored; a peer who is visibly mid-journey naming the exact problem and showing what stopped it reads as insider advice, not an ad — and DHT-blocker mechanism talk gives the testimonial a 'real reason' to believe.",
+    "sound": "",
+    "videos": 11,
+    "sales": 108380,
+    "views": 3494078,
+    "winners": [
+     {
+      "id": "7581593239866658079",
+      "handle": "shopbyjake",
+      "views": 995208,
+      "sales": 22417,
+      "url": "https://www.tiktok.com/@shopbyjake/video/7581593239866658079"
+     },
+     {
+      "id": "7591494362551373070",
+      "handle": "josina_munson",
+      "views": 371633,
+      "sales": 13730,
+      "url": "https://www.tiktok.com/@josina_munson/video/7591494362551373070"
+     },
+     {
+      "id": "7547504931612282125",
+      "handle": "holisticglpgirly",
+      "views": 313074,
+      "sales": 12559,
+      "url": "https://www.tiktok.com/@holisticglpgirly/video/7547504931612282125"
+     }
+    ]
+   },
+   {
+    "name": "'Lost half my hair — look at it now' before/after recovery proof",
+    "badge": "🏆 Proven",
+    "hook": "Creator opens by quantifying the loss ('I lost 50% / 75% of my hair', 'I was balding', 'I lost the entire bottom half') while physically proving recovery on camera in the first seconds — holding out two sides of hair, pinching new baby hairs, lifting roots, salon-combing a client — with before-photo insets and captions like 'THIN to THICK hair' or 'These two supplements gave me an inch of growth per month'.",
+    "why": "The proof IS the hook: visible regrowth on a real head collapses skepticism instantly, and the quantified loss opens a curiosity gap ('what stopped it?') that holds viewers to the product reveal. Cause-stories (COVID, thyroid, postpartum, grief) let many audiences self-identify.",
+    "sound": "",
+    "videos": 11,
+    "sales": 83251,
+    "views": 3283068,
+    "winners": [
+     {
+      "id": "7584274401865108749",
+      "handle": "taraontop",
+      "views": 627353,
+      "sales": 13946,
+      "url": "https://www.tiktok.com/@taraontop/video/7584274401865108749"
+     },
+     {
+      "id": "7564523860201180447",
+      "handle": "italymommy_",
+      "views": 367698,
+      "sales": 12223,
+      "url": "https://www.tiktok.com/@italymommy_/video/7564523860201180447"
+     },
+     {
+      "id": "7588261598540664094",
+      "handle": "taraontop",
+      "views": 573858,
+      "sales": 11188,
+      "url": "https://www.tiktok.com/@taraontop/video/7588261598540664094"
+     }
+    ]
+   },
+   {
+    "name": "Kidney red-flag checklist + 'they tell you nothing can be done' myth-buster for foamy-urine sufferers",
+    "badge": "🏆 Proven",
+    "hook": "An ordinary young man speaks gravely to camera: 'These are the signs I had and ignored before being diagnosed with end-stage renal disease' or 'The reason they tell you there's nothing they can do for your kidneys / foamy pee…' or 'Has a doctor ever told you there's protein in your urine?' — persistent caption ('5 signs your kidneys are F*CKED'), foamy-toilet / puffy-face / swollen-feet photo insets. Spanish variant tells the same story about his dad from a car.",
+    "why": "First-person disease stakes plus a health-fear curiosity gap; foamy-urine sufferers are a high-anxiety, underserved search audience, and the 'doctors have nothing for you long-term' frame positions pumpkin seed oil as the only durable answer. Several winners never even show the product — the shop link converts.",
+    "sound": "",
+    "videos": 12,
+    "sales": 71586,
+    "views": 4097488,
+    "winners": [
+     {
+      "id": "7572342779632782622",
+      "handle": "tap2own",
+      "views": 1166527,
+      "sales": 19577,
+      "url": "https://www.tiktok.com/@tap2own/video/7572342779632782622"
+     },
+     {
+      "id": "7574910960935161118",
+      "handle": "tap2own",
+      "views": 762162,
+      "sales": 13173,
+      "url": "https://www.tiktok.com/@tap2own/video/7574910960935161118"
+     },
+     {
+      "id": "7582719022832176397",
+      "handle": "tap2own",
+      "views": 486041,
+      "sales": 7997,
+      "url": "https://www.tiktok.com/@tap2own/video/7582719022832176397"
+     }
+    ]
+   },
+   {
+    "name": "Credentialed-expert science hook — 'I'm a cancer researcher / pharmacist, here's why it works'",
+    "badge": "🌱 Rising",
+    "hook": "The expert opens with the question ('Why is pumpkin seed oil so phenomenal for hair thinning?') while the credential is visible in-frame — scrubs, white lab coat, university staff ID badge overlay, pharmacy aisle, or salon + 'as a hairstylist of 15 years' — with captions like 'From a Cancer Researcher'. Body: study screenshots, DHT follicle diagrams, numbered benefit panels, finger pointing at pouch claims.",
+    "why": "Borrowed institutional trust de-risks the purchase; real study screenshots and mechanism diagrams make the viewer feel they're receiving medical advice rather than an ad. Recent members are among the fastest earners (126 and 66 GMV/day) — demand for credibility is rising.",
+    "sound": "",
+    "videos": 7,
+    "sales": 47764,
+    "views": 1901514,
+    "winners": [
+     {
+      "id": "7580103369235107103",
+      "handle": "janaleann22",
+      "views": 686376,
+      "sales": 15213,
+      "url": "https://www.tiktok.com/@janaleann22/video/7580103369235107103"
+     },
+     {
+      "id": "7522926414320946462",
+      "handle": "drew.review1",
+      "views": 238170,
+      "sales": 7990,
+      "url": "https://www.tiktok.com/@drew.review1/video/7522926414320946462"
+     },
+     {
+      "id": "7599082832039824670",
+      "handle": "rphreviews",
+      "views": 471709,
+      "sales": 6595,
+      "url": "https://www.tiktok.com/@rphreviews/video/7599082832039824670"
+     }
+    ]
+   },
+   {
+    "name": "Skeptic's category takedown — 'pumpkin seed oil scam / what nobody tells you' honest review",
+    "badge": "🏆 Proven",
+    "hook": "Creator opens AGAINST the product or as a neutral tester: 'Pumpkin seed oil is a scam for hair regrowth in most cases — I'll explain why', 'PLEASE be careful with pumpkin seed oil… don't make this mistake', '6 months on this crap — here's what nobody tells you', or a deadpan '5-month on/off shedding test'.",
+    "why": "Anti-sell hooks defuse ad fatigue — the viewer leans in expecting a takedown, so the 'right way / right product' resolution lands as earned advice; quality criteria (cold-pressed, with saw palmetto, properly dosed, no fillers) become the viewer's buying checklist.",
+    "sound": "",
+    "videos": 5,
+    "sales": 29924,
+    "views": 1025555,
+    "winners": [
+     {
+      "id": "7557187056141634829",
+      "handle": "accordingtojules",
+      "views": 226528,
+      "sales": 9177,
+      "url": "https://www.tiktok.com/@accordingtojules/video/7557187056141634829"
+     },
+     {
+      "id": "7547109509798300958",
+      "handle": "meobstaf",
+      "views": 287683,
+      "sales": 8151,
+      "url": "https://www.tiktok.com/@meobstaf/video/7547109509798300958"
+     },
+     {
+      "id": "7615031945986182430",
+      "handle": "queenc_707",
+      "views": 156626,
+      "sales": 4845,
+      "url": "https://www.tiktok.com/@queenc_707/video/7615031945986182430"
+     }
+    ]
+   },
+   {
+    "name": "Midlife menopause/PCOS testimonial — 'I'm 51, in menopause, and this is my natural hair'",
+    "badge": "🏆 Proven",
+    "hook": "A visibly 45+ woman opens with her age/stage while gathering her hair to show thickness ('I'm 51, in menopause for two years, and this is my natural hair'), calls the audience out with a symptom checklist ('You're a PCOS girly or in perimenopause and experiencing this, this or this' + chin-hair / shed-clump photo insets), or relays her pharmacist's advice about night urination.",
+    "why": "Menopausal women see themselves nowhere in beauty content; an age-matched peer with visibly thick hair is instant proof it works on THEIR hormones, and the symptom inserts name what they privately google. Menopause is a 13-video audience with above-median revenue in this dataset.",
+    "sound": "",
+    "videos": 4,
+    "sales": 24080,
+    "views": 906262,
+    "winners": [
+     {
+      "id": "7579069461186039053",
+      "handle": "marciecoltman",
+      "views": 362160,
+      "sales": 8089,
+      "url": "https://www.tiktok.com/@marciecoltman/video/7579069461186039053"
+     },
+     {
+      "id": "7525666856695270686",
+      "handle": "frugal__living",
+      "views": 194297,
+      "sales": 6935,
+      "url": "https://www.tiktok.com/@frugal__living/video/7525666856695270686"
+     },
+     {
+      "id": "7583547936773098783",
+      "handle": "mrspicklesmom",
+      "views": 219620,
+      "sales": 5143,
+      "url": "https://www.tiktok.com/@mrspicklesmom/video/7583547936773098783"
+     }
+    ]
+   },
+   {
+    "name": "Spanish-language nurse-practitioner prop-demo explainer",
+    "badge": "🌱 Rising",
+    "hook": "A bearded NP in scrubs with a stethoscope opens in Spanish — '¿Estás perdiendo cabello?' / 'Si ves espuma en el inodoro, no lo ignores' — while handling a physical prop in the first seconds: an anatomical scalp-follicle model he points at, a knife slicing a softgel open so the oil spills out, or a foamy-urine inset photo.",
+    "why": "The US Spanish-speaking supplement audience is badly underserved; a medical authority speaking their language plus tactile physical demos produces the dataset's highest GMV/day (329, 174, 85) on its NEWEST videos — this is the fastest-rising signal in the tier.",
+    "sound": "",
+    "videos": 3,
+    "sales": 16234,
+    "views": 840083,
+    "winners": [
+     {
+      "id": "7641063002795461918",
+      "handle": "marketerohispano",
+      "views": 400170,
+      "sales": 7242,
+      "url": "https://www.tiktok.com/@marketerohispano/video/7641063002795461918"
+     },
+     {
+      "id": "7622715657603403038",
+      "handle": "marketerohispano",
+      "views": 263520,
+      "sales": 6032,
+      "url": "https://www.tiktok.com/@marketerohispano/video/7622715657603403038"
+     },
+     {
+      "id": "7642793447795051807",
+      "handle": "marketerohispano",
+      "views": 176393,
+      "sales": 2960,
+      "url": "https://www.tiktok.com/@marketerohispano/video/7642793447795051807"
+     }
+    ]
+   }
+  ],
+  "2": [
+   {
+    "name": "'Want long? This. Want thick? This. Both? Take both' conditional product matchmaker",
+    "badge": "🌱 Rising",
+    "hook": "Creator holds the bottle(s) up beside her face or pours liquid onto a spoon in the first second, and delivers a rapid conditional read: 'If you want longer hair, take this. If you want thicker hair, take this. If you want both, take both' — sometimes symptom-led ('if your hair comes out in clumps like THIS...') with shed-hair or thinning-hairline overlays. Caption reinforces: 'cheat code for longer AND thicker hair'.",
+    "why": "It removes the buying decision: the viewer self-diagnoses into a product in under five seconds, and the instant product reveal filters for purchase intent rather than entertainment. The same script has been re-shot by 8+ creators and keeps producing $100k+ videos.",
+    "sound": "",
+    "videos": 15,
+    "sales": 1049700,
+    "views": 21136167,
+    "winners": [
+     {
+      "id": "7593590509432507678",
+      "handle": "court.thefitmama",
+      "views": 5012668,
+      "sales": 256075,
+      "url": "https://www.tiktok.com/@court.thefitmama/video/7593590509432507678"
+     },
+     {
+      "id": "7595775098024447246",
+      "handle": "thegregglifeofkelly",
+      "views": 5084871,
+      "sales": 248881,
+      "url": "https://www.tiktok.com/@thegregglifeofkelly/video/7595775098024447246"
+     },
+     {
+      "id": "7609464796475444511",
+      "handle": "molly.on.the.mic",
+      "views": 3860908,
+      "sales": 185146,
+      "url": "https://www.tiktok.com/@molly.on.the.mic/video/7609464796475444511"
+     }
+    ]
+   },
+   {
+    "name": "Hair-flip before/after testimonial ('look what this did to my hair')",
+    "badge": "🔥 Hot right now",
+    "hook": "First frame is the RESULT: creator flips, brushes, unclips or runs hands through visibly long, thick hair while a caption teases the cause ('what taking 2 gummies a day did to my hair'), then a dated before-photo inset or split-screen lands the transformation; story credits the supplement, often ending on label close-ups.",
+    "why": "The hair itself is the scroll-stopper and the proof — a claim you can see in one second. Dated before/after receipts convert skepticism into purchase, and the format works from 6-second music cuts to 2-minute stories, in English and Spanish.",
+    "sound": "",
+    "videos": 34,
+    "sales": 770587,
+    "views": 23990572,
+    "winners": [
+     {
+      "id": "7639143149629164813",
+      "handle": "loganne111",
+      "views": 1106791,
+      "sales": 82451,
+      "url": "https://www.tiktok.com/@loganne111/video/7639143149629164813"
+     },
+     {
+      "id": "7566799301041458446",
+      "handle": "thegregglifeofkelly",
+      "views": 1503384,
+      "sales": 76337,
+      "url": "https://www.tiktok.com/@thegregglifeofkelly/video/7566799301041458446"
+     },
+     {
+      "id": "7612559066400869646",
+      "handle": "carolinaa550",
+      "views": 3849190,
+      "sales": 70405,
+      "url": "https://www.tiktok.com/@carolinaa550/video/7612559066400869646"
+     }
+    ]
+   },
+   {
+    "name": "Men's prostate / andropause symptom checklist with physical props",
+    "badge": "🌱 Rising",
+    "hook": "A blunt, taboo-busting symptom read aimed at men 40+ — 'swollen prostate, dribbling, staining your britches, up all night peeing' — sold with physical props in the first seconds: stained boxer briefs held to camera, anatomical prostate models, a dribbling garden hose, beets and soft chews; sometimes a lab-coated Nurse Practitioner, sometimes a wife calling out her husband.",
+    "why": "It names embarrassing symptoms nobody says out loud, so the target feels personally seen; the visual props make an invisible internal problem concrete, and the chew format plus mechanism talk gives a face-saving fix.",
+    "sound": "",
+    "videos": 12,
+    "sales": 380058,
+    "views": 10854394,
+    "winners": [
+     {
+      "id": "7630117163457596702",
+      "handle": "aa.ron.savingclub",
+      "views": 2121023,
+      "sales": 66433,
+      "url": "https://www.tiktok.com/@aa.ron.savingclub/video/7630117163457596702"
+     },
+     {
+      "id": "7618035895555394846",
+      "handle": "marketerohispano",
+      "views": 1212954,
+      "sales": 49626,
+      "url": "https://www.tiktok.com/@marketerohispano/video/7618035895555394846"
+     },
+     {
+      "id": "7617689392529870110",
+      "handle": "theaustinbrown",
+      "views": 1366628,
+      "sales": 38294,
+      "url": "https://www.tiktok.com/@theaustinbrown/video/7617689392529870110"
+     }
+    ]
+   },
+   {
+    "name": "'It's a wig' reply-to-comment proof demo (skeptic & counterfeit crusher)",
+    "badge": "🌱 Rising",
+    "hook": "Opens on the doubting comment pinned on screen ('wig', 'pretty sure you have extensions', 'you're supposed to shake it', 'I took them and nothing happened') and immediately disproves it on camera: aggressive brushing showing a clean brush, tugging hair at the root, dated before/after receipts, or fake-vs-real bottle side-by-sides for counterfeit warnings.",
+    "why": "Objection-handling theater: answering one skeptic answers every silent skeptic in the audience, and the comment hook reads as community, not advertising. The counterfeit variant adds 'buy only the official listing' urgency that funnels sales to our store.",
+    "sound": "",
+    "videos": 13,
+    "sales": 295273,
+    "views": 11551692,
+    "winners": [
+     {
+      "id": "7623423377654566158",
+      "handle": "ragdollmanor",
+      "views": 2047170,
+      "sales": 41203,
+      "url": "https://www.tiktok.com/@ragdollmanor/video/7623423377654566158"
+     },
+     {
+      "id": "7551968354970406175",
+      "handle": "bellezaycrecimiento",
+      "views": 2070537,
+      "sales": 37799,
+      "url": "https://www.tiktok.com/@bellezaycrecimiento/video/7551968354970406175"
+     },
+     {
+      "id": "7609917551958658317",
+      "handle": "lalatellsitall",
+      "views": 657281,
+      "sales": 34285,
+      "url": "https://www.tiktok.com/@lalatellsitall/video/7609917551958658317"
+     }
+    ]
+   },
+   {
+    "name": "GLP-1 side-effect rescue stack (news-reaction + audience callout)",
+    "badge": "🌱 Rising",
+    "hook": "Either a green-screen news clip ('FDA has issued a warning letter to the maker of Ozempic...') with the creator pointing at the headline, or a direct callout — holding up a GLP-1 syringe, 'if you don't want to go bald on a GLP like I almost did' — followed by celebrity 'Ozempic face' photos, shedding-hair proof, and a 2-3 pouch supplement stack reveal that includes pumpkin seed oil.",
+    "why": "It borrows institutional urgency (FDA, news anchors, celebrity photos) to validate a fear the GLP-1 audience already has, then sells the fix as a stack — which lifts average order value. GLP-1 users are a fast-growing, high-spend audience.",
+    "sound": "",
+    "videos": 10,
+    "sales": 276994,
+    "views": 4979187,
+    "winners": [
+     {
+      "id": "7619342001007234334",
+      "handle": "shopbyjake",
+      "views": 1773124,
+      "sales": 89294,
+      "url": "https://www.tiktok.com/@shopbyjake/video/7619342001007234334"
+     },
+     {
+      "id": "7579065328718728479",
+      "handle": "shopbyjake",
+      "views": 1059211,
+      "sales": 65795,
+      "url": "https://www.tiktok.com/@shopbyjake/video/7579065328718728479"
+     },
+     {
+      "id": "7585419965558213902",
+      "handle": "holisticglpgirly",
+      "views": 433404,
+      "sales": 28382,
+      "url": "https://www.tiktok.com/@holisticglpgirly/video/7585419965558213902"
+     }
+    ]
+   },
+   {
+    "name": "'X inches by [deadline]' seasonal growth promise",
+    "badge": "🔥 Hot right now",
+    "hook": "Creator flips or shows off long hair while making a dated, numeric promise in the first line and caption: 'How to grow your hair 5 inches by August / down to your butt by summer / 3 inches by March 1st' — then walks the routine with a before-photo inset and label close-ups.",
+    "why": "A number plus a deadline turns a vague aspiration into a concrete plan the viewer can start today; seasonal anchors (summer, Christmas, Valentine's) create natural urgency and re-shootable evergreen variants every quarter.",
+    "sound": "",
+    "videos": 13,
+    "sales": 218449,
+    "views": 9151539,
+    "winners": [
+     {
+      "id": "7600474743241805070",
+      "handle": "jadensfavorites",
+      "views": 1719429,
+      "sales": 34406,
+      "url": "https://www.tiktok.com/@jadensfavorites/video/7600474743241805070"
+     },
+     {
+      "id": "7626542903636069646",
+      "handle": "morgankaprice",
+      "views": 408105,
+      "sales": 24205,
+      "url": "https://www.tiktok.com/@morgankaprice/video/7626542903636069646"
+     },
+     {
+      "id": "7613871810479770911",
+      "handle": "posh.wellness",
+      "views": 372845,
+      "sales": 20744,
+      "url": "https://www.tiktok.com/@posh.wellness/video/7613871810479770911"
+     }
+    ]
+   },
+   {
+    "name": "'Read the bottle' wrong-way comedy skit",
+    "badge": "🏆 Proven",
+    "hook": "A character visibly misuses the product in the opening seconds — squeezing the liquid supplement onto her scalp, spreading hair vitamins on toast like syrup, a barber roasting a balding client — while a narrator or second character reacts ('Ma'am, what are you doing?'), then corrects to the right way and the real mechanism.",
+    "why": "The absurd misuse is a pattern-interrupt that earns the watch, and the 'correction' delivers product education (it works from the inside) without feeling like an ad.",
+    "sound": "",
+    "videos": 5,
+    "sales": 92325,
+    "views": 2418016,
+    "winners": [
+     {
+      "id": "7604288921366777101",
+      "handle": "mzbeesays",
+      "views": 961197,
+      "sales": 39709,
+      "url": "https://www.tiktok.com/@mzbeesays/video/7604288921366777101"
+     },
+     {
+      "id": "7623137100245781790",
+      "handle": "kaileyannashop",
+      "views": 410874,
+      "sales": 19368,
+      "url": "https://www.tiktok.com/@kaileyannashop/video/7623137100245781790"
+     },
+     {
+      "id": "7601908906671099166",
+      "handle": "bbellabianca",
+      "views": 381764,
+      "sales": 16054,
+      "url": "https://www.tiktok.com/@bbellabianca/video/7601908906671099166"
+     }
+    ]
+   }
+  ],
+  "3": [
+   {
+    "name": "Celebrity-clip reaction explainer",
+    "badge": "🏆 Proven",
+    "hook": "Creator leans into the camera reacting to breaking celebrity news ('Kourtney Kardashian just said this on live TV...') with a paparazzi photo overlay and a curiosity-gap caption like \"It's not plastic surgery\"; the next 2-3 minutes stack celebrity interview clips, expert podcast clips and research screenshots before a very late product reveal (2-3+ minutes in).",
+    "why": "Borrowed celebrity fame stops the scroll, and the long receipt-stacking build (celebrity, then expert, then studies) filters in only hooked viewers — this angle contains the tier's biggest earner at $586k and 5.2k/day.",
+    "sound": "",
+    "videos": 3,
+    "sales": 834129,
+    "views": 49702556,
+    "winners": [
+     {
+      "id": "7607649240646487327",
+      "handle": "thehealthandwellnesspro",
+      "views": 34506203,
+      "sales": 586226,
+      "url": "https://www.tiktok.com/@thehealthandwellnesspro/video/7607649240646487327"
+     },
+     {
+      "id": "7596440547460418830",
+      "handle": "alxndr.reviews",
+      "views": 13209021,
+      "sales": 195365,
+      "url": "https://www.tiktok.com/@alxndr.reviews/video/7596440547460418830"
+     },
+     {
+      "id": "7600926217277132063",
+      "handle": "clint.weightlosscoach",
+      "views": 1987332,
+      "sales": 52538,
+      "url": "https://www.tiktok.com/@clint.weightlosscoach/video/7600926217277132063"
+     }
+    ]
+   },
+   {
+    "name": "Body-pointing 'you're not fat' symptom checklist",
+    "badge": "🏆 Proven",
+    "hook": "Creator points at their own chin / belly / love handles in rhythm with 'if you got this, this, or this...' while cartoon diagrams of each body area pop on screen, then flips the blame: 'you're not fat, you just have [hidden cause]'. Two members run the identical script as a faceless CGI skeleton character.",
+    "why": "It absolves the viewer of blame for embarrassing visible symptoms, and the this-this-this cadence with cartoon overlays makes everyone self-diagnose inside the first 5 seconds.",
+    "sound": "",
+    "videos": 7,
+    "sales": 530547,
+    "views": 42416333,
+    "winners": [
+     {
+      "id": "7614002030184566047",
+      "handle": "carly_unfiltered",
+      "views": 18484209,
+      "sales": 220691,
+      "url": "https://www.tiktok.com/@carly_unfiltered/video/7614002030184566047"
+     },
+     {
+      "id": "7622429525086932238",
+      "handle": "chrisorb",
+      "views": 6507303,
+      "sales": 87052,
+      "url": "https://www.tiktok.com/@chrisorb/video/7622429525086932238"
+     },
+     {
+      "id": "7603522730188623117",
+      "handle": "naturalsalud97",
+      "views": 4042653,
+      "sales": 53879,
+      "url": "https://www.tiktok.com/@naturalsalud97/video/7603522730188623117"
+     }
+    ]
+   },
+   {
+    "name": "Credentialed expert 'how to take it / what happens after a month'",
+    "badge": "🏆 Proven",
+    "hook": "White-coated expert opens with the credential plus a promise — 'Here's how to take magnesium the right way. I'm a pharmacist' / 'If you take it for one month straight, here's what you'll experience. I'm a cancer researcher' — flashing an ID badge or license verification on screen, then walks through PubMed screenshots before a late product reveal.",
+    "why": "A verified credential (badge shown, not just claimed) plus research receipts converts skeptical higher-intent buyers at strong GPMs; four members, consistent revenue, though velocity is aging.",
+    "sound": "",
+    "videos": 4,
+    "sales": 265923,
+    "views": 15308607,
+    "winners": [
+     {
+      "id": "7584490494177152287",
+      "handle": "adoseofwellness",
+      "views": 6647091,
+      "sales": 96888,
+      "url": "https://www.tiktok.com/@adoseofwellness/video/7584490494177152287"
+     },
+     {
+      "id": "7578355445631356174",
+      "handle": "drew.review",
+      "views": 2805690,
+      "sales": 83589,
+      "url": "https://www.tiktok.com/@drew.review/video/7578355445631356174"
+     },
+     {
+      "id": "7569758846734961934",
+      "handle": "drew.review",
+      "views": 3241394,
+      "sales": 45932,
+      "url": "https://www.tiktok.com/@drew.review/video/7569758846734961934"
+     }
+    ]
+   },
+   {
+    "name": "Symptom-to-ingredient matchmaker with prop demo",
+    "badge": "🏆 Proven",
+    "hook": "Rapid-fire 'if you have X, you need Y' where every symptom gets matched to a specific ingredient or form — delivered either by a nurse pouring different colored liquids into cups to represent each form, or as faceless gloved hands circling answers on a printed symptom chart with an orange marker.",
+    "why": "Everyone finds their own symptom in the list, the prop makes invisible chemistry feel concrete, and it sets up an 'all-in-one' close that beats buying six bottles — both members sit at the top of the revenue percentiles.",
+    "sound": "",
+    "videos": 2,
+    "sales": 263000,
+    "views": 16976612,
+    "winners": [
+     {
+      "id": "7615482389581597982",
+      "handle": "carly_unfiltered",
+      "views": 14239941,
+      "sales": 173354,
+      "url": "https://www.tiktok.com/@carly_unfiltered/video/7615482389581597982"
+     },
+     {
+      "id": "7592476742405606711",
+      "handle": "jovietrove",
+      "views": 2736671,
+      "sales": 89646,
+      "url": "https://www.tiktok.com/@jovietrove/video/7592476742405606711"
+     }
+    ]
+   },
+   {
+    "name": "15-30s before/after reveal (POV + trending audio)",
+    "badge": "🌱 Rising",
+    "hook": "Opens dead on the 'before' — a close-up of acne, a bloated-belly pout in the car, a stressed physique in the gym mirror — with a one-line POV caption ('POV: you start taking magnesium and this happens...'), then hard-cuts to the after and flashes the bottle only in the last seconds.",
+    "why": "Visible proof in under 30 seconds; the POV caption + music format feels native and costs almost nothing to produce — all three members are recent and earning 800-1,100/day.",
+    "sound": "",
+    "videos": 3,
+    "sales": 175815,
+    "views": 12691424,
+    "winners": [
+     {
+      "id": "7625743434262859038",
+      "handle": "nesty.mulet",
+      "views": 4977221,
+      "sales": 69598,
+      "url": "https://www.tiktok.com/@nesty.mulet/video/7625743434262859038"
+     },
+     {
+      "id": "7628265642319203598",
+      "handle": "atziryttfinds",
+      "views": 4434990,
+      "sales": 57949,
+      "url": "https://www.tiktok.com/@atziryttfinds/video/7628265642319203598"
+     },
+     {
+      "id": "7626953784857464078",
+      "handle": "selfcarewithyuliana",
+      "views": 3279213,
+      "sales": 48268,
+      "url": "https://www.tiktok.com/@selfcarewithyuliana/video/7626953784857464078"
+     }
+    ]
+   },
+   {
+    "name": "Deal-drop urgency open",
+    "badge": "🏆 Proven",
+    "hook": "Opens directly on the deal: creator walks in holding the bottle or a multi-box stash — 'this is so cheap right now' — with a persistent caption like 'This company is giving y'all $40.00 idk how long it will last!', a quick personal-results riff, then a point at the cart.",
+    "why": "Zero-windup price anchoring catches deal shoppers, and the persistent discount caption sells even on mute. Weakest signal in the tier: only two members and one is old and slowing.",
+    "sound": "",
+    "videos": 2,
+    "sales": 157367,
+    "views": 10862001,
+    "winners": [
+     {
+      "id": "7548149756921400607",
+      "handle": "icez_the_infinite",
+      "views": 6874093,
+      "sales": 96073,
+      "url": "https://www.tiktok.com/@icez_the_infinite/video/7548149756921400607"
+     },
+     {
+      "id": "7619802805255146765",
+      "handle": "jenny_claross",
+      "views": 3987908,
+      "sales": 61294,
+      "url": "https://www.tiktok.com/@jenny_claross/video/7619802805255146765"
+     }
+    ]
+   },
+   {
+    "name": "Contrarian 'do NOT take this' warning",
+    "badge": "",
+    "hook": "A negative open that reads like a warning — a deadpan still pose with 'Do NOT take magnesium.....' on screen, 'side effects of NMN nobody's talking about', or replying to a comment with 'I do NOT take it anymore' — held just long enough to create suspense, then flipped: every 'side effect' is actually a benefit, or the warning ends in 'unless you want results'.",
+    "why": "The contrarian frame breaks the wall of identical hype videos and weaponizes curiosity; the flip converts suspense into a stronger endorsement than a straight pitch.",
+    "sound": "",
+    "videos": 3,
+    "sales": 143164,
+    "views": 6494826,
+    "winners": [
+     {
+      "id": "7602500292676029727",
+      "handle": "shopbyjake",
+      "views": 1731130,
+      "sales": 54496,
+      "url": "https://www.tiktok.com/@shopbyjake/video/7602500292676029727"
+     },
+     {
+      "id": "7606696468455460127",
+      "handle": "evewellness1",
+      "views": 2268337,
+      "sales": 51141,
+      "url": "https://www.tiktok.com/@evewellness1/video/7606696468455460127"
+     },
+     {
+      "id": "7616154719022599455",
+      "handle": "bskee28",
+      "views": 2495359,
+      "sales": 37527,
+      "url": "https://www.tiktok.com/@bskee28/video/7616154719022599455"
+     }
+    ]
+   },
+   {
+    "name": "Doctor-patient diagnosis skit",
+    "badge": "🌱 Rising",
+    "hook": "One creator plays both roles: a scrubs-and-surgical-cap 'doctor' consults a patient confessing embarrassing symptoms ('I keep waking up at night...'), comedic cartoon overlays illustrate each problem, and the doctor lands the diagnosis and 'prescribes' the product mid-video.",
+    "why": "Comedy buys the watch time while the consult structure smuggles in a full symptom checklist plus implied medical authority; both members are under 60 days old and earning ~1k/day.",
+    "sound": "",
+    "videos": 2,
+    "sales": 106816,
+    "views": 7734830,
+    "winners": [
+     {
+      "id": "7627937077375536398",
+      "handle": "tumejorsalud97",
+      "views": 4669917,
+      "sales": 62384,
+      "url": "https://www.tiktok.com/@tumejorsalud97/video/7627937077375536398"
+     },
+     {
+      "id": "7631339589994646797",
+      "handle": "tumejorsalud97",
+      "views": 3064913,
+      "sales": 44432,
+      "url": "https://www.tiktok.com/@tumejorsalud97/video/7631339589994646797"
+     }
+    ]
+   }
+  ]
+ },
+ "videos": [
+  {
+   "id": "7607649240646487327",
+   "handle": "thehealthandwellnesspro",
+   "views": 34506203,
+   "sales": 586226,
+   "date": "2026-02-16",
+   "tier": "3",
+   "angle": "Celebrity-clip reaction explainer",
+   "url": "https://www.tiktok.com/@thehealthandwellnesspro/video/7607649240646487327"
+  },
+  {
+   "id": "7593590509432507678",
+   "handle": "court.thefitmama",
+   "views": 5012668,
+   "sales": 256075,
+   "date": "2026-01-09",
+   "tier": "2",
+   "angle": "'Want long? This. Want thick? This. Both? Take both' conditional product matchmaker",
+   "url": "https://www.tiktok.com/@court.thefitmama/video/7593590509432507678"
+  },
+  {
+   "id": "7595775098024447246",
+   "handle": "thegregglifeofkelly",
+   "views": 5084871,
+   "sales": 248881,
+   "date": "2026-01-15",
+   "tier": "2",
+   "angle": "'Want long? This. Want thick? This. Both? Take both' conditional product matchmaker",
+   "url": "https://www.tiktok.com/@thegregglifeofkelly/video/7595775098024447246"
+  },
+  {
+   "id": "7614002030184566047",
+   "handle": "carly_unfiltered",
+   "views": 18484209,
+   "sales": 220691,
+   "date": "2026-03-05",
+   "tier": "3",
+   "angle": "Body-pointing 'you're not fat' symptom checklist",
+   "url": "https://www.tiktok.com/@carly_unfiltered/video/7614002030184566047"
+  },
+  {
+   "id": "7596440547460418830",
+   "handle": "alxndr.reviews",
+   "views": 13209021,
+   "sales": 195365,
+   "date": "2026-01-17",
+   "tier": "3",
+   "angle": "Celebrity-clip reaction explainer",
+   "url": "https://www.tiktok.com/@alxndr.reviews/video/7596440547460418830"
+  },
+  {
+   "id": "7609464796475444511",
+   "handle": "molly.on.the.mic",
+   "views": 3860908,
+   "sales": 185146,
+   "date": "2026-02-21",
+   "tier": "2",
+   "angle": "'Want long? This. Want thick? This. Both? Take both' conditional product matchmaker",
+   "url": "https://www.tiktok.com/@molly.on.the.mic/video/7609464796475444511"
+  },
+  {
+   "id": "7615482389581597982",
+   "handle": "carly_unfiltered",
+   "views": 14239941,
+   "sales": 173354,
+   "date": "2026-03-10",
+   "tier": "3",
+   "angle": "Symptom-to-ingredient matchmaker with prop demo",
+   "url": "https://www.tiktok.com/@carly_unfiltered/video/7615482389581597982"
+  },
+  {
+   "id": "7599015666204577037",
+   "handle": "alexandrasfinds1",
+   "views": 2207486,
+   "sales": 107975,
+   "date": "2026-01-24",
+   "tier": "2",
+   "angle": "'Want long? This. Want thick? This. Both? Take both' conditional product matchmaker",
+   "url": "https://www.tiktok.com/@alexandrasfinds1/video/7599015666204577037"
+  },
+  {
+   "id": "7584490494177152287",
+   "handle": "adoseofwellness",
+   "views": 6647091,
+   "sales": 96888,
+   "date": "2025-12-16",
+   "tier": "3",
+   "angle": "Credentialed expert 'how to take it / what happens after a month'",
+   "url": "https://www.tiktok.com/@adoseofwellness/video/7584490494177152287"
+  },
+  {
+   "id": "7548149756921400607",
+   "handle": "icez_the_infinite",
+   "views": 6874093,
+   "sales": 96073,
+   "date": "2025-09-09",
+   "tier": "3",
+   "angle": "Deal-drop urgency open",
+   "url": "https://www.tiktok.com/@icez_the_infinite/video/7548149756921400607"
+  },
+  {
+   "id": "7592476742405606711",
+   "handle": "jovietrove",
+   "views": 2736671,
+   "sales": 89646,
+   "date": "2026-01-06",
+   "tier": "3",
+   "angle": "Symptom-to-ingredient matchmaker with prop demo",
+   "url": "https://www.tiktok.com/@jovietrove/video/7592476742405606711"
+  },
+  {
+   "id": "7619342001007234334",
+   "handle": "shopbyjake",
+   "views": 1773124,
+   "sales": 89294,
+   "date": "2026-03-20",
+   "tier": "2",
+   "angle": "GLP-1 side-effect rescue stack (news-reaction + audience callout)",
+   "url": "https://www.tiktok.com/@shopbyjake/video/7619342001007234334"
+  },
+  {
+   "id": "7622429525086932238",
+   "handle": "chrisorb",
+   "views": 6507303,
+   "sales": 87052,
+   "date": "2026-03-28",
+   "tier": "3",
+   "angle": "Body-pointing 'you're not fat' symptom checklist",
+   "url": "https://www.tiktok.com/@chrisorb/video/7622429525086932238"
+  },
+  {
+   "id": "7578355445631356174",
+   "handle": "drew.review",
+   "views": 2805690,
+   "sales": 83589,
+   "date": "2025-11-29",
+   "tier": "3",
+   "angle": "Credentialed expert 'how to take it / what happens after a month'",
+   "url": "https://www.tiktok.com/@drew.review/video/7578355445631356174"
+  },
+  {
+   "id": "7639143149629164813",
+   "handle": "loganne111",
+   "views": 1106791,
+   "sales": 82451,
+   "date": "2026-05-12",
+   "tier": "2",
+   "angle": "Hair-flip before/after testimonial ('look what this did to my hair')",
+   "url": "https://www.tiktok.com/@loganne111/video/7639143149629164813"
+  },
+  {
+   "id": "7566799301041458446",
+   "handle": "thegregglifeofkelly",
+   "views": 1503384,
+   "sales": 76337,
+   "date": "2025-10-30",
+   "tier": "2",
+   "angle": "Hair-flip before/after testimonial ('look what this did to my hair')",
+   "url": "https://www.tiktok.com/@thegregglifeofkelly/video/7566799301041458446"
+  },
+  {
+   "id": "7612559066400869646",
+   "handle": "carolinaa550",
+   "views": 3849190,
+   "sales": 70405,
+   "date": "2026-03-02",
+   "tier": "2",
+   "angle": "Hair-flip before/after testimonial ('look what this did to my hair')",
+   "url": "https://www.tiktok.com/@carolinaa550/video/7612559066400869646"
+  },
+  {
+   "id": "7625743434262859038",
+   "handle": "nesty.mulet",
+   "views": 4977221,
+   "sales": 69598,
+   "date": "2026-04-06",
+   "tier": "3",
+   "angle": "15-30s before/after reveal (POV + trending audio)",
+   "url": "https://www.tiktok.com/@nesty.mulet/video/7625743434262859038"
+  },
+  {
+   "id": "7597455107491450142",
+   "handle": "beautypickshub",
+   "views": 1319778,
+   "sales": 68650,
+   "date": "2026-01-20",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@beautypickshub/video/7597455107491450142"
+  },
+  {
+   "id": "7630117163457596702",
+   "handle": "aa.ron.savingclub",
+   "views": 2121023,
+   "sales": 66433,
+   "date": "2026-04-18",
+   "tier": "2",
+   "angle": "Men's prostate / andropause symptom checklist with physical props",
+   "url": "https://www.tiktok.com/@aa.ron.savingclub/video/7630117163457596702"
+  },
+  {
+   "id": "7579065328718728479",
+   "handle": "shopbyjake",
+   "views": 1059211,
+   "sales": 65795,
+   "date": "2025-12-01",
+   "tier": "2",
+   "angle": "GLP-1 side-effect rescue stack (news-reaction + audience callout)",
+   "url": "https://www.tiktok.com/@shopbyjake/video/7579065328718728479"
+  },
+  {
+   "id": "7586543468705549598",
+   "handle": "myttsfindsss",
+   "views": 1257619,
+   "sales": 64389,
+   "date": "2025-12-22",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@myttsfindsss/video/7586543468705549598"
+  },
+  {
+   "id": "7627937077375536398",
+   "handle": "tumejorsalud97",
+   "views": 4669917,
+   "sales": 62384,
+   "date": "2026-04-12",
+   "tier": "3",
+   "angle": "Doctor-patient diagnosis skit",
+   "url": "https://www.tiktok.com/@tumejorsalud97/video/7627937077375536398"
+  },
+  {
+   "id": "7619802805255146765",
+   "handle": "jenny_claross",
+   "views": 3987908,
+   "sales": 61294,
+   "date": "2026-03-21",
+   "tier": "3",
+   "angle": "Deal-drop urgency open",
+   "url": "https://www.tiktok.com/@jenny_claross/video/7619802805255146765"
+  },
+  {
+   "id": "7628265642319203598",
+   "handle": "atziryttfinds",
+   "views": 4434990,
+   "sales": 57949,
+   "date": "2026-04-13",
+   "tier": "3",
+   "angle": "15-30s before/after reveal (POV + trending audio)",
+   "url": "https://www.tiktok.com/@atziryttfinds/video/7628265642319203598"
+  },
+  {
+   "id": "7572712257323339022",
+   "handle": "tmoniii",
+   "views": 1082906,
+   "sales": 56761,
+   "date": "2025-11-14",
+   "tier": "2",
+   "angle": "Hair-flip before/after testimonial ('look what this did to my hair')",
+   "url": "https://www.tiktok.com/@tmoniii/video/7572712257323339022"
+  },
+  {
+   "id": "7602500292676029727",
+   "handle": "shopbyjake",
+   "views": 1731130,
+   "sales": 54496,
+   "date": "2026-02-03",
+   "tier": "3",
+   "angle": "Contrarian 'do NOT take this' warning",
+   "url": "https://www.tiktok.com/@shopbyjake/video/7602500292676029727"
+  },
+  {
+   "id": "7603522730188623117",
+   "handle": "naturalsalud97",
+   "views": 4042653,
+   "sales": 53879,
+   "date": "2026-02-05",
+   "tier": "3",
+   "angle": "Body-pointing 'you're not fat' symptom checklist",
+   "url": "https://www.tiktok.com/@naturalsalud97/video/7603522730188623117"
+  },
+  {
+   "id": "7600926217277132063",
+   "handle": "clint.weightlosscoach",
+   "views": 1987332,
+   "sales": 52538,
+   "date": "2026-01-29",
+   "tier": "3",
+   "angle": "Celebrity-clip reaction explainer",
+   "url": "https://www.tiktok.com/@clint.weightlosscoach/video/7600926217277132063"
+  },
+  {
+   "id": "7606696468455460127",
+   "handle": "evewellness1",
+   "views": 2268337,
+   "sales": 51141,
+   "date": "2026-02-14",
+   "tier": "3",
+   "angle": "Contrarian 'do NOT take this' warning",
+   "url": "https://www.tiktok.com/@evewellness1/video/7606696468455460127"
+  },
+  {
+   "id": "7618035895555394846",
+   "handle": "marketerohispano",
+   "views": 1212954,
+   "sales": 49626,
+   "date": "2026-03-16",
+   "tier": "2",
+   "angle": "Men's prostate / andropause symptom checklist with physical props",
+   "url": "https://www.tiktok.com/@marketerohispano/video/7618035895555394846"
+  },
+  {
+   "id": "7614160777800453389",
+   "handle": "tumejorsalud97",
+   "views": 3876765,
+   "sales": 49021,
+   "date": "2026-03-06",
+   "tier": "3",
+   "angle": "Body-pointing 'you're not fat' symptom checklist",
+   "url": "https://www.tiktok.com/@tumejorsalud97/video/7614160777800453389"
+  },
+  {
+   "id": "7630953285477780767",
+   "handle": "jaredsshop",
+   "views": 1106762,
+   "sales": 48628,
+   "date": "2026-04-20",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@jaredsshop/video/7630953285477780767"
+  },
+  {
+   "id": "7626953784857464078",
+   "handle": "selfcarewithyuliana",
+   "views": 3279213,
+   "sales": 48268,
+   "date": "2026-04-09",
+   "tier": "3",
+   "angle": "15-30s before/after reveal (POV + trending audio)",
+   "url": "https://www.tiktok.com/@selfcarewithyuliana/video/7626953784857464078"
+  },
+  {
+   "id": "7569758846734961934",
+   "handle": "drew.review",
+   "views": 3241394,
+   "sales": 45932,
+   "date": "2025-11-06",
+   "tier": "3",
+   "angle": "Credentialed expert 'how to take it / what happens after a month'",
+   "url": "https://www.tiktok.com/@drew.review/video/7569758846734961934"
+  },
+  {
+   "id": "7631339589994646797",
+   "handle": "tumejorsalud97",
+   "views": 3064913,
+   "sales": 44432,
+   "date": "2026-04-21",
+   "tier": "3",
+   "angle": "Doctor-patient diagnosis skit",
+   "url": "https://www.tiktok.com/@tumejorsalud97/video/7631339589994646797"
+  },
+  {
+   "id": "7625455757168839950",
+   "handle": "atziryttfinds",
+   "views": 4071799,
+   "sales": 44314,
+   "date": "2026-04-05",
+   "tier": "3",
+   "angle": "Body-pointing 'you're not fat' symptom checklist",
+   "url": "https://www.tiktok.com/@atziryttfinds/video/7625455757168839950"
+  },
+  {
+   "id": "7638817242297273613",
+   "handle": "bbellabianca",
+   "views": 1266871,
+   "sales": 43644,
+   "date": "2026-05-16",
+   "tier": "2",
+   "angle": "Hair-flip before/after testimonial ('look what this did to my hair')",
+   "url": "https://www.tiktok.com/@bbellabianca/video/7638817242297273613"
+  },
+  {
+   "id": "7562983102994238733",
+   "handle": "theallisonveer",
+   "views": 819069,
+   "sales": 42907,
+   "date": "2025-10-19",
+   "tier": "2",
+   "angle": "Hair-flip before/after testimonial ('look what this did to my hair')",
+   "url": "https://www.tiktok.com/@theallisonveer/video/7562983102994238733"
+  },
+  {
+   "id": "7603895164393835789",
+   "handle": "lalatellsitall",
+   "views": 852163,
+   "sales": 42432,
+   "date": "2026-02-07",
+   "tier": "2",
+   "angle": "Hair-flip before/after testimonial ('look what this did to my hair')",
+   "url": "https://www.tiktok.com/@lalatellsitall/video/7603895164393835789"
+  },
+  {
+   "id": "7637154036227001631",
+   "handle": "molly.on.the.mic",
+   "views": 661664,
+   "sales": 42046,
+   "date": "2026-05-07",
+   "tier": "2",
+   "angle": "'Want long? This. Want thick? This. Both? Take both' conditional product matchmaker",
+   "url": "https://www.tiktok.com/@molly.on.the.mic/video/7637154036227001631"
+  },
+  {
+   "id": "7616416595354684686",
+   "handle": "dinafbaby",
+   "views": 808361,
+   "sales": 41760,
+   "date": "2026-03-12",
+   "tier": "2",
+   "angle": "'Want long? This. Want thick? This. Both? Take both' conditional product matchmaker",
+   "url": "https://www.tiktok.com/@dinafbaby/video/7616416595354684686"
+  },
+  {
+   "id": "7623423377654566158",
+   "handle": "ragdollmanor",
+   "views": 2047170,
+   "sales": 41203,
+   "date": "2026-03-31",
+   "tier": "2",
+   "angle": "'It's a wig' reply-to-comment proof demo (skeptic & counterfeit crusher)",
+   "url": "https://www.tiktok.com/@ragdollmanor/video/7623423377654566158"
+  },
+  {
+   "id": "7604288921366777101",
+   "handle": "mzbeesays",
+   "views": 961197,
+   "sales": 39709,
+   "date": "2026-02-07",
+   "tier": "2",
+   "angle": "'Read the bottle' wrong-way comedy skit",
+   "url": "https://www.tiktok.com/@mzbeesays/video/7604288921366777101"
+  },
+  {
+   "id": "7577837944980000031",
+   "handle": "beautypickshub",
+   "views": 599915,
+   "sales": 39547,
+   "date": "2025-11-28",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@beautypickshub/video/7577837944980000031"
+  },
+  {
+   "id": "7597949779921980703",
+   "handle": "adoseofwellness",
+   "views": 2614432,
+   "sales": 39514,
+   "date": "2026-01-21",
+   "tier": "3",
+   "angle": "Credentialed expert 'how to take it / what happens after a month'",
+   "url": "https://www.tiktok.com/@adoseofwellness/video/7597949779921980703"
+  },
+  {
+   "id": "7594867426806779166",
+   "handle": "court.thefitmama",
+   "views": 738717,
+   "sales": 38744,
+   "date": "2026-01-13",
+   "tier": "2",
+   "angle": "Hair-flip before/after testimonial ('look what this did to my hair')",
+   "url": "https://www.tiktok.com/@court.thefitmama/video/7594867426806779166"
+  },
+  {
+   "id": "7612036204191681822",
+   "handle": "flawkolito",
+   "views": 2705476,
+   "sales": 38504,
+   "date": "2026-02-28",
+   "tier": "3",
+   "angle": "Body-pointing 'you're not fat' symptom checklist",
+   "url": "https://www.tiktok.com/@flawkolito/video/7612036204191681822"
+  },
+  {
+   "id": "7617689392529870110",
+   "handle": "theaustinbrown",
+   "views": 1366628,
+   "sales": 38294,
+   "date": "2026-03-16",
+   "tier": "2",
+   "angle": "Men's prostate / andropause symptom checklist with physical props",
+   "url": "https://www.tiktok.com/@theaustinbrown/video/7617689392529870110"
+  },
+  {
+   "id": "7551968354970406175",
+   "handle": "bellezaycrecimiento",
+   "views": 2070537,
+   "sales": 37799,
+   "date": "2025-09-19",
+   "tier": "2",
+   "angle": "'It's a wig' reply-to-comment proof demo (skeptic & counterfeit crusher)",
+   "url": "https://www.tiktok.com/@bellezaycrecimiento/video/7551968354970406175"
+  },
+  {
+   "id": "7616154719022599455",
+   "handle": "bskee28",
+   "views": 2495359,
+   "sales": 37527,
+   "date": "2026-03-11",
+   "tier": "3",
+   "angle": "Contrarian 'do NOT take this' warning",
+   "url": "https://www.tiktok.com/@bskee28/video/7616154719022599455"
+  },
+  {
+   "id": "7618716092348861727",
+   "handle": "elitefindzdukes",
+   "views": 2728128,
+   "sales": 37086,
+   "date": "2026-03-18",
+   "tier": "3",
+   "angle": "Body-pointing 'you're not fat' symptom checklist",
+   "url": "https://www.tiktok.com/@elitefindzdukes/video/7618716092348861727"
+  },
+  {
+   "id": "7579355979452615991",
+   "handle": "evewellness1",
+   "views": 1457936,
+   "sales": 36023,
+   "date": "2025-12-02",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@evewellness1/video/7579355979452615991"
+  },
+  {
+   "id": "7599859115350854943",
+   "handle": "clint.weightlosscoach",
+   "views": 1183092,
+   "sales": 35666,
+   "date": "2026-01-26",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@clint.weightlosscoach/video/7599859115350854943"
+  },
+  {
+   "id": "7600474743241805070",
+   "handle": "jadensfavorites",
+   "views": 1719429,
+   "sales": 34406,
+   "date": "2026-01-28",
+   "tier": "2",
+   "angle": "'X inches by [deadline]' seasonal growth promise",
+   "url": "https://www.tiktok.com/@jadensfavorites/video/7600474743241805070"
+  },
+  {
+   "id": "7609917551958658317",
+   "handle": "lalatellsitall",
+   "views": 657281,
+   "sales": 34285,
+   "date": "2026-02-22",
+   "tier": "2",
+   "angle": "'It's a wig' reply-to-comment proof demo (skeptic & counterfeit crusher)",
+   "url": "https://www.tiktok.com/@lalatellsitall/video/7609917551958658317"
+  },
+  {
+   "id": "7622145837300190478",
+   "handle": "solangecampos721",
+   "views": 2297406,
+   "sales": 33945,
+   "date": "2026-03-27",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@solangecampos721/video/7622145837300190478"
+  },
+  {
+   "id": "7616110547150425375",
+   "handle": "flawkolito",
+   "views": 2340265,
+   "sales": 33816,
+   "date": "2026-03-11",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@flawkolito/video/7616110547150425375"
+  },
+  {
+   "id": "7599055020436294967",
+   "handle": "clint.weightlosscoach",
+   "views": 1233124,
+   "sales": 33357,
+   "date": "2026-01-24",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@clint.weightlosscoach/video/7599055020436294967"
+  },
+  {
+   "id": "7601163037327904013",
+   "handle": ".dreamofhoney",
+   "views": 581215,
+   "sales": 33106,
+   "date": "2026-01-30",
+   "tier": "2",
+   "angle": "'It's a wig' reply-to-comment proof demo (skeptic & counterfeit crusher)",
+   "url": "https://www.tiktok.com/@.dreamofhoney/video/7601163037327904013"
+  },
+  {
+   "id": "7620618995787386125",
+   "handle": "lalatellsitall",
+   "views": 634210,
+   "sales": 33063,
+   "date": "2026-03-23",
+   "tier": "2",
+   "angle": "Hair-flip before/after testimonial ('look what this did to my hair')",
+   "url": "https://www.tiktok.com/@lalatellsitall/video/7620618995787386125"
+  },
+  {
+   "id": "7608798649996414238",
+   "handle": "faithfuldoc",
+   "views": 1017626,
+   "sales": 33032,
+   "date": "2026-02-19",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@faithfuldoc/video/7608798649996414238"
+  },
+  {
+   "id": "7631270952369786126",
+   "handle": "ttshopkatieb",
+   "views": 1562913,
+   "sales": 33008,
+   "date": "2026-04-21",
+   "tier": "2",
+   "angle": "'It's a wig' reply-to-comment proof demo (skeptic & counterfeit crusher)",
+   "url": "https://www.tiktok.com/@ttshopkatieb/video/7631270952369786126"
+  },
+  {
+   "id": "7611800403612634381",
+   "handle": "official.nilla",
+   "views": 600893,
+   "sales": 32314,
+   "date": "2026-02-28",
+   "tier": "2",
+   "angle": "'It's a wig' reply-to-comment proof demo (skeptic & counterfeit crusher)",
+   "url": "https://www.tiktok.com/@official.nilla/video/7611800403612634381"
+  },
+  {
+   "id": "7626133932186029325",
+   "handle": "habitossvitales",
+   "views": 2121374,
+   "sales": 31984,
+   "date": "2026-04-07",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@habitossvitales/video/7626133932186029325"
+  },
+  {
+   "id": "7608677917668756750",
+   "handle": "fit_foodie7",
+   "views": 2165301,
+   "sales": 31216,
+   "date": "2026-02-19",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@fit_foodie7/video/7608677917668756750"
+  },
+  {
+   "id": "7582391520049892638",
+   "handle": "bearthevoice3",
+   "views": 828781,
+   "sales": 31158,
+   "date": "2025-12-10",
+   "tier": "2",
+   "angle": "Men's prostate / andropause symptom checklist with physical props",
+   "url": "https://www.tiktok.com/@bearthevoice3/video/7582391520049892638"
+  },
+  {
+   "id": "7621317005072813343",
+   "handle": "thehealthandwellnesspro",
+   "views": 974871,
+   "sales": 31030,
+   "date": "2026-03-25",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@thehealthandwellnesspro/video/7621317005072813343"
+  },
+  {
+   "id": "7575743722436971806",
+   "handle": "theeshrondab",
+   "views": 564221,
+   "sales": 30538,
+   "date": "2025-11-22",
+   "tier": "2",
+   "angle": "'Want long? This. Want thick? This. Both? Take both' conditional product matchmaker",
+   "url": "https://www.tiktok.com/@theeshrondab/video/7575743722436971806"
+  },
+  {
+   "id": "7569148424658881805",
+   "handle": "drew.review",
+   "views": 2054032,
+   "sales": 30302,
+   "date": "2025-11-05",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@drew.review/video/7569148424658881805"
+  },
+  {
+   "id": "7611696665929518366",
+   "handle": "molly.on.the.mic",
+   "views": 578370,
+   "sales": 29972,
+   "date": "2026-02-27",
+   "tier": "2",
+   "angle": "'Want long? This. Want thick? This. Both? Take both' conditional product matchmaker",
+   "url": "https://www.tiktok.com/@molly.on.the.mic/video/7611696665929518366"
+  },
+  {
+   "id": "7595071601272474935",
+   "handle": "naturopathicapothecary1",
+   "views": 909843,
+   "sales": 28996,
+   "date": "2026-01-13",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@naturopathicapothecary1/video/7595071601272474935"
+  },
+  {
+   "id": "7615268558729202974",
+   "handle": "theironbodytrainer",
+   "views": 1099996,
+   "sales": 28700,
+   "date": "2026-03-09",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@theironbodytrainer/video/7615268558729202974"
+  },
+  {
+   "id": "7628313325008440590",
+   "handle": "byronactually",
+   "views": 613336,
+   "sales": 28616,
+   "date": "2026-04-13",
+   "tier": "2",
+   "angle": "Men's prostate / andropause symptom checklist with physical props",
+   "url": "https://www.tiktok.com/@byronactually/video/7628313325008440590"
+  },
+  {
+   "id": "7585419965558213902",
+   "handle": "holisticglpgirly",
+   "views": 433404,
+   "sales": 28382,
+   "date": "2025-12-18",
+   "tier": "2",
+   "angle": "GLP-1 side-effect rescue stack (news-reaction + audience callout)",
+   "url": "https://www.tiktok.com/@holisticglpgirly/video/7585419965558213902"
+  },
+  {
+   "id": "7590051578476760351",
+   "handle": "bellezaycrecimiento",
+   "views": 1521939,
+   "sales": 28134,
+   "date": "2025-12-31",
+   "tier": "2",
+   "angle": "'It's a wig' reply-to-comment proof demo (skeptic & counterfeit crusher)",
+   "url": "https://www.tiktok.com/@bellezaycrecimiento/video/7590051578476760351"
+  },
+  {
+   "id": "7617641277856795935",
+   "handle": "aa.ron.savingclub",
+   "views": 823914,
+   "sales": 26836,
+   "date": "2026-03-15",
+   "tier": "2",
+   "angle": "Men's prostate / andropause symptom checklist with physical props",
+   "url": "https://www.tiktok.com/@aa.ron.savingclub/video/7617641277856795935"
+  },
+  {
+   "id": "7581338808642227487",
+   "handle": "bearthevoice3",
+   "views": 606420,
+   "sales": 26000,
+   "date": "2025-12-07",
+   "tier": "2",
+   "angle": "Men's prostate / andropause symptom checklist with physical props",
+   "url": "https://www.tiktok.com/@bearthevoice3/video/7581338808642227487"
+  },
+  {
+   "id": "7630769829120707853",
+   "handle": "iownmarketing",
+   "views": 1900255,
+   "sales": 25324,
+   "date": "2026-04-20",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@iownmarketing/video/7630769829120707853"
+  },
+  {
+   "id": "7617660952783195423",
+   "handle": "flawkolito",
+   "views": 1663594,
+   "sales": 25163,
+   "date": "2026-03-15",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@flawkolito/video/7617660952783195423"
+  },
+  {
+   "id": "7644420557936676110",
+   "handle": "official.nilla",
+   "views": 578502,
+   "sales": 25152,
+   "date": "2026-05-27",
+   "tier": "2",
+   "angle": "Hair-flip before/after testimonial ('look what this did to my hair')",
+   "url": "https://www.tiktok.com/@official.nilla/video/7644420557936676110"
+  },
+  {
+   "id": "7581160532359548174",
+   "handle": "jeft_fit",
+   "views": 1689233,
+   "sales": 24697,
+   "date": "2025-12-07",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@jeft_fit/video/7581160532359548174"
+  },
+  {
+   "id": "7625112155691502862",
+   "handle": "mtrunnergirl",
+   "views": 374543,
+   "sales": 24697,
+   "date": "2026-04-04",
+   "tier": "2",
+   "angle": "Men's prostate / andropause symptom checklist with physical props",
+   "url": "https://www.tiktok.com/@mtrunnergirl/video/7625112155691502862"
+  },
+  {
+   "id": "7617677459370102046",
+   "handle": "shopwsopha",
+   "views": 725794,
+   "sales": 24466,
+   "date": "2026-03-15",
+   "tier": "2",
+   "angle": "Men's prostate / andropause symptom checklist with physical props",
+   "url": "https://www.tiktok.com/@shopwsopha/video/7617677459370102046"
+  },
+  {
+   "id": "7613861697727614239",
+   "handle": "dorianthabeardedman",
+   "views": 698546,
+   "sales": 24427,
+   "date": "2026-03-05",
+   "tier": "2",
+   "angle": "Men's prostate / andropause symptom checklist with physical props",
+   "url": "https://www.tiktok.com/@dorianthabeardedman/video/7613861697727614239"
+  },
+  {
+   "id": "7621680638416145695",
+   "handle": "cliplagoon",
+   "views": 1637445,
+   "sales": 24405,
+   "date": "2026-03-26",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@cliplagoon/video/7621680638416145695"
+  },
+  {
+   "id": "7598640619879255351",
+   "handle": "thegregglifeofkelly",
+   "views": 421686,
+   "sales": 24404,
+   "date": "2026-01-23",
+   "tier": "2",
+   "angle": "'Want long? This. Want thick? This. Both? Take both' conditional product matchmaker",
+   "url": "https://www.tiktok.com/@thegregglifeofkelly/video/7598640619879255351"
+  },
+  {
+   "id": "7611889778488855839",
+   "handle": "brostacked",
+   "views": 1714246,
+   "sales": 24302,
+   "date": "2026-02-28",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@brostacked/video/7611889778488855839"
+  },
+  {
+   "id": "7589109066538945806",
+   "handle": "sarastolemyname",
+   "views": 446107,
+   "sales": 24257,
+   "date": "2025-12-28",
+   "tier": "2",
+   "angle": "'Want long? This. Want thick? This. Both? Take both' conditional product matchmaker",
+   "url": "https://www.tiktok.com/@sarastolemyname/video/7589109066538945806"
+  },
+  {
+   "id": "7626542903636069646",
+   "handle": "morgankaprice",
+   "views": 408105,
+   "sales": 24205,
+   "date": "2026-04-08",
+   "tier": "2",
+   "angle": "'X inches by [deadline]' seasonal growth promise",
+   "url": "https://www.tiktok.com/@morgankaprice/video/7626542903636069646"
+  },
+  {
+   "id": "7603773080107863326",
+   "handle": "ofertas_tiktok_oficial",
+   "views": 1654082,
+   "sales": 23924,
+   "date": "2026-02-06",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@ofertas_tiktok_oficial/video/7603773080107863326"
+  },
+  {
+   "id": "7617955883502570765",
+   "handle": "tumejorsalud97",
+   "views": 1462589,
+   "sales": 23411,
+   "date": "2026-03-16",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@tumejorsalud97/video/7617955883502570765"
+  },
+  {
+   "id": "7626267212982127886",
+   "handle": "juliensfinds",
+   "views": 1531070,
+   "sales": 23334,
+   "date": "2026-04-08",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@juliensfinds/video/7626267212982127886"
+  },
+  {
+   "id": "7626901863115361550",
+   "handle": "jenny_claross",
+   "views": 1461520,
+   "sales": 22920,
+   "date": "2026-04-09",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@jenny_claross/video/7626901863115361550"
+  },
+  {
+   "id": "7617659791846001951",
+   "handle": "nesty.mulet",
+   "views": 1520065,
+   "sales": 22913,
+   "date": "2026-03-15",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@nesty.mulet/video/7617659791846001951"
+  },
+  {
+   "id": "7612845075751603487",
+   "handle": "marketerohispano",
+   "views": 972133,
+   "sales": 22561,
+   "date": "2026-03-02",
+   "tier": "2",
+   "angle": "Men's prostate / andropause symptom checklist with physical props",
+   "url": "https://www.tiktok.com/@marketerohispano/video/7612845075751603487"
+  },
+  {
+   "id": "7581593239866658079",
+   "handle": "shopbyjake",
+   "views": 995208,
+   "sales": 22417,
+   "date": "2025-12-08",
+   "tier": "1",
+   "angle": "GLP-1 shedding confessional — testimonial + audience callout with softgel-pour proof",
+   "url": "https://www.tiktok.com/@shopbyjake/video/7581593239866658079"
+  },
+  {
+   "id": "7616236657897000206",
+   "handle": "tumejorsaluddiaria",
+   "views": 1606423,
+   "sales": 22262,
+   "date": "2026-03-12",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@tumejorsaluddiaria/video/7616236657897000206"
+  },
+  {
+   "id": "7632452155173031182",
+   "handle": "fitness.is.simple",
+   "views": 1108768,
+   "sales": 22022,
+   "date": "2026-04-24",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@fitness.is.simple/video/7632452155173031182"
+  },
+  {
+   "id": "7610927593403059486",
+   "handle": "flawkolito",
+   "views": 1931713,
+   "sales": 21582,
+   "date": "2026-02-25",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@flawkolito/video/7610927593403059486"
+  },
+  {
+   "id": "7641328988316503309",
+   "handle": "official.nilla",
+   "views": 295678,
+   "sales": 21558,
+   "date": "2026-05-18",
+   "tier": "2",
+   "angle": "Hair-flip before/after testimonial ('look what this did to my hair')",
+   "url": "https://www.tiktok.com/@official.nilla/video/7641328988316503309"
+  },
+  {
+   "id": "7634511436051385613",
+   "handle": "healthysmartdeals",
+   "views": 1500000,
+   "sales": 21237,
+   "date": "2026-04-30",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@healthysmartdeals/video/7634511436051385613"
+  },
+  {
+   "id": "7624345965834554655",
+   "handle": "cliplagoon",
+   "views": 1264504,
+   "sales": 21062,
+   "date": "2026-04-02",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@cliplagoon/video/7624345965834554655"
+  },
+  {
+   "id": "7634205897685749023",
+   "handle": "nesty.mulet",
+   "views": 922440,
+   "sales": 20812,
+   "date": "2026-04-29",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@nesty.mulet/video/7634205897685749023"
+  },
+  {
+   "id": "7613871810479770911",
+   "handle": "posh.wellness",
+   "views": 372845,
+   "sales": 20744,
+   "date": "2026-03-05",
+   "tier": "2",
+   "angle": "'X inches by [deadline]' seasonal growth promise",
+   "url": "https://www.tiktok.com/@posh.wellness/video/7613871810479770911"
+  },
+  {
+   "id": "7594653319520439582",
+   "handle": "court.thefitmama",
+   "views": 397550,
+   "sales": 20736,
+   "date": "2026-01-12",
+   "tier": "2",
+   "angle": "Hair-flip before/after testimonial ('look what this did to my hair')",
+   "url": "https://www.tiktok.com/@court.thefitmama/video/7594653319520439582"
+  },
+  {
+   "id": "7643905293084151053",
+   "handle": "sullispicks",
+   "views": 1297328,
+   "sales": 20724,
+   "date": "2026-05-27",
+   "tier": "2",
+   "angle": "'X inches by [deadline]' seasonal growth promise",
+   "url": "https://www.tiktok.com/@sullispicks/video/7643905293084151053"
+  },
+  {
+   "id": "7606601287597182239",
+   "handle": "glowupmomfinds",
+   "views": 1525031,
+   "sales": 20698,
+   "date": "2026-02-15",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@glowupmomfinds/video/7606601287597182239"
+  },
+  {
+   "id": "7634260956922694925",
+   "handle": "fitness.is.simple",
+   "views": 1040117,
+   "sales": 20679,
+   "date": "2026-04-29",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@fitness.is.simple/video/7634260956922694925"
+  },
+  {
+   "id": "7590747774333865246",
+   "handle": "minniebees",
+   "views": 1455163,
+   "sales": 20678,
+   "date": "2026-01-02",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@minniebees/video/7590747774333865246"
+  },
+  {
+   "id": "7616227064265346334",
+   "handle": "theaustinbrown",
+   "views": 896375,
+   "sales": 20656,
+   "date": "2026-03-12",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@theaustinbrown/video/7616227064265346334"
+  },
+  {
+   "id": "7620233830670011661",
+   "handle": "diannaw92",
+   "views": 1342508,
+   "sales": 20523,
+   "date": "2026-03-22",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@diannaw92/video/7620233830670011661"
+  },
+  {
+   "id": "7577929599049272590",
+   "handle": "giulia.veiga53",
+   "views": 1333251,
+   "sales": 19829,
+   "date": "2025-11-28",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@giulia.veiga53/video/7577929599049272590"
+  },
+  {
+   "id": "7616878511680212254",
+   "handle": "theaustinbrown",
+   "views": 628188,
+   "sales": 19713,
+   "date": "2026-03-13",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@theaustinbrown/video/7616878511680212254"
+  },
+  {
+   "id": "7572342779632782622",
+   "handle": "tap2own",
+   "views": 1166527,
+   "sales": 19577,
+   "date": "2025-11-13",
+   "tier": "1",
+   "angle": "Kidney red-flag checklist + 'they tell you nothing can be done' myth-buster for foamy-urine sufferers",
+   "url": "https://www.tiktok.com/@tap2own/video/7572342779632782622"
+  },
+  {
+   "id": "7623137100245781790",
+   "handle": "kaileyannashop",
+   "views": 410874,
+   "sales": 19368,
+   "date": "2026-03-30",
+   "tier": "2",
+   "angle": "'Read the bottle' wrong-way comedy skit",
+   "url": "https://www.tiktok.com/@kaileyannashop/video/7623137100245781790"
+  },
+  {
+   "id": "7630513409414483230",
+   "handle": "ttshopkatieb",
+   "views": 933642,
+   "sales": 18700,
+   "date": "2026-04-19",
+   "tier": "2",
+   "angle": "'It's a wig' reply-to-comment proof demo (skeptic & counterfeit crusher)",
+   "url": "https://www.tiktok.com/@ttshopkatieb/video/7630513409414483230"
+  },
+  {
+   "id": "7633657999545978143",
+   "handle": "shopbyjake",
+   "views": 364769,
+   "sales": 18518,
+   "date": "2026-04-28",
+   "tier": "2",
+   "angle": "GLP-1 side-effect rescue stack (news-reaction + audience callout)",
+   "url": "https://www.tiktok.com/@shopbyjake/video/7633657999545978143"
+  },
+  {
+   "id": "7576077734825217310",
+   "handle": "cozyhomebyerika",
+   "views": 254479,
+   "sales": 17459,
+   "date": "2025-11-23",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@cozyhomebyerika/video/7576077734825217310"
+  },
+  {
+   "id": "7601977835246341406",
+   "handle": "destinee.moreh",
+   "views": 718158,
+   "sales": 17353,
+   "date": "2026-02-01",
+   "tier": "2",
+   "angle": "'X inches by [deadline]' seasonal growth promise",
+   "url": "https://www.tiktok.com/@destinee.moreh/video/7601977835246341406"
+  },
+  {
+   "id": "7608269904239742239",
+   "handle": "molly.on.the.mic",
+   "views": 305303,
+   "sales": 17286,
+   "date": "2026-02-18",
+   "tier": "2",
+   "angle": "'Want long? This. Want thick? This. Both? Take both' conditional product matchmaker",
+   "url": "https://www.tiktok.com/@molly.on.the.mic/video/7608269904239742239"
+  },
+  {
+   "id": "7605387365862984973",
+   "handle": "createwithrylee",
+   "views": 786105,
+   "sales": 17232,
+   "date": "2026-02-10",
+   "tier": "2",
+   "angle": "'X inches by [deadline]' seasonal growth promise",
+   "url": "https://www.tiktok.com/@createwithrylee/video/7605387365862984973"
+  },
+  {
+   "id": "7621951034088312095",
+   "handle": "peachyfindsgems",
+   "views": 803105,
+   "sales": 16959,
+   "date": "2026-03-27",
+   "tier": "2",
+   "angle": "'X inches by [deadline]' seasonal growth promise",
+   "url": "https://www.tiktok.com/@peachyfindsgems/video/7621951034088312095"
+  },
+  {
+   "id": "7589094670698024223",
+   "handle": "thelo.edit",
+   "views": 510322,
+   "sales": 16944,
+   "date": "2025-12-28",
+   "tier": "2",
+   "angle": "Men's prostate / andropause symptom checklist with physical props",
+   "url": "https://www.tiktok.com/@thelo.edit/video/7589094670698024223"
+  },
+  {
+   "id": "7592017668513729847",
+   "handle": "mtrunnergirl",
+   "views": 519626,
+   "sales": 16714,
+   "date": "2026-01-05",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@mtrunnergirl/video/7592017668513729847"
+  },
+  {
+   "id": "7582448285579791671",
+   "handle": "mtrunnergirl",
+   "views": 435244,
+   "sales": 16494,
+   "date": "2025-12-10",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@mtrunnergirl/video/7582448285579791671"
+  },
+  {
+   "id": "7636172543870651678",
+   "handle": "shopbyjake",
+   "views": 314947,
+   "sales": 16263,
+   "date": "2026-05-04",
+   "tier": "2",
+   "angle": "GLP-1 side-effect rescue stack (news-reaction + audience callout)",
+   "url": "https://www.tiktok.com/@shopbyjake/video/7636172543870651678"
+  },
+  {
+   "id": "7600983968132959543",
+   "handle": "mtrunnergirl",
+   "views": 308685,
+   "sales": 16108,
+   "date": "2026-01-29",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@mtrunnergirl/video/7600983968132959543"
+  },
+  {
+   "id": "7601908906671099166",
+   "handle": "bbellabianca",
+   "views": 381764,
+   "sales": 16054,
+   "date": "2026-02-01",
+   "tier": "2",
+   "angle": "'Read the bottle' wrong-way comedy skit",
+   "url": "https://www.tiktok.com/@bbellabianca/video/7601908906671099166"
+  },
+  {
+   "id": "7646892347988528397",
+   "handle": "maaddyyi",
+   "views": 1915546,
+   "sales": 16014,
+   "date": "2026-06-02",
+   "tier": "2",
+   "angle": "Hair-flip before/after testimonial ('look what this did to my hair')",
+   "url": "https://www.tiktok.com/@maaddyyi/video/7646892347988528397"
+  },
+  {
+   "id": "7589091818298494239",
+   "handle": "bbellabianca",
+   "views": 388439,
+   "sales": 15874,
+   "date": "2025-12-28",
+   "tier": "2",
+   "angle": "'X inches by [deadline]' seasonal growth promise",
+   "url": "https://www.tiktok.com/@bbellabianca/video/7589091818298494239"
+  },
+  {
+   "id": "7608706607765146910",
+   "handle": "livinglifeastia",
+   "views": 282939,
+   "sales": 15766,
+   "date": "2026-02-19",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@livinglifeastia/video/7608706607765146910"
+  },
+  {
+   "id": "7612801261385092383",
+   "handle": "taliashontrice",
+   "views": 804855,
+   "sales": 15571,
+   "date": "2026-03-02",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@taliashontrice/video/7612801261385092383"
+  },
+  {
+   "id": "7592296082407869709",
+   "handle": "official.nilla",
+   "views": 275092,
+   "sales": 15533,
+   "date": "2026-01-06",
+   "tier": "2",
+   "angle": "Hair-flip before/after testimonial ('look what this did to my hair')",
+   "url": "https://www.tiktok.com/@official.nilla/video/7592296082407869709"
+  },
+  {
+   "id": "7600491904093998367",
+   "handle": "smitty2.01",
+   "views": 592765,
+   "sales": 15524,
+   "date": "2026-02-04",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@smitty2.01/video/7600491904093998367"
+  },
+  {
+   "id": "7593464317350120759",
+   "handle": "humanlife881",
+   "views": 522545,
+   "sales": 15513,
+   "date": "2026-01-09",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@humanlife881/video/7593464317350120759"
+  },
+  {
+   "id": "7580103369235107103",
+   "handle": "janaleann22",
+   "views": 686376,
+   "sales": 15213,
+   "date": "2025-12-04",
+   "tier": "1",
+   "angle": "Credentialed-expert science hook — 'I'm a cancer researcher / pharmacist, here's why it works'",
+   "url": "https://www.tiktok.com/@janaleann22/video/7580103369235107103"
+  },
+  {
+   "id": "7623127465522728205",
+   "handle": "lalatellsitall",
+   "views": 245633,
+   "sales": 14964,
+   "date": "2026-03-30",
+   "tier": "2",
+   "angle": "Hair-flip before/after testimonial ('look what this did to my hair')",
+   "url": "https://www.tiktok.com/@lalatellsitall/video/7623127465522728205"
+  },
+  {
+   "id": "7636088697330339102",
+   "handle": "cuponesyofertas_yaass",
+   "views": 253418,
+   "sales": 14954,
+   "date": "2026-05-04",
+   "tier": "2",
+   "angle": "GLP-1 side-effect rescue stack (news-reaction + audience callout)",
+   "url": "https://www.tiktok.com/@cuponesyofertas_yaass/video/7636088697330339102"
+  },
+  {
+   "id": "7613982512494234911",
+   "handle": "taliashontrice",
+   "views": 492727,
+   "sales": 14951,
+   "date": "2026-03-05",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@taliashontrice/video/7613982512494234911"
+  },
+  {
+   "id": "7594784199463226654",
+   "handle": "thelo.edit",
+   "views": 1085819,
+   "sales": 14704,
+   "date": "2026-01-13",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@thelo.edit/video/7594784199463226654"
+  },
+  {
+   "id": "7580113789253684494",
+   "handle": "alexandrasfinds1",
+   "views": 247082,
+   "sales": 14286,
+   "date": "2025-12-04",
+   "tier": "2",
+   "angle": "'Want long? This. Want thick? This. Both? Take both' conditional product matchmaker",
+   "url": "https://www.tiktok.com/@alexandrasfinds1/video/7580113789253684494"
+  },
+  {
+   "id": "7635090698701655326",
+   "handle": "tipsdevale",
+   "views": 1184977,
+   "sales": 14094,
+   "date": "2026-05-01",
+   "tier": "2",
+   "angle": "Hair-flip before/after testimonial ('look what this did to my hair')",
+   "url": "https://www.tiktok.com/@tipsdevale/video/7635090698701655326"
+  },
+  {
+   "id": "7586480494347357470",
+   "handle": "cakedfinds",
+   "views": 312237,
+   "sales": 14055,
+   "date": "2025-12-21",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@cakedfinds/video/7586480494347357470"
+  },
+  {
+   "id": "7566492481739705614",
+   "handle": "jetskcqzy7m",
+   "views": 277872,
+   "sales": 14014,
+   "date": "2025-10-29",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@jetskcqzy7m/video/7566492481739705614"
+  },
+  {
+   "id": "7566661200830860575",
+   "handle": "mommiesluv",
+   "views": 254993,
+   "sales": 13956,
+   "date": "2025-10-29",
+   "tier": "2",
+   "angle": "'Want long? This. Want thick? This. Both? Take both' conditional product matchmaker",
+   "url": "https://www.tiktok.com/@mommiesluv/video/7566661200830860575"
+  },
+  {
+   "id": "7584274401865108749",
+   "handle": "taraontop",
+   "views": 627353,
+   "sales": 13946,
+   "date": "2025-12-15",
+   "tier": "1",
+   "angle": "'Lost half my hair — look at it now' before/after recovery proof",
+   "url": "https://www.tiktok.com/@taraontop/video/7584274401865108749"
+  },
+  {
+   "id": "7618830384268184863",
+   "handle": "scrollstoppingsteals",
+   "views": 263627,
+   "sales": 13907,
+   "date": "2026-03-19",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@scrollstoppingsteals/video/7618830384268184863"
+  },
+  {
+   "id": "7639449253651254541",
+   "handle": "thegregglifeofkelly",
+   "views": 291584,
+   "sales": 13894,
+   "date": "2026-05-13",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@thegregglifeofkelly/video/7639449253651254541"
+  },
+  {
+   "id": "7591494362551373070",
+   "handle": "josina_munson",
+   "views": 371633,
+   "sales": 13730,
+   "date": "2026-01-05",
+   "tier": "1",
+   "angle": "GLP-1 shedding confessional — testimonial + audience callout with softgel-pour proof",
+   "url": "https://www.tiktok.com/@josina_munson/video/7591494362551373070"
+  },
+  {
+   "id": "7590253665789824311",
+   "handle": "official.nilla",
+   "views": 333017,
+   "sales": 13631,
+   "date": "2026-01-01",
+   "tier": "2",
+   "angle": "'It's a wig' reply-to-comment proof demo (skeptic & counterfeit crusher)",
+   "url": "https://www.tiktok.com/@official.nilla/video/7590253665789824311"
+  },
+  {
+   "id": "7575984120266870030",
+   "handle": "mtrunnergirl",
+   "views": 400650,
+   "sales": 13210,
+   "date": "2025-11-23",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@mtrunnergirl/video/7575984120266870030"
+  },
+  {
+   "id": "7574910960935161118",
+   "handle": "tap2own",
+   "views": 762162,
+   "sales": 13173,
+   "date": "2025-11-20",
+   "tier": "1",
+   "angle": "Kidney red-flag checklist + 'they tell you nothing can be done' myth-buster for foamy-urine sufferers",
+   "url": "https://www.tiktok.com/@tap2own/video/7574910960935161118"
+  },
+  {
+   "id": "7612340604726496526",
+   "handle": "elyssashauls",
+   "views": 191683,
+   "sales": 13150,
+   "date": "2026-03-01",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@elyssashauls/video/7612340604726496526"
+  },
+  {
+   "id": "7618597638493015327",
+   "handle": "shopbyjake",
+   "views": 216042,
+   "sales": 13123,
+   "date": "2026-03-18",
+   "tier": "2",
+   "angle": "GLP-1 side-effect rescue stack (news-reaction + audience callout)",
+   "url": "https://www.tiktok.com/@shopbyjake/video/7618597638493015327"
+  },
+  {
+   "id": "7597566235416546590",
+   "handle": "taraontop",
+   "views": 194814,
+   "sales": 13033,
+   "date": "2026-01-20",
+   "tier": "2",
+   "angle": "GLP-1 side-effect rescue stack (news-reaction + audience callout)",
+   "url": "https://www.tiktok.com/@taraontop/video/7597566235416546590"
+  },
+  {
+   "id": "7548885551160724791",
+   "handle": "ashleylh1",
+   "views": 651756,
+   "sales": 12968,
+   "date": "2025-09-11",
+   "tier": "2",
+   "angle": "'X inches by [deadline]' seasonal growth promise",
+   "url": "https://www.tiktok.com/@ashleylh1/video/7548885551160724791"
+  },
+  {
+   "id": "7622492476086996255",
+   "handle": "theaustinbrown",
+   "views": 255202,
+   "sales": 12936,
+   "date": "2026-03-28",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@theaustinbrown/video/7622492476086996255"
+  },
+  {
+   "id": "7547504931612282125",
+   "handle": "holisticglpgirly",
+   "views": 313074,
+   "sales": 12559,
+   "date": "2025-09-07",
+   "tier": "1",
+   "angle": "GLP-1 shedding confessional — testimonial + audience callout with softgel-pour proof",
+   "url": "https://www.tiktok.com/@holisticglpgirly/video/7547504931612282125"
+  },
+  {
+   "id": "7605824180235341070",
+   "handle": "official.nilla",
+   "views": 530533,
+   "sales": 12473,
+   "date": "2026-02-11",
+   "tier": "2",
+   "angle": "Hair-flip before/after testimonial ('look what this did to my hair')",
+   "url": "https://www.tiktok.com/@official.nilla/video/7605824180235341070"
+  },
+  {
+   "id": "7564523860201180447",
+   "handle": "italymommy_",
+   "views": 367698,
+   "sales": 12223,
+   "date": "2025-10-23",
+   "tier": "1",
+   "angle": "'Lost half my hair — look at it now' before/after recovery proof",
+   "url": "https://www.tiktok.com/@italymommy_/video/7564523860201180447"
+  },
+  {
+   "id": "7642956790409252110",
+   "handle": "maaddyyi",
+   "views": 1243139,
+   "sales": 12221,
+   "date": "2026-05-23",
+   "tier": "2",
+   "angle": "'X inches by [deadline]' seasonal growth promise",
+   "url": "https://www.tiktok.com/@maaddyyi/video/7642956790409252110"
+  },
+  {
+   "id": "7596836178150657293",
+   "handle": "josina_munson",
+   "views": 329914,
+   "sales": 12215,
+   "date": "2026-01-18",
+   "tier": "1",
+   "angle": "GLP-1 shedding confessional — testimonial + audience callout with softgel-pour proof",
+   "url": "https://www.tiktok.com/@josina_munson/video/7596836178150657293"
+  },
+  {
+   "id": "7614529698395065630",
+   "handle": "bbellabianca",
+   "views": 307416,
+   "sales": 12170,
+   "date": "2026-03-07",
+   "tier": "2",
+   "angle": "'X inches by [deadline]' seasonal growth promise",
+   "url": "https://www.tiktok.com/@bbellabianca/video/7614529698395065630"
+  },
+  {
+   "id": "7594916795690143007",
+   "handle": "brwnsugr___",
+   "views": 219349,
+   "sales": 12149,
+   "date": "2026-01-13",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@brwnsugr___/video/7594916795690143007"
+  },
+  {
+   "id": "7605750549031488798",
+   "handle": "princesstori_00",
+   "views": 507001,
+   "sales": 12146,
+   "date": "2026-02-11",
+   "tier": "2",
+   "angle": "Hair-flip before/after testimonial ('look what this did to my hair')",
+   "url": "https://www.tiktok.com/@princesstori_00/video/7605750549031488798"
+  },
+  {
+   "id": "7639932589570133262",
+   "handle": "maaddyyi",
+   "views": 641755,
+   "sales": 12017,
+   "date": "2026-05-14",
+   "tier": "2",
+   "angle": "Hair-flip before/after testimonial ('look what this did to my hair')",
+   "url": "https://www.tiktok.com/@maaddyyi/video/7639932589570133262"
+  },
+  {
+   "id": "7569719123610045726",
+   "handle": "sarajellykitty",
+   "views": 323134,
+   "sales": 11934,
+   "date": "2025-11-06",
+   "tier": "1",
+   "angle": "GLP-1 shedding confessional — testimonial + audience callout with softgel-pour proof",
+   "url": "https://www.tiktok.com/@sarajellykitty/video/7569719123610045726"
+  },
+  {
+   "id": "7621383317161659679",
+   "handle": "taliashontrice",
+   "views": 242587,
+   "sales": 11597,
+   "date": "2026-03-25",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@taliashontrice/video/7621383317161659679"
+  },
+  {
+   "id": "7588261598540664094",
+   "handle": "taraontop",
+   "views": 573858,
+   "sales": 11188,
+   "date": "2025-12-26",
+   "tier": "1",
+   "angle": "'Lost half my hair — look at it now' before/after recovery proof",
+   "url": "https://www.tiktok.com/@taraontop/video/7588261598540664094"
+  },
+  {
+   "id": "7571910502310366477",
+   "handle": "naturalmentemipiel",
+   "views": 639835,
+   "sales": 11104,
+   "date": "2025-11-12",
+   "tier": "2",
+   "angle": "Hair-flip before/after testimonial ('look what this did to my hair')",
+   "url": "https://www.tiktok.com/@naturalmentemipiel/video/7571910502310366477"
+  },
+  {
+   "id": "7610497216393792798",
+   "handle": "peezykeepitp",
+   "views": 443857,
+   "sales": 11061,
+   "date": "2026-02-24",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@peezykeepitp/video/7610497216393792798"
+  },
+  {
+   "id": "7618346113317227790",
+   "handle": "shopwsopha",
+   "views": 216721,
+   "sales": 11041,
+   "date": "2026-03-17",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@shopwsopha/video/7618346113317227790"
+  },
+  {
+   "id": "7631237565311470862",
+   "handle": "thegregglifeofkelly",
+   "views": 188614,
+   "sales": 10910,
+   "date": "2026-04-21",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@thegregglifeofkelly/video/7631237565311470862"
+  },
+  {
+   "id": "7614246767797816606",
+   "handle": "melissanorman2.0",
+   "views": 204043,
+   "sales": 10887,
+   "date": "2026-03-06",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@melissanorman2.0/video/7614246767797816606"
+  },
+  {
+   "id": "7617217476421586190",
+   "handle": "stalnakeracres03",
+   "views": 190959,
+   "sales": 10882,
+   "date": "2026-03-14",
+   "tier": "2",
+   "angle": "GLP-1 side-effect rescue stack (news-reaction + audience callout)",
+   "url": "https://www.tiktok.com/@stalnakeracres03/video/7617217476421586190"
+  },
+  {
+   "id": "7594195664565849374",
+   "handle": "kayladelight",
+   "views": 537717,
+   "sales": 10739,
+   "date": "2026-01-11",
+   "tier": "1",
+   "angle": "'Lost half my hair — look at it now' before/after recovery proof",
+   "url": "https://www.tiktok.com/@kayladelight/video/7594195664565849374"
+  },
+  {
+   "id": "7583020389819895054",
+   "handle": "bowdenwellness",
+   "views": 177516,
+   "sales": 10009,
+   "date": "2025-12-12",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@bowdenwellness/video/7583020389819895054"
+  },
+  {
+   "id": "7584624908290837773",
+   "handle": "jessnotsimpson1",
+   "views": 455702,
+   "sales": 9902,
+   "date": "2025-12-16",
+   "tier": "1",
+   "angle": "GLP-1 shedding confessional — testimonial + audience callout with softgel-pour proof",
+   "url": "https://www.tiktok.com/@jessnotsimpson1/video/7584624908290837773"
+  },
+  {
+   "id": "7493596697961024814",
+   "handle": "midas007",
+   "views": 319296,
+   "sales": 9841,
+   "date": "2025-04-15",
+   "tier": "1",
+   "angle": "",
+   "url": "https://www.tiktok.com/@midas007/video/7493596697961024814"
+  },
+  {
+   "id": "7643261203464195341",
+   "handle": "thegregglifeofkelly",
+   "views": 121988,
+   "sales": 9678,
+   "date": "2026-05-23",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@thegregglifeofkelly/video/7643261203464195341"
+  },
+  {
+   "id": "7618016876911725838",
+   "handle": "lalatellsitall",
+   "views": 153135,
+   "sales": 9617,
+   "date": "2026-03-17",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@lalatellsitall/video/7618016876911725838"
+  },
+  {
+   "id": "7564887274371026207",
+   "handle": "kaylacream",
+   "views": 168188,
+   "sales": 9414,
+   "date": "2025-10-24",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@kaylacream/video/7564887274371026207"
+  },
+  {
+   "id": "7597695188882017567",
+   "handle": "bellezaycrecimiento",
+   "views": 479947,
+   "sales": 9354,
+   "date": "2026-01-21",
+   "tier": "2",
+   "angle": "Hair-flip before/after testimonial ('look what this did to my hair')",
+   "url": "https://www.tiktok.com/@bellezaycrecimiento/video/7597695188882017567"
+  },
+  {
+   "id": "7617985070305004831",
+   "handle": "lisa.saldarriaga",
+   "views": 601491,
+   "sales": 9266,
+   "date": "2026-03-16",
+   "tier": "2",
+   "angle": "Hair-flip before/after testimonial ('look what this did to my hair')",
+   "url": "https://www.tiktok.com/@lisa.saldarriaga/video/7617985070305004831"
+  },
+  {
+   "id": "7557187056141634829",
+   "handle": "accordingtojules",
+   "views": 226528,
+   "sales": 9177,
+   "date": "2025-10-03",
+   "tier": "1",
+   "angle": "Skeptic's category takedown — 'pumpkin seed oil scam / what nobody tells you' honest review",
+   "url": "https://www.tiktok.com/@accordingtojules/video/7557187056141634829"
+  },
+  {
+   "id": "7642450658540489997",
+   "handle": "vrfl",
+   "views": 120616,
+   "sales": 9127,
+   "date": "2026-05-21",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@vrfl/video/7642450658540489997"
+  },
+  {
+   "id": "7608390965350485262",
+   "handle": "shopsforfunsies",
+   "views": 139842,
+   "sales": 9118,
+   "date": "2026-02-18",
+   "tier": "2",
+   "angle": "Hair-flip before/after testimonial ('look what this did to my hair')",
+   "url": "https://www.tiktok.com/@shopsforfunsies/video/7608390965350485262"
+  },
+  {
+   "id": "7594661366477163807",
+   "handle": "the.real.hp",
+   "views": 174260,
+   "sales": 9095,
+   "date": "2026-01-12",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@the.real.hp/video/7594661366477163807"
+  },
+  {
+   "id": "7612812812024319245",
+   "handle": "lalatellsitall",
+   "views": 172931,
+   "sales": 9094,
+   "date": "2026-03-02",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@lalatellsitall/video/7612812812024319245"
+  },
+  {
+   "id": "7625796805015375134",
+   "handle": "lotuserasociety",
+   "views": 212288,
+   "sales": 9003,
+   "date": "2026-04-06",
+   "tier": "2",
+   "angle": "'Read the bottle' wrong-way comedy skit",
+   "url": "https://www.tiktok.com/@lotuserasociety/video/7625796805015375134"
+  },
+  {
+   "id": "7616938374305287455",
+   "handle": "tipsdevale",
+   "views": 487339,
+   "sales": 8911,
+   "date": "2026-03-13",
+   "tier": "2",
+   "angle": "Hair-flip before/after testimonial ('look what this did to my hair')",
+   "url": "https://www.tiktok.com/@tipsdevale/video/7616938374305287455"
+  },
+  {
+   "id": "7580939278688062750",
+   "handle": "selfless.entrepreneur",
+   "views": 124032,
+   "sales": 8896,
+   "date": "2025-12-06",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@selfless.entrepreneur/video/7580939278688062750"
+  },
+  {
+   "id": "7614681176745184542",
+   "handle": "court.thefitmama",
+   "views": 141598,
+   "sales": 8892,
+   "date": "2026-03-07",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@court.thefitmama/video/7614681176745184542"
+  },
+  {
+   "id": "7631658243391114509",
+   "handle": "morgankaprice",
+   "views": 148294,
+   "sales": 8857,
+   "date": "2026-04-22",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@morgankaprice/video/7631658243391114509"
+  },
+  {
+   "id": "7615644827522174222",
+   "handle": "coolfinds96",
+   "views": 163027,
+   "sales": 8817,
+   "date": "2026-03-10",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@coolfinds96/video/7615644827522174222"
+  },
+  {
+   "id": "7609514507441933599",
+   "handle": "shopwithgh",
+   "views": 369665,
+   "sales": 8685,
+   "date": "2026-02-21",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@shopwithgh/video/7609514507441933599"
+  },
+  {
+   "id": "7619218536891747614",
+   "handle": "bellezaycrecimiento",
+   "views": 462688,
+   "sales": 8593,
+   "date": "2026-03-20",
+   "tier": "2",
+   "angle": "'It's a wig' reply-to-comment proof demo (skeptic & counterfeit crusher)",
+   "url": "https://www.tiktok.com/@bellezaycrecimiento/video/7619218536891747614"
+  },
+  {
+   "id": "7610581581190712589",
+   "handle": "holisticglpgirly",
+   "views": 123432,
+   "sales": 8563,
+   "date": "2026-02-24",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@holisticglpgirly/video/7610581581190712589"
+  },
+  {
+   "id": "7634751081230241038",
+   "handle": "morenocamy",
+   "views": 210534,
+   "sales": 8514,
+   "date": "2026-04-30",
+   "tier": "2",
+   "angle": "Hair-flip before/after testimonial ('look what this did to my hair')",
+   "url": "https://www.tiktok.com/@morenocamy/video/7634751081230241038"
+  },
+  {
+   "id": "7583161829120150814",
+   "handle": "princesstori_00",
+   "views": 397405,
+   "sales": 8509,
+   "date": "2025-12-12",
+   "tier": "2",
+   "angle": "Hair-flip before/after testimonial ('look what this did to my hair')",
+   "url": "https://www.tiktok.com/@princesstori_00/video/7583161829120150814"
+  },
+  {
+   "id": "7572785144575184159",
+   "handle": "b_tari",
+   "views": 153106,
+   "sales": 8360,
+   "date": "2025-11-14",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@b_tari/video/7572785144575184159"
+  },
+  {
+   "id": "7641656025770216718",
+   "handle": "ashblabbb",
+   "views": 200208,
+   "sales": 8205,
+   "date": "2026-05-19",
+   "tier": "2",
+   "angle": "Hair-flip before/after testimonial ('look what this did to my hair')",
+   "url": "https://www.tiktok.com/@ashblabbb/video/7641656025770216718"
+  },
+  {
+   "id": "7610901542132141343",
+   "handle": "vampirodeals",
+   "views": 451893,
+   "sales": 8191,
+   "date": "2026-02-25",
+   "tier": "2",
+   "angle": "'Read the bottle' wrong-way comedy skit",
+   "url": "https://www.tiktok.com/@vampirodeals/video/7610901542132141343"
+  },
+  {
+   "id": "7547109509798300958",
+   "handle": "meobstaf",
+   "views": 287683,
+   "sales": 8151,
+   "date": "2025-09-06",
+   "tier": "1",
+   "angle": "Skeptic's category takedown — 'pumpkin seed oil scam / what nobody tells you' honest review",
+   "url": "https://www.tiktok.com/@meobstaf/video/7547109509798300958"
+  },
+  {
+   "id": "7578988844188486925",
+   "handle": "alexandrasfinds1",
+   "views": 129624,
+   "sales": 8097,
+   "date": "2025-12-01",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@alexandrasfinds1/video/7578988844188486925"
+  },
+  {
+   "id": "7579069461186039053",
+   "handle": "marciecoltman",
+   "views": 362160,
+   "sales": 8089,
+   "date": "2025-12-01",
+   "tier": "1",
+   "angle": "Midlife menopause/PCOS testimonial — 'I'm 51, in menopause, and this is my natural hair'",
+   "url": "https://www.tiktok.com/@marciecoltman/video/7579069461186039053"
+  },
+  {
+   "id": "7633816258730855694",
+   "handle": "livsbestfindss",
+   "views": 134604,
+   "sales": 8060,
+   "date": "2026-04-28",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@livsbestfindss/video/7633816258730855694"
+  },
+  {
+   "id": "7616444430416891149",
+   "handle": "viviana_1926",
+   "views": 440076,
+   "sales": 8043,
+   "date": "2026-03-12",
+   "tier": "2",
+   "angle": "Hair-flip before/after testimonial ('look what this did to my hair')",
+   "url": "https://www.tiktok.com/@viviana_1926/video/7616444430416891149"
+  },
+  {
+   "id": "7582719022832176397",
+   "handle": "tap2own",
+   "views": 486041,
+   "sales": 7997,
+   "date": "2025-12-11",
+   "tier": "1",
+   "angle": "Kidney red-flag checklist + 'they tell you nothing can be done' myth-buster for foamy-urine sufferers",
+   "url": "https://www.tiktok.com/@tap2own/video/7582719022832176397"
+  },
+  {
+   "id": "7522926414320946462",
+   "handle": "drew.review1",
+   "views": 238170,
+   "sales": 7990,
+   "date": "2025-07-03",
+   "tier": "1",
+   "angle": "Credentialed-expert science hook — 'I'm a cancer researcher / pharmacist, here's why it works'",
+   "url": "https://www.tiktok.com/@drew.review1/video/7522926414320946462"
+  },
+  {
+   "id": "7609502780381875469",
+   "handle": "lalatellsitall",
+   "views": 150600,
+   "sales": 7971,
+   "date": "2026-02-21",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@lalatellsitall/video/7609502780381875469"
+  },
+  {
+   "id": "7598346983622970638",
+   "handle": "holisticglpgirly",
+   "views": 128223,
+   "sales": 7946,
+   "date": "2026-01-22",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@holisticglpgirly/video/7598346983622970638"
+  },
+  {
+   "id": "7592331526663163166",
+   "handle": "definitelyneededthat",
+   "views": 334127,
+   "sales": 7937,
+   "date": "2026-01-06",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@definitelyneededthat/video/7592331526663163166"
+  },
+  {
+   "id": "7595270577343008030",
+   "handle": "microingredients",
+   "views": 285610,
+   "sales": 7862,
+   "date": "2026-01-14",
+   "tier": "1",
+   "angle": "",
+   "url": "https://www.tiktok.com/@microingredients/video/7595270577343008030"
+  },
+  {
+   "id": "7607636787544001805",
+   "handle": "lalatellsitall",
+   "views": 133588,
+   "sales": 7785,
+   "date": "2026-02-17",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@lalatellsitall/video/7607636787544001805"
+  },
+  {
+   "id": "7629482055348292878",
+   "handle": "anointedmbay",
+   "views": 135729,
+   "sales": 7750,
+   "date": "2026-04-16",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@anointedmbay/video/7629482055348292878"
+  },
+  {
+   "id": "7616536920637705503",
+   "handle": "melissanorman2.0",
+   "views": 135952,
+   "sales": 7707,
+   "date": "2026-03-12",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@melissanorman2.0/video/7616536920637705503"
+  },
+  {
+   "id": "7622118379104537887",
+   "handle": "kaileyannashop",
+   "views": 191470,
+   "sales": 7660,
+   "date": "2026-03-27",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@kaileyannashop/video/7622118379104537887"
+  },
+  {
+   "id": "7637150005593148702",
+   "handle": "glossedbynae",
+   "views": 105042,
+   "sales": 7616,
+   "date": "2026-05-07",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@glossedbynae/video/7637150005593148702"
+  },
+  {
+   "id": "7619442729126350111",
+   "handle": "erin__thompson",
+   "views": 351653,
+   "sales": 7508,
+   "date": "2026-03-20",
+   "tier": "2",
+   "angle": "'Want long? This. Want thick? This. Both? Take both' conditional product matchmaker",
+   "url": "https://www.tiktok.com/@erin__thompson/video/7619442729126350111"
+  },
+  {
+   "id": "7646535930165218591",
+   "handle": "glossedbynae",
+   "views": 86557,
+   "sales": 7317,
+   "date": "2026-06-01",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@glossedbynae/video/7646535930165218591"
+  },
+  {
+   "id": "7641063002795461918",
+   "handle": "marketerohispano",
+   "views": 400170,
+   "sales": 7242,
+   "date": "2026-05-17",
+   "tier": "1",
+   "angle": "Spanish-language nurse-practitioner prop-demo explainer",
+   "url": "https://www.tiktok.com/@marketerohispano/video/7641063002795461918"
+  },
+  {
+   "id": "7604280750145309982",
+   "handle": "cozyhomebyerika",
+   "views": 98210,
+   "sales": 7240,
+   "date": "2026-02-07",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@cozyhomebyerika/video/7604280750145309982"
+  },
+  {
+   "id": "7619767115389717773",
+   "handle": "taylorangelini",
+   "views": 299729,
+   "sales": 7228,
+   "date": "2026-03-21",
+   "tier": "2",
+   "angle": "'X inches by [deadline]' seasonal growth promise",
+   "url": "https://www.tiktok.com/@taylorangelini/video/7619767115389717773"
+  },
+  {
+   "id": "7596497266689477902",
+   "handle": "lyshopdeals",
+   "views": 379281,
+   "sales": 7204,
+   "date": "2026-01-17",
+   "tier": "2",
+   "angle": "Hair-flip before/after testimonial ('look what this did to my hair')",
+   "url": "https://www.tiktok.com/@lyshopdeals/video/7596497266689477902"
+  },
+  {
+   "id": "7575683612843003166",
+   "handle": "bellezaycrecimiento",
+   "views": 369335,
+   "sales": 7167,
+   "date": "2025-11-22",
+   "tier": "2",
+   "angle": "Hair-flip before/after testimonial ('look what this did to my hair')",
+   "url": "https://www.tiktok.com/@bellezaycrecimiento/video/7575683612843003166"
+  },
+  {
+   "id": "7630714223617772830",
+   "handle": "officialjustsam",
+   "views": 120109,
+   "sales": 7133,
+   "date": "2026-04-20",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@officialjustsam/video/7630714223617772830"
+  },
+  {
+   "id": "7533081208213753101",
+   "handle": "ashleylh1",
+   "views": 324194,
+   "sales": 7051,
+   "date": "2025-07-30",
+   "tier": "2",
+   "angle": "Hair-flip before/after testimonial ('look what this did to my hair')",
+   "url": "https://www.tiktok.com/@ashleylh1/video/7533081208213753101"
+  },
+  {
+   "id": "7610900310860549406",
+   "handle": "shopbyjake",
+   "views": 103829,
+   "sales": 7044,
+   "date": "2026-02-25",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@shopbyjake/video/7610900310860549406"
+  },
+  {
+   "id": "7597601158768708878",
+   "handle": "ragdollmanor",
+   "views": 295512,
+   "sales": 6975,
+   "date": "2026-01-20",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@ragdollmanor/video/7597601158768708878"
+  },
+  {
+   "id": "7525666856695270686",
+   "handle": "frugal__living",
+   "views": 194297,
+   "sales": 6935,
+   "date": "2025-07-10",
+   "tier": "1",
+   "angle": "Midlife menopause/PCOS testimonial — 'I'm 51, in menopause, and this is my natural hair'",
+   "url": "https://www.tiktok.com/@frugal__living/video/7525666856695270686"
+  },
+  {
+   "id": "7640215361727565087",
+   "handle": "ttshopkatieb",
+   "views": 310473,
+   "sales": 6930,
+   "date": "2026-05-15",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@ttshopkatieb/video/7640215361727565087"
+  },
+  {
+   "id": "7592794182377426190",
+   "handle": "josina_munson",
+   "views": 189455,
+   "sales": 6914,
+   "date": "2026-01-07",
+   "tier": "1",
+   "angle": "GLP-1 shedding confessional — testimonial + audience callout with softgel-pour proof",
+   "url": "https://www.tiktok.com/@josina_munson/video/7592794182377426190"
+  },
+  {
+   "id": "7618335428151725343",
+   "handle": "mswellnesspro",
+   "views": 306482,
+   "sales": 6867,
+   "date": "2026-03-17",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@mswellnesspro/video/7618335428151725343"
+  },
+  {
+   "id": "7616161768661863711",
+   "handle": "melissanorman2.0",
+   "views": 141572,
+   "sales": 6821,
+   "date": "2026-03-11",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@melissanorman2.0/video/7616161768661863711"
+  },
+  {
+   "id": "7618693222696553759",
+   "handle": "bbellabianca",
+   "views": 178499,
+   "sales": 6750,
+   "date": "2026-03-23",
+   "tier": "2",
+   "angle": "GLP-1 side-effect rescue stack (news-reaction + audience callout)",
+   "url": "https://www.tiktok.com/@bbellabianca/video/7618693222696553759"
+  },
+  {
+   "id": "7558291864479206687",
+   "handle": "brwnsugr___",
+   "views": 105343,
+   "sales": 6744,
+   "date": "2025-10-06",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@brwnsugr___/video/7558291864479206687"
+  },
+  {
+   "id": "7623186924311792926",
+   "handle": "maehni",
+   "views": 119726,
+   "sales": 6617,
+   "date": "2026-03-30",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@maehni/video/7623186924311792926"
+  },
+  {
+   "id": "7520492978779999518",
+   "handle": "_genesisguerra",
+   "views": 195925,
+   "sales": 6605,
+   "date": "2025-06-27",
+   "tier": "1",
+   "angle": "'Lost half my hair — look at it now' before/after recovery proof",
+   "url": "https://www.tiktok.com/@_genesisguerra/video/7520492978779999518"
+  },
+  {
+   "id": "7599082832039824670",
+   "handle": "rphreviews",
+   "views": 471709,
+   "sales": 6595,
+   "date": "2026-01-24",
+   "tier": "1",
+   "angle": "Credentialed-expert science hook — 'I'm a cancer researcher / pharmacist, here's why it works'",
+   "url": "https://www.tiktok.com/@rphreviews/video/7599082832039824670"
+  },
+  {
+   "id": "7620944090812730655",
+   "handle": "david.diy88",
+   "views": 114194,
+   "sales": 6557,
+   "date": "2026-03-24",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@david.diy88/video/7620944090812730655"
+  },
+  {
+   "id": "7630837845162200350",
+   "handle": "shopbyjake",
+   "views": 105734,
+   "sales": 6418,
+   "date": "2026-04-20",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@shopbyjake/video/7630837845162200350"
+  },
+  {
+   "id": "7616175025661447438",
+   "handle": "moddy559",
+   "views": 129484,
+   "sales": 6408,
+   "date": "2026-03-11",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@moddy559/video/7616175025661447438"
+  },
+  {
+   "id": "7554395552255905054",
+   "handle": "adoseofwellness",
+   "views": 176273,
+   "sales": 6379,
+   "date": "2025-09-26",
+   "tier": "1",
+   "angle": "Credentialed-expert science hook — 'I'm a cancer researcher / pharmacist, here's why it works'",
+   "url": "https://www.tiktok.com/@adoseofwellness/video/7554395552255905054"
+  },
+  {
+   "id": "7642036968242613535",
+   "handle": "electramigneault",
+   "views": 332298,
+   "sales": 6365,
+   "date": "2026-05-20",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@electramigneault/video/7642036968242613535"
+  },
+  {
+   "id": "7616192277391609118",
+   "handle": "bbellabianca",
+   "views": 155985,
+   "sales": 6365,
+   "date": "2026-03-21",
+   "tier": "2",
+   "angle": "'X inches by [deadline]' seasonal growth promise",
+   "url": "https://www.tiktok.com/@bbellabianca/video/7616192277391609118"
+  },
+  {
+   "id": "7637336508759870734",
+   "handle": "lalatellsitall",
+   "views": 127379,
+   "sales": 6356,
+   "date": "2026-05-07",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@lalatellsitall/video/7637336508759870734"
+  },
+  {
+   "id": "7632449504456756510",
+   "handle": "naturalmentemipiel",
+   "views": 373890,
+   "sales": 6335,
+   "date": "2026-04-25",
+   "tier": "2",
+   "angle": "Hair-flip before/after testimonial ('look what this did to my hair')",
+   "url": "https://www.tiktok.com/@naturalmentemipiel/video/7632449504456756510"
+  },
+  {
+   "id": "7586508232558906654",
+   "handle": "shopbyjake",
+   "views": 92531,
+   "sales": 6300,
+   "date": "2025-12-21",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@shopbyjake/video/7586508232558906654"
+  },
+  {
+   "id": "7620553870481083678",
+   "handle": "ttshopkatieb",
+   "views": 282153,
+   "sales": 6299,
+   "date": "2026-03-23",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@ttshopkatieb/video/7620553870481083678"
+  },
+  {
+   "id": "7617875702985084174",
+   "handle": "josina_munson",
+   "views": 172483,
+   "sales": 6262,
+   "date": "2026-03-16",
+   "tier": "1",
+   "angle": "'Lost half my hair — look at it now' before/after recovery proof",
+   "url": "https://www.tiktok.com/@josina_munson/video/7617875702985084174"
+  },
+  {
+   "id": "7622293022939647263",
+   "handle": "electramigneault",
+   "views": 297191,
+   "sales": 6150,
+   "date": "2026-03-28",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@electramigneault/video/7622293022939647263"
+  },
+  {
+   "id": "7595449119041260814",
+   "handle": "eva_c.apri",
+   "views": 115351,
+   "sales": 6102,
+   "date": "2026-01-15",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@eva_c.apri/video/7595449119041260814"
+  },
+  {
+   "id": "7581754541033508127",
+   "handle": "tlynanxio",
+   "views": 167011,
+   "sales": 6067,
+   "date": "2025-12-09",
+   "tier": "1",
+   "angle": "'Lost half my hair — look at it now' before/after recovery proof",
+   "url": "https://www.tiktok.com/@tlynanxio/video/7581754541033508127"
+  },
+  {
+   "id": "7622715657603403038",
+   "handle": "marketerohispano",
+   "views": 263520,
+   "sales": 6032,
+   "date": "2026-03-29",
+   "tier": "1",
+   "angle": "Spanish-language nurse-practitioner prop-demo explainer",
+   "url": "https://www.tiktok.com/@marketerohispano/video/7622715657603403038"
+  },
+  {
+   "id": "7605568124238253343",
+   "handle": "momofallstages",
+   "views": 112373,
+   "sales": 5966,
+   "date": "2026-02-11",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@momofallstages/video/7605568124238253343"
+  },
+  {
+   "id": "7609399211494362398",
+   "handle": "jacobandanabelle",
+   "views": 282576,
+   "sales": 5886,
+   "date": "2026-02-21",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@jacobandanabelle/video/7609399211494362398"
+  },
+  {
+   "id": "7524117063007325471",
+   "handle": "emilyyymays",
+   "views": 130943,
+   "sales": 5754,
+   "date": "2025-07-06",
+   "tier": "1",
+   "angle": "GLP-1 shedding confessional — testimonial + audience callout with softgel-pour proof",
+   "url": "https://www.tiktok.com/@emilyyymays/video/7524117063007325471"
+  },
+  {
+   "id": "7611559852812422413",
+   "handle": "jadensfavorites",
+   "views": 236590,
+   "sales": 5699,
+   "date": "2026-02-27",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@jadensfavorites/video/7611559852812422413"
+  },
+  {
+   "id": "7561834032238054711",
+   "handle": "g0lden.queen",
+   "views": 109650,
+   "sales": 5675,
+   "date": "2025-10-16",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@g0lden.queen/video/7561834032238054711"
+  },
+  {
+   "id": "7625375600181644574",
+   "handle": "glossedbynae",
+   "views": 85109,
+   "sales": 5671,
+   "date": "2026-04-05",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@glossedbynae/video/7625375600181644574"
+  },
+  {
+   "id": "7602055340179377438",
+   "handle": "cakedfinds",
+   "views": 104181,
+   "sales": 5641,
+   "date": "2026-02-01",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@cakedfinds/video/7602055340179377438"
+  },
+  {
+   "id": "7572707938192657677",
+   "handle": "lalatellsitall",
+   "views": 100114,
+   "sales": 5621,
+   "date": "2025-11-14",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@lalatellsitall/video/7572707938192657677"
+  },
+  {
+   "id": "7641472585678474526",
+   "handle": "shoppingwithmary2",
+   "views": 330794,
+   "sales": 5610,
+   "date": "2026-05-19",
+   "tier": "2",
+   "angle": "'Want long? This. Want thick? This. Both? Take both' conditional product matchmaker",
+   "url": "https://www.tiktok.com/@shoppingwithmary2/video/7641472585678474526"
+  },
+  {
+   "id": "7641005760398232863",
+   "handle": "julieloverr",
+   "views": 310313,
+   "sales": 5601,
+   "date": "2026-05-17",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@julieloverr/video/7641005760398232863"
+  },
+  {
+   "id": "7608368886794276109",
+   "handle": "ana.wellness",
+   "views": 286002,
+   "sales": 5598,
+   "date": "2026-02-18",
+   "tier": "2",
+   "angle": "Hair-flip before/after testimonial ('look what this did to my hair')",
+   "url": "https://www.tiktok.com/@ana.wellness/video/7608368886794276109"
+  },
+  {
+   "id": "7636574966330182926",
+   "handle": "thegregglifeofkelly",
+   "views": 78188,
+   "sales": 5582,
+   "date": "2026-05-05",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@thegregglifeofkelly/video/7636574966330182926"
+  },
+  {
+   "id": "7613783589976558879",
+   "handle": "faithfuldoc",
+   "views": 97163,
+   "sales": 5554,
+   "date": "2026-03-05",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@faithfuldoc/video/7613783589976558879"
+  },
+  {
+   "id": "7605607875964112158",
+   "handle": "maddierellis",
+   "views": 230115,
+   "sales": 5450,
+   "date": "2026-02-11",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@maddierellis/video/7605607875964112158"
+  },
+  {
+   "id": "7621117613845875981",
+   "handle": "ragdollmanor",
+   "views": 206367,
+   "sales": 5446,
+   "date": "2026-03-25",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@ragdollmanor/video/7621117613845875981"
+  },
+  {
+   "id": "7620260710093819166",
+   "handle": "adoseofwellness",
+   "views": 119200,
+   "sales": 5427,
+   "date": "2026-03-23",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@adoseofwellness/video/7620260710093819166"
+  },
+  {
+   "id": "7639135253168213262",
+   "handle": "mariaa.delmar_",
+   "views": 68832,
+   "sales": 5319,
+   "date": "2026-05-12",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@mariaa.delmar_/video/7639135253168213262"
+  },
+  {
+   "id": "7569684862496460046",
+   "handle": "tmoniii",
+   "views": 90110,
+   "sales": 5279,
+   "date": "2025-11-06",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@tmoniii/video/7569684862496460046"
+  },
+  {
+   "id": "7613494078742793502",
+   "handle": "bbellabianca",
+   "views": 115657,
+   "sales": 5233,
+   "date": "2026-03-08",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@bbellabianca/video/7613494078742793502"
+  },
+  {
+   "id": "7644010686816767246",
+   "handle": "thegregglifeofkelly",
+   "views": 64160,
+   "sales": 5193,
+   "date": "2026-05-25",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@thegregglifeofkelly/video/7644010686816767246"
+  },
+  {
+   "id": "7572960205504384286",
+   "handle": "bellezaycrecimiento",
+   "views": 275567,
+   "sales": 5179,
+   "date": "2025-11-15",
+   "tier": "2",
+   "angle": "'It's a wig' reply-to-comment proof demo (skeptic & counterfeit crusher)",
+   "url": "https://www.tiktok.com/@bellezaycrecimiento/video/7572960205504384286"
+  },
+  {
+   "id": "7583547936773098783",
+   "handle": "mrspicklesmom",
+   "views": 219620,
+   "sales": 5143,
+   "date": "2025-12-13",
+   "tier": "1",
+   "angle": "Midlife menopause/PCOS testimonial — 'I'm 51, in menopause, and this is my natural hair'",
+   "url": "https://www.tiktok.com/@mrspicklesmom/video/7583547936773098783"
+  },
+  {
+   "id": "7594505155228306719",
+   "handle": "bbellabianca",
+   "views": 113784,
+   "sales": 5142,
+   "date": "2026-01-16",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@bbellabianca/video/7594505155228306719"
+  },
+  {
+   "id": "7645388385112182046",
+   "handle": "ttshopkatieb",
+   "views": 298012,
+   "sales": 5117,
+   "date": "2026-05-29",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@ttshopkatieb/video/7645388385112182046"
+  },
+  {
+   "id": "7573189780150832415",
+   "handle": "selfless.entrepreneur",
+   "views": 133915,
+   "sales": 5070,
+   "date": "2025-11-16",
+   "tier": "1",
+   "angle": "",
+   "url": "https://www.tiktok.com/@selfless.entrepreneur/video/7573189780150832415"
+  },
+  {
+   "id": "7609905085451160862",
+   "handle": "shopcupones2.0",
+   "views": 82573,
+   "sales": 5024,
+   "date": "2026-02-22",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@shopcupones2.0/video/7609905085451160862"
+  },
+  {
+   "id": "7635813591018474766",
+   "handle": "ragdollmanor",
+   "views": 232318,
+   "sales": 4988,
+   "date": "2026-05-03",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@ragdollmanor/video/7635813591018474766"
+  },
+  {
+   "id": "7625452362139716895",
+   "handle": "sarajellykitty",
+   "views": 150631,
+   "sales": 4978,
+   "date": "2026-04-05",
+   "tier": "1",
+   "angle": "GLP-1 shedding confessional — testimonial + audience callout with softgel-pour proof",
+   "url": "https://www.tiktok.com/@sarajellykitty/video/7625452362139716895"
+  },
+  {
+   "id": "7596034533225516301",
+   "handle": "shopsforfunsies",
+   "views": 82762,
+   "sales": 4956,
+   "date": "2026-01-16",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@shopsforfunsies/video/7596034533225516301"
+  },
+  {
+   "id": "7593768610074496269",
+   "handle": "jadensfavorites",
+   "views": 220015,
+   "sales": 4891,
+   "date": "2026-01-10",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@jadensfavorites/video/7593768610074496269"
+  },
+  {
+   "id": "7580464412813724958",
+   "handle": "shopbyjake",
+   "views": 71360,
+   "sales": 4855,
+   "date": "2025-12-05",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@shopbyjake/video/7580464412813724958"
+  },
+  {
+   "id": "7575772865652428087",
+   "handle": "balanceandomicortisol",
+   "views": 256632,
+   "sales": 4852,
+   "date": "2025-11-22",
+   "tier": "2",
+   "angle": "'It's a wig' reply-to-comment proof demo (skeptic & counterfeit crusher)",
+   "url": "https://www.tiktok.com/@balanceandomicortisol/video/7575772865652428087"
+  },
+  {
+   "id": "7615031945986182430",
+   "handle": "queenc_707",
+   "views": 156626,
+   "sales": 4845,
+   "date": "2026-03-08",
+   "tier": "1",
+   "angle": "Skeptic's category takedown — 'pumpkin seed oil scam / what nobody tells you' honest review",
+   "url": "https://www.tiktok.com/@queenc_707/video/7615031945986182430"
+  },
+  {
+   "id": "7631043992494361869",
+   "handle": "juliviralfinds",
+   "views": 235625,
+   "sales": 4777,
+   "date": "2026-04-20",
+   "tier": "2",
+   "angle": "Hair-flip before/after testimonial ('look what this did to my hair')",
+   "url": "https://www.tiktok.com/@juliviralfinds/video/7631043992494361869"
+  },
+  {
+   "id": "7592713649303588110",
+   "handle": "thatmodelmom",
+   "views": 211119,
+   "sales": 4716,
+   "date": "2026-01-07",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@thatmodelmom/video/7592713649303588110"
+  },
+  {
+   "id": "7593993011709627661",
+   "handle": "joshuarodolfoo",
+   "views": 257530,
+   "sales": 4709,
+   "date": "2026-01-11",
+   "tier": "1",
+   "angle": "Kidney red-flag checklist + 'they tell you nothing can be done' myth-buster for foamy-urine sufferers",
+   "url": "https://www.tiktok.com/@joshuarodolfoo/video/7593993011709627661"
+  },
+  {
+   "id": "7601639145240300831",
+   "handle": "skbfizz_sherry",
+   "views": 68733,
+   "sales": 4645,
+   "date": "2026-01-31",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@skbfizz_sherry/video/7601639145240300831"
+  },
+  {
+   "id": "7616201362229021965",
+   "handle": "sustainaspell444",
+   "views": 214610,
+   "sales": 4634,
+   "date": "2026-03-11",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@sustainaspell444/video/7616201362229021965"
+  },
+  {
+   "id": "7575702253349129485",
+   "handle": "emilymayfinds",
+   "views": 63741,
+   "sales": 4559,
+   "date": "2025-11-22",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@emilymayfinds/video/7575702253349129485"
+  },
+  {
+   "id": "7546655527724420382",
+   "handle": "holisticglpgirly",
+   "views": 105937,
+   "sales": 4536,
+   "date": "2025-09-05",
+   "tier": "1",
+   "angle": "GLP-1 shedding confessional — testimonial + audience callout with softgel-pour proof",
+   "url": "https://www.tiktok.com/@holisticglpgirly/video/7546655527724420382"
+  },
+  {
+   "id": "7590100550557928735",
+   "handle": "bbellabianca",
+   "views": 105889,
+   "sales": 4535,
+   "date": "2026-01-07",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@bbellabianca/video/7590100550557928735"
+  },
+  {
+   "id": "7591860243143871757",
+   "handle": "alyssiabell467",
+   "views": 210574,
+   "sales": 4521,
+   "date": "2026-01-05",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@alyssiabell467/video/7591860243143871757"
+  },
+  {
+   "id": "7583805921638223135",
+   "handle": "taraontop",
+   "views": 181118,
+   "sales": 4481,
+   "date": "2025-12-14",
+   "tier": "1",
+   "angle": "'Lost half my hair — look at it now' before/after recovery proof",
+   "url": "https://www.tiktok.com/@taraontop/video/7583805921638223135"
+  },
+  {
+   "id": "7578308764177141022",
+   "handle": "princesstori_00",
+   "views": 209144,
+   "sales": 4476,
+   "date": "2025-11-29",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@princesstori_00/video/7578308764177141022"
+  },
+  {
+   "id": "7589864343731277087",
+   "handle": "bellezaycrecimiento",
+   "views": 248198,
+   "sales": 4469,
+   "date": "2025-12-30",
+   "tier": "2",
+   "angle": "'It's a wig' reply-to-comment proof demo (skeptic & counterfeit crusher)",
+   "url": "https://www.tiktok.com/@bellezaycrecimiento/video/7589864343731277087"
+  },
+  {
+   "id": "7584137678791134494",
+   "handle": "erin__thompson",
+   "views": 208222,
+   "sales": 4446,
+   "date": "2025-12-15",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@erin__thompson/video/7584137678791134494"
+  },
+  {
+   "id": "7646669972969770254",
+   "handle": "maaddyyi",
+   "views": 589830,
+   "sales": 4328,
+   "date": "2026-06-02",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@maaddyyi/video/7646669972969770254"
+  },
+  {
+   "id": "7620298117706960159",
+   "handle": "mswellnesspro",
+   "views": 189286,
+   "sales": 4197,
+   "date": "2026-03-23",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@mswellnesspro/video/7620298117706960159"
+  },
+  {
+   "id": "7586511670504164622",
+   "handle": "kimspiration.health",
+   "views": 188970,
+   "sales": 4172,
+   "date": "2025-12-21",
+   "tier": "1",
+   "angle": "'Lost half my hair — look at it now' before/after recovery proof",
+   "url": "https://www.tiktok.com/@kimspiration.health/video/7586511670504164622"
+  },
+  {
+   "id": "7626212958044949790",
+   "handle": "mswellnesspro",
+   "views": 190579,
+   "sales": 4146,
+   "date": "2026-04-07",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@mswellnesspro/video/7626212958044949790"
+  },
+  {
+   "id": "7514880872630258990",
+   "handle": "tap2own",
+   "views": 163494,
+   "sales": 4104,
+   "date": "2025-06-11",
+   "tier": "1",
+   "angle": "Skeptic's category takedown — 'pumpkin seed oil scam / what nobody tells you' honest review",
+   "url": "https://www.tiktok.com/@tap2own/video/7514880872630258990"
+  },
+  {
+   "id": "7626954838429011214",
+   "handle": "megantiktokaf",
+   "views": 117084,
+   "sales": 4032,
+   "date": "2026-04-09",
+   "tier": "1",
+   "angle": "Credentialed-expert science hook — 'I'm a cancer researcher / pharmacist, here's why it works'",
+   "url": "https://www.tiktok.com/@megantiktokaf/video/7626954838429011214"
+  },
+  {
+   "id": "7637289618475322654",
+   "handle": "drew.review",
+   "views": 109926,
+   "sales": 4021,
+   "date": "2026-05-07",
+   "tier": "1",
+   "angle": "Credentialed-expert science hook — 'I'm a cancer researcher / pharmacist, here's why it works'",
+   "url": "https://www.tiktok.com/@drew.review/video/7637289618475322654"
+  },
+  {
+   "id": "7584261118886022413",
+   "handle": "tap2own",
+   "views": 248323,
+   "sales": 4006,
+   "date": "2025-12-15",
+   "tier": "1",
+   "angle": "Kidney red-flag checklist + 'they tell you nothing can be done' myth-buster for foamy-urine sufferers",
+   "url": "https://www.tiktok.com/@tap2own/video/7584261118886022413"
+  },
+  {
+   "id": "7527851039949704478",
+   "handle": "icyy.curry",
+   "views": 186789,
+   "sales": 3958,
+   "date": "2025-07-16",
+   "tier": "1",
+   "angle": "Kidney red-flag checklist + 'they tell you nothing can be done' myth-buster for foamy-urine sufferers",
+   "url": "https://www.tiktok.com/@icyy.curry/video/7527851039949704478"
+  },
+  {
+   "id": "7605386798973324574",
+   "handle": "cuponesyofertas_yaass",
+   "views": 213856,
+   "sales": 3943,
+   "date": "2026-02-10",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@cuponesyofertas_yaass/video/7605386798973324574"
+  },
+  {
+   "id": "7535580548278930719",
+   "handle": "pripri1970",
+   "views": 130185,
+   "sales": 3913,
+   "date": "2025-08-06",
+   "tier": "1",
+   "angle": "Midlife menopause/PCOS testimonial — 'I'm 51, in menopause, and this is my natural hair'",
+   "url": "https://www.tiktok.com/@pripri1970/video/7535580548278930719"
+  },
+  {
+   "id": "7580100561513532703",
+   "handle": "erin__thompson",
+   "views": 172540,
+   "sales": 3883,
+   "date": "2025-12-04",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@erin__thompson/video/7580100561513532703"
+  },
+  {
+   "id": "7464570674754063647",
+   "handle": "elyse.greanya",
+   "views": 115342,
+   "sales": 3878,
+   "date": "2025-01-27",
+   "tier": "1",
+   "angle": "'Lost half my hair — look at it now' before/after recovery proof",
+   "url": "https://www.tiktok.com/@elyse.greanya/video/7464570674754063647"
+  },
+  {
+   "id": "7616156585005534477",
+   "handle": "hectore76",
+   "views": 208232,
+   "sales": 3827,
+   "date": "2026-03-11",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@hectore76/video/7616156585005534477"
+  },
+  {
+   "id": "7605734848015256845",
+   "handle": "tap2own",
+   "views": 155634,
+   "sales": 3810,
+   "date": "2026-02-11",
+   "tier": "1",
+   "angle": "Kidney red-flag checklist + 'they tell you nothing can be done' myth-buster for foamy-urine sufferers",
+   "url": "https://www.tiktok.com/@tap2own/video/7605734848015256845"
+  },
+  {
+   "id": "7632424948232916238",
+   "handle": "thesupplementdoctor",
+   "views": 115182,
+   "sales": 3792,
+   "date": "2026-04-24",
+   "tier": "1",
+   "angle": "",
+   "url": "https://www.tiktok.com/@thesupplementdoctor/video/7632424948232916238"
+  },
+  {
+   "id": "7618768698710510878",
+   "handle": "lisa.saldarriaga",
+   "views": 206263,
+   "sales": 3777,
+   "date": "2026-03-18",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@lisa.saldarriaga/video/7618768698710510878"
+  },
+  {
+   "id": "7556692526850116895",
+   "handle": "sa.miyahh",
+   "views": 84041,
+   "sales": 3716,
+   "date": "2025-10-02",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@sa.miyahh/video/7556692526850116895"
+  },
+  {
+   "id": "7593894803088198942",
+   "handle": "tlynanxio",
+   "views": 155593,
+   "sales": 3690,
+   "date": "2026-01-10",
+   "tier": "1",
+   "angle": "'Lost half my hair — look at it now' before/after recovery proof",
+   "url": "https://www.tiktok.com/@tlynanxio/video/7593894803088198942"
+  },
+  {
+   "id": "7606489258630679821",
+   "handle": "tap2own",
+   "views": 191224,
+   "sales": 3647,
+   "date": "2026-02-13",
+   "tier": "1",
+   "angle": "Skeptic's category takedown — 'pumpkin seed oil scam / what nobody tells you' honest review",
+   "url": "https://www.tiktok.com/@tap2own/video/7606489258630679821"
+  },
+  {
+   "id": "7538626514204593421",
+   "handle": "bellezaycrecimiento",
+   "views": 191543,
+   "sales": 3636,
+   "date": "2025-08-14",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@bellezaycrecimiento/video/7538626514204593421"
+  },
+  {
+   "id": "7601986593733266719",
+   "handle": "peachyfindsgems",
+   "views": 157026,
+   "sales": 3631,
+   "date": "2026-02-03",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@peachyfindsgems/video/7601986593733266719"
+  },
+  {
+   "id": "7478336386429390111",
+   "handle": "kayladelight",
+   "views": 77081,
+   "sales": 3616,
+   "date": "2025-03-05",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@kayladelight/video/7478336386429390111"
+  },
+  {
+   "id": "7618583491755756830",
+   "handle": "luybravo999",
+   "views": 186452,
+   "sales": 3592,
+   "date": "2026-03-18",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@luybravo999/video/7618583491755756830"
+  },
+  {
+   "id": "7536681937365257502",
+   "handle": "drew.review1",
+   "views": 101976,
+   "sales": 3534,
+   "date": "2025-08-09",
+   "tier": "1",
+   "angle": "Credentialed-expert science hook — 'I'm a cancer researcher / pharmacist, here's why it works'",
+   "url": "https://www.tiktok.com/@drew.review1/video/7536681937365257502"
+  },
+  {
+   "id": "7605417579548511501",
+   "handle": "tap2own",
+   "views": 137690,
+   "sales": 3504,
+   "date": "2026-02-10",
+   "tier": "1",
+   "angle": "Kidney red-flag checklist + 'they tell you nothing can be done' myth-buster for foamy-urine sufferers",
+   "url": "https://www.tiktok.com/@tap2own/video/7605417579548511501"
+  },
+  {
+   "id": "7636886987231776030",
+   "handle": "shopbyjake",
+   "views": 54132,
+   "sales": 3459,
+   "date": "2026-05-06",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@shopbyjake/video/7636886987231776030"
+  },
+  {
+   "id": "7645092630166097166",
+   "handle": "official.nilla",
+   "views": 70514,
+   "sales": 3449,
+   "date": "2026-05-28",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@official.nilla/video/7645092630166097166"
+  },
+  {
+   "id": "7592424556351032606",
+   "handle": "sarajellykitty",
+   "views": 128447,
+   "sales": 3441,
+   "date": "2026-01-06",
+   "tier": "1",
+   "angle": "GLP-1 shedding confessional — testimonial + audience callout with softgel-pour proof",
+   "url": "https://www.tiktok.com/@sarajellykitty/video/7592424556351032606"
+  },
+  {
+   "id": "7618741647089700109",
+   "handle": "ana.wellness",
+   "views": 158766,
+   "sales": 3420,
+   "date": "2026-03-18",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@ana.wellness/video/7618741647089700109"
+  },
+  {
+   "id": "7576484779206511902",
+   "handle": "holisticglpgirly",
+   "views": 55362,
+   "sales": 3419,
+   "date": "2025-11-24",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@holisticglpgirly/video/7576484779206511902"
+  },
+  {
+   "id": "7524422557114600735",
+   "handle": "cuponesyofertas_yaass",
+   "views": 93464,
+   "sales": 3418,
+   "date": "2025-07-07",
+   "tier": "1",
+   "angle": "",
+   "url": "https://www.tiktok.com/@cuponesyofertas_yaass/video/7524422557114600735"
+  },
+  {
+   "id": "7589788528196816141",
+   "handle": "official.nilla",
+   "views": 75651,
+   "sales": 3409,
+   "date": "2025-12-30",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@official.nilla/video/7589788528196816141"
+  },
+  {
+   "id": "7575262638658112799",
+   "handle": "tap2own",
+   "views": 330375,
+   "sales": 3408,
+   "date": "2025-11-21",
+   "tier": "1",
+   "angle": "Kidney red-flag checklist + 'they tell you nothing can be done' myth-buster for foamy-urine sufferers",
+   "url": "https://www.tiktok.com/@tap2own/video/7575262638658112799"
+  },
+  {
+   "id": "7572040840856489229",
+   "handle": "the_geriatricmillennial",
+   "views": 74439,
+   "sales": 3365,
+   "date": "2025-11-12",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@the_geriatricmillennial/video/7572040840856489229"
+  },
+  {
+   "id": "7617356621387205918",
+   "handle": "blitzypicks",
+   "views": 166036,
+   "sales": 3356,
+   "date": "2026-03-15",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@blitzypicks/video/7617356621387205918"
+  },
+  {
+   "id": "7623000683205250317",
+   "handle": "ashleylh1",
+   "views": 152819,
+   "sales": 3342,
+   "date": "2026-03-30",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@ashleylh1/video/7623000683205250317"
+  },
+  {
+   "id": "7627345721720671502",
+   "handle": "carolinaa550",
+   "views": 168023,
+   "sales": 3324,
+   "date": "2026-04-10",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@carolinaa550/video/7627345721720671502"
+  },
+  {
+   "id": "7611175178688679182",
+   "handle": "jetskcqzy7m",
+   "views": 152994,
+   "sales": 3310,
+   "date": "2026-02-26",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@jetskcqzy7m/video/7611175178688679182"
+  },
+  {
+   "id": "7612379434867313951",
+   "handle": "balanceandomicortisol",
+   "views": 160842,
+   "sales": 3299,
+   "date": "2026-03-01",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@balanceandomicortisol/video/7612379434867313951"
+  },
+  {
+   "id": "7603203892997885214",
+   "handle": "nathaliarestrepod",
+   "views": 203400,
+   "sales": 3293,
+   "date": "2026-02-04",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@nathaliarestrepod/video/7603203892997885214"
+  },
+  {
+   "id": "7638829869224217870",
+   "handle": "kimspiration.health",
+   "views": 49086,
+   "sales": 3190,
+   "date": "2026-05-11",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@kimspiration.health/video/7638829869224217870"
+  },
+  {
+   "id": "7610512114511269151",
+   "handle": "johnnieolivia",
+   "views": 71549,
+   "sales": 3170,
+   "date": "2026-02-24",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@johnnieolivia/video/7610512114511269151"
+  },
+  {
+   "id": "7586146392448437518",
+   "handle": "holisticglpgirly",
+   "views": 48301,
+   "sales": 3164,
+   "date": "2025-12-20",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@holisticglpgirly/video/7586146392448437518"
+  },
+  {
+   "id": "7647637558003780878",
+   "handle": "annamay_barbusca",
+   "views": 85661,
+   "sales": 3151,
+   "date": "2026-06-04",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@annamay_barbusca/video/7647637558003780878"
+  },
+  {
+   "id": "7612324332768955661",
+   "handle": "jadeletty",
+   "views": 160400,
+   "sales": 3132,
+   "date": "2026-03-01",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@jadeletty/video/7612324332768955661"
+  },
+  {
+   "id": "7546071331276639519",
+   "handle": "cuponesyofertas_yaass",
+   "views": 100579,
+   "sales": 3062,
+   "date": "2025-09-03",
+   "tier": "1",
+   "angle": "",
+   "url": "https://www.tiktok.com/@cuponesyofertas_yaass/video/7546071331276639519"
+  },
+  {
+   "id": "7618756236900699405",
+   "handle": "mzbeesays",
+   "views": 64754,
+   "sales": 3040,
+   "date": "2026-03-18",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@mzbeesays/video/7618756236900699405"
+  },
+  {
+   "id": "7618823457731628319",
+   "handle": "jexknowsbest",
+   "views": 82371,
+   "sales": 3028,
+   "date": "2026-03-19",
+   "tier": "1",
+   "angle": "",
+   "url": "https://www.tiktok.com/@jexknowsbest/video/7618823457731628319"
+  },
+  {
+   "id": "7502951373886213422",
+   "handle": "bellezaycrecimiento",
+   "views": 146788,
+   "sales": 3007,
+   "date": "2025-05-10",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@bellezaycrecimiento/video/7502951373886213422"
+  },
+  {
+   "id": "7597189055545117982",
+   "handle": "cuponesyofertas_yaass",
+   "views": 147533,
+   "sales": 2975,
+   "date": "2026-01-19",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@cuponesyofertas_yaass/video/7597189055545117982"
+  },
+  {
+   "id": "7633079808552914206",
+   "handle": "artistzone2",
+   "views": 65522,
+   "sales": 2969,
+   "date": "2026-04-26",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@artistzone2/video/7633079808552914206"
+  },
+  {
+   "id": "7641876512089607438",
+   "handle": "carolinaa550",
+   "views": 154188,
+   "sales": 2968,
+   "date": "2026-05-20",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@carolinaa550/video/7641876512089607438"
+  },
+  {
+   "id": "7642793447795051807",
+   "handle": "marketerohispano",
+   "views": 176393,
+   "sales": 2960,
+   "date": "2026-05-22",
+   "tier": "1",
+   "angle": "Spanish-language nurse-practitioner prop-demo explainer",
+   "url": "https://www.tiktok.com/@marketerohispano/video/7642793447795051807"
+  },
+  {
+   "id": "7606421224176045342",
+   "handle": "ambareviews",
+   "views": 100425,
+   "sales": 2926,
+   "date": "2026-02-13",
+   "tier": "1",
+   "angle": "",
+   "url": "https://www.tiktok.com/@ambareviews/video/7606421224176045342"
+  },
+  {
+   "id": "7576709766035164430",
+   "handle": "vero.sin.filtro",
+   "views": 131238,
+   "sales": 2921,
+   "date": "2025-11-25",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@vero.sin.filtro/video/7576709766035164430"
+  },
+  {
+   "id": "7612469900254268703",
+   "handle": "thepeakpage",
+   "views": 58277,
+   "sales": 2882,
+   "date": "2026-03-01",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@thepeakpage/video/7612469900254268703"
+  },
+  {
+   "id": "7629885881276566797",
+   "handle": "carolinaa550",
+   "views": 153076,
+   "sales": 2866,
+   "date": "2026-04-17",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@carolinaa550/video/7629885881276566797"
+  },
+  {
+   "id": "7583760280157523231",
+   "handle": "kayladelight",
+   "views": 121047,
+   "sales": 2857,
+   "date": "2025-12-14",
+   "tier": "1",
+   "angle": "",
+   "url": "https://www.tiktok.com/@kayladelight/video/7583760280157523231"
+  },
+  {
+   "id": "7606006361582849294",
+   "handle": "tap2own",
+   "views": 131883,
+   "sales": 2843,
+   "date": "2026-02-12",
+   "tier": "1",
+   "angle": "Kidney red-flag checklist + 'they tell you nothing can be done' myth-buster for foamy-urine sufferers",
+   "url": "https://www.tiktok.com/@tap2own/video/7606006361582849294"
+  },
+  {
+   "id": "7564983756008754463",
+   "handle": "selfless.entrepreneur",
+   "views": 65097,
+   "sales": 2761,
+   "date": "2025-10-24",
+   "tier": "1",
+   "angle": "",
+   "url": "https://www.tiktok.com/@selfless.entrepreneur/video/7564983756008754463"
+  },
+  {
+   "id": "7533318933701512479",
+   "handle": "alisra_lifecoach",
+   "views": 70256,
+   "sales": 2753,
+   "date": "2025-07-31",
+   "tier": "1",
+   "angle": "",
+   "url": "https://www.tiktok.com/@alisra_lifecoach/video/7533318933701512479"
+  },
+  {
+   "id": "7575449002133556510",
+   "handle": "blitzypicks",
+   "views": 154785,
+   "sales": 2744,
+   "date": "2025-11-22",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@blitzypicks/video/7575449002133556510"
+  },
+  {
+   "id": "7561280655716289806",
+   "handle": "julissaomg1",
+   "views": 110900,
+   "sales": 2742,
+   "date": "2025-10-14",
+   "tier": "1",
+   "angle": "",
+   "url": "https://www.tiktok.com/@julissaomg1/video/7561280655716289806"
+  },
+  {
+   "id": "7464804107254009131",
+   "handle": "sharonaustin20",
+   "views": 71739,
+   "sales": 2725,
+   "date": "2025-01-27",
+   "tier": "1",
+   "angle": "",
+   "url": "https://www.tiktok.com/@sharonaustin20/video/7464804107254009131"
+  },
+  {
+   "id": "7594152631711436063",
+   "handle": "itsemilyleah",
+   "views": 59820,
+   "sales": 2712,
+   "date": "2026-01-11",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@itsemilyleah/video/7594152631711436063"
+  },
+  {
+   "id": "7592326003263802637",
+   "handle": "joshuarodolfoo",
+   "views": 136113,
+   "sales": 2661,
+   "date": "2026-01-06",
+   "tier": "1",
+   "angle": "Kidney red-flag checklist + 'they tell you nothing can be done' myth-buster for foamy-urine sufferers",
+   "url": "https://www.tiktok.com/@joshuarodolfoo/video/7592326003263802637"
+  },
+  {
+   "id": "7646527181081808159",
+   "handle": "poshwellness",
+   "views": 64047,
+   "sales": 2616,
+   "date": "2026-06-01",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@poshwellness/video/7646527181081808159"
+  },
+  {
+   "id": "7594456632516562231",
+   "handle": "josina_munson",
+   "views": 124596,
+   "sales": 2606,
+   "date": "2026-01-12",
+   "tier": "1",
+   "angle": "",
+   "url": "https://www.tiktok.com/@josina_munson/video/7594456632516562231"
+  },
+  {
+   "id": "7605389949784919327",
+   "handle": "janaleann22",
+   "views": 85664,
+   "sales": 2605,
+   "date": "2026-02-10",
+   "tier": "1",
+   "angle": "",
+   "url": "https://www.tiktok.com/@janaleann22/video/7605389949784919327"
+  },
+  {
+   "id": "7553440834230766878",
+   "handle": "sarajellykitty",
+   "views": 67035,
+   "sales": 2605,
+   "date": "2025-09-23",
+   "tier": "1",
+   "angle": "",
+   "url": "https://www.tiktok.com/@sarajellykitty/video/7553440834230766878"
+  },
+  {
+   "id": "7585238909416639757",
+   "handle": "austinsonestopshop",
+   "views": 120797,
+   "sales": 2585,
+   "date": "2025-12-18",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@austinsonestopshop/video/7585238909416639757"
+  },
+  {
+   "id": "7593851703812787487",
+   "handle": "lacy_learns2luvherself",
+   "views": 105537,
+   "sales": 2566,
+   "date": "2026-01-10",
+   "tier": "1",
+   "angle": "",
+   "url": "https://www.tiktok.com/@lacy_learns2luvherself/video/7593851703812787487"
+  },
+  {
+   "id": "7639068956426276127",
+   "handle": "official.nilla",
+   "views": 52618,
+   "sales": 2555,
+   "date": "2026-05-12",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@official.nilla/video/7639068956426276127"
+  },
+  {
+   "id": "7623467796587973902",
+   "handle": "carolinaa550",
+   "views": 128989,
+   "sales": 2523,
+   "date": "2026-03-31",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@carolinaa550/video/7623467796587973902"
+  },
+  {
+   "id": "7632423797055851789",
+   "handle": "bbellabianca",
+   "views": 67479,
+   "sales": 2518,
+   "date": "2026-04-28",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@bbellabianca/video/7632423797055851789"
+  },
+  {
+   "id": "7635447468674665742",
+   "handle": "mzbeesays",
+   "views": 55270,
+   "sales": 2506,
+   "date": "2026-05-02",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@mzbeesays/video/7635447468674665742"
+  },
+  {
+   "id": "7611319900073757966",
+   "handle": "ana.wellness",
+   "views": 122795,
+   "sales": 2475,
+   "date": "2026-02-26",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@ana.wellness/video/7611319900073757966"
+  },
+  {
+   "id": "7606875677727542541",
+   "handle": "highesthopesofficial",
+   "views": 90949,
+   "sales": 2370,
+   "date": "2026-02-14",
+   "tier": "1",
+   "angle": "",
+   "url": "https://www.tiktok.com/@highesthopesofficial/video/7606875677727542541"
+  },
+  {
+   "id": "7524789140592807199",
+   "handle": "paolaurdanetad",
+   "views": 110759,
+   "sales": 2329,
+   "date": "2025-07-08",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@paolaurdanetad/video/7524789140592807199"
+  },
+  {
+   "id": "7580893659692879118",
+   "handle": "official.nilla",
+   "views": 54562,
+   "sales": 2326,
+   "date": "2025-12-06",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@official.nilla/video/7580893659692879118"
+  },
+  {
+   "id": "7612183971392130335",
+   "handle": "blitzypicks",
+   "views": 121979,
+   "sales": 2324,
+   "date": "2026-03-01",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@blitzypicks/video/7612183971392130335"
+  },
+  {
+   "id": "7613082827327802654",
+   "handle": "nonieunlimited",
+   "views": 45945,
+   "sales": 2309,
+   "date": "2026-03-03",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@nonieunlimited/video/7613082827327802654"
+  },
+  {
+   "id": "7492895750817565998",
+   "handle": "drew.review",
+   "views": 60807,
+   "sales": 2229,
+   "date": "2025-04-13",
+   "tier": "1",
+   "angle": "",
+   "url": "https://www.tiktok.com/@drew.review/video/7492895750817565998"
+  },
+  {
+   "id": "7623904828489551117",
+   "handle": "morgankaprice",
+   "views": 41865,
+   "sales": 2213,
+   "date": "2026-04-01",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@morgankaprice/video/7623904828489551117"
+  },
+  {
+   "id": "7569079864322477342",
+   "handle": "selfless.entrepreneur",
+   "views": 61169,
+   "sales": 2204,
+   "date": "2025-11-04",
+   "tier": "1",
+   "angle": "",
+   "url": "https://www.tiktok.com/@selfless.entrepreneur/video/7569079864322477342"
+  },
+  {
+   "id": "7494739140836183327",
+   "handle": "janaleann22",
+   "views": 51057,
+   "sales": 2204,
+   "date": "2025-04-18",
+   "tier": "1",
+   "angle": "",
+   "url": "https://www.tiktok.com/@janaleann22/video/7494739140836183327"
+  },
+  {
+   "id": "7647740485045325086",
+   "handle": "bbellabianca",
+   "views": 60153,
+   "sales": 2200,
+   "date": "2026-06-05",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@bbellabianca/video/7647740485045325086"
+  },
+  {
+   "id": "7585667516010171703",
+   "handle": "kimspiration.health",
+   "views": 85648,
+   "sales": 2165,
+   "date": "2025-12-19",
+   "tier": "1",
+   "angle": "",
+   "url": "https://www.tiktok.com/@kimspiration.health/video/7585667516010171703"
+  },
+  {
+   "id": "7576535762217274638",
+   "handle": "exploretheworld.999",
+   "views": 74565,
+   "sales": 2160,
+   "date": "2025-11-25",
+   "tier": "1",
+   "angle": "",
+   "url": "https://www.tiktok.com/@exploretheworld.999/video/7576535762217274638"
+  },
+  {
+   "id": "7554412813712624909",
+   "handle": "bellezaycrecimiento",
+   "views": 104900,
+   "sales": 2151,
+   "date": "2025-09-26",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@bellezaycrecimiento/video/7554412813712624909"
+  },
+  {
+   "id": "7632888016343665951",
+   "handle": "tipsdevale",
+   "views": 126975,
+   "sales": 2100,
+   "date": "2026-04-25",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@tipsdevale/video/7632888016343665951"
+  },
+  {
+   "id": "7602098052853206327",
+   "handle": "official.nilla",
+   "views": 43308,
+   "sales": 2075,
+   "date": "2026-02-01",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@official.nilla/video/7602098052853206327"
+  },
+  {
+   "id": "7532600407843982647",
+   "handle": "boise_brooke",
+   "views": 55801,
+   "sales": 2000,
+   "date": "2025-07-29",
+   "tier": "1",
+   "angle": "",
+   "url": "https://www.tiktok.com/@boise_brooke/video/7532600407843982647"
+  },
+  {
+   "id": "7472793592080125215",
+   "handle": "grateful.nat",
+   "views": 49297,
+   "sales": 1949,
+   "date": "2025-02-18",
+   "tier": "1",
+   "angle": "",
+   "url": "https://www.tiktok.com/@grateful.nat/video/7472793592080125215"
+  },
+  {
+   "id": "7582412574923181326",
+   "handle": "tap2own",
+   "views": 98421,
+   "sales": 1940,
+   "date": "2025-12-10",
+   "tier": "1",
+   "angle": "Kidney red-flag checklist + 'they tell you nothing can be done' myth-buster for foamy-urine sufferers",
+   "url": "https://www.tiktok.com/@tap2own/video/7582412574923181326"
+  },
+  {
+   "id": "7471153276856126762",
+   "handle": "luckybamboo293",
+   "views": 35544,
+   "sales": 1936,
+   "date": "2025-02-14",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@luckybamboo293/video/7471153276856126762"
+  },
+  {
+   "id": "7613135217758391583",
+   "handle": "kayefavfinds",
+   "views": 41242,
+   "sales": 1916,
+   "date": "2026-03-03",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@kayefavfinds/video/7613135217758391583"
+  },
+  {
+   "id": "7471822406831607070",
+   "handle": "leeleesfavfinds",
+   "views": 48237,
+   "sales": 1888,
+   "date": "2025-02-15",
+   "tier": "1",
+   "angle": "",
+   "url": "https://www.tiktok.com/@leeleesfavfinds/video/7471822406831607070"
+  },
+  {
+   "id": "7608768231318277406",
+   "handle": "microingredients",
+   "views": 62313,
+   "sales": 1883,
+   "date": "2026-02-24",
+   "tier": "1",
+   "angle": "",
+   "url": "https://www.tiktok.com/@microingredients/video/7608768231318277406"
+  },
+  {
+   "id": "7548144462187351310",
+   "handle": "sizovusa",
+   "views": 109181,
+   "sales": 1872,
+   "date": "2025-09-09",
+   "tier": "1",
+   "angle": "",
+   "url": "https://www.tiktok.com/@sizovusa/video/7548144462187351310"
+  },
+  {
+   "id": "7638172582201625886",
+   "handle": "bellezaycrecimiento",
+   "views": 99338,
+   "sales": 1867,
+   "date": "2026-05-10",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@bellezaycrecimiento/video/7638172582201625886"
+  },
+  {
+   "id": "7595631802723716365",
+   "handle": "ninashealthtips",
+   "views": 89775,
+   "sales": 1835,
+   "date": "2026-01-15",
+   "tier": "1",
+   "angle": "",
+   "url": "https://www.tiktok.com/@ninashealthtips/video/7595631802723716365"
+  },
+  {
+   "id": "7623803204907666719",
+   "handle": "adrianainciarte34",
+   "views": 91104,
+   "sales": 1821,
+   "date": "2026-04-01",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@adrianainciarte34/video/7623803204907666719"
+  },
+  {
+   "id": "7590658156892523806",
+   "handle": "sarajellykitty",
+   "views": 70172,
+   "sales": 1818,
+   "date": "2026-01-02",
+   "tier": "1",
+   "angle": "",
+   "url": "https://www.tiktok.com/@sarajellykitty/video/7590658156892523806"
+  },
+  {
+   "id": "7624365481343864095",
+   "handle": "gusstavoofertas",
+   "views": 83048,
+   "sales": 1808,
+   "date": "2026-04-02",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@gusstavoofertas/video/7624365481343864095"
+  },
+  {
+   "id": "7621954249773108511",
+   "handle": "bellezaycrecimiento",
+   "views": 87875,
+   "sales": 1806,
+   "date": "2026-03-27",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@bellezaycrecimiento/video/7621954249773108511"
+  },
+  {
+   "id": "7604712445659188494",
+   "handle": "andrearditacchio",
+   "views": 93322,
+   "sales": 1799,
+   "date": "2026-02-09",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@andrearditacchio/video/7604712445659188494"
+  },
+  {
+   "id": "7621364648058572062",
+   "handle": "beezan0s",
+   "views": 70105,
+   "sales": 1775,
+   "date": "2026-03-25",
+   "tier": "1",
+   "angle": "",
+   "url": "https://www.tiktok.com/@beezan0s/video/7621364648058572062"
+  },
+  {
+   "id": "7633397538745339149",
+   "handle": "jtcdygt6415",
+   "views": 66297,
+   "sales": 1746,
+   "date": "2026-04-27",
+   "tier": "1",
+   "angle": "",
+   "url": "https://www.tiktok.com/@jtcdygt6415/video/7633397538745339149"
+  },
+  {
+   "id": "7580328595831131422",
+   "handle": "afrim0425a152",
+   "views": 95100,
+   "sales": 1744,
+   "date": "2025-12-05",
+   "tier": "1",
+   "angle": "",
+   "url": "https://www.tiktok.com/@afrim0425a152/video/7580328595831131422"
+  },
+  {
+   "id": "7515518630717705503",
+   "handle": "emilyyymays",
+   "views": 38345,
+   "sales": 1711,
+   "date": "2025-06-13",
+   "tier": "1",
+   "angle": "",
+   "url": "https://www.tiktok.com/@emilyyymays/video/7515518630717705503"
+  },
+  {
+   "id": "7623076983550872862",
+   "handle": "adoseofwellness",
+   "views": 43753,
+   "sales": 1670,
+   "date": "2026-03-30",
+   "tier": "1",
+   "angle": "",
+   "url": "https://www.tiktok.com/@adoseofwellness/video/7623076983550872862"
+  },
+  {
+   "id": "7618436097869090079",
+   "handle": "sarajellykitty",
+   "views": 43492,
+   "sales": 1648,
+   "date": "2026-03-17",
+   "tier": "1",
+   "angle": "",
+   "url": "https://www.tiktok.com/@sarajellykitty/video/7618436097869090079"
+  },
+  {
+   "id": "7631886145613221133",
+   "handle": "egradmcq1hv",
+   "views": 66676,
+   "sales": 1606,
+   "date": "2026-04-23",
+   "tier": "1",
+   "angle": "",
+   "url": "https://www.tiktok.com/@egradmcq1hv/video/7631886145613221133"
+  },
+  {
+   "id": "7567789866319138079",
+   "handle": "adoseofwellness",
+   "views": 33280,
+   "sales": 1597,
+   "date": "2025-11-01",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@adoseofwellness/video/7567789866319138079"
+  },
+  {
+   "id": "7598494806217690381",
+   "handle": "nich_williams.jr",
+   "views": 50055,
+   "sales": 1589,
+   "date": "2026-01-23",
+   "tier": "1",
+   "angle": "",
+   "url": "https://www.tiktok.com/@nich_williams.jr/video/7598494806217690381"
+  },
+  {
+   "id": "7637295114909437214",
+   "handle": "collinsbeautyco",
+   "views": 32073,
+   "sales": 1565,
+   "date": "2026-05-07",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@collinsbeautyco/video/7637295114909437214"
+  },
+  {
+   "id": "7541059714805779742",
+   "handle": "holisticglpgirly",
+   "views": 52333,
+   "sales": 1557,
+   "date": "2025-08-21",
+   "tier": "1",
+   "angle": "",
+   "url": "https://www.tiktok.com/@holisticglpgirly/video/7541059714805779742"
+  },
+  {
+   "id": "7592410251308109086",
+   "handle": "findsbyjayslen",
+   "views": 64320,
+   "sales": 1553,
+   "date": "2026-01-06",
+   "tier": "1",
+   "angle": "",
+   "url": "https://www.tiktok.com/@findsbyjayslen/video/7592410251308109086"
+  },
+  {
+   "id": "7626230904612080909",
+   "handle": "megantiktokaf",
+   "views": 39314,
+   "sales": 1539,
+   "date": "2026-04-07",
+   "tier": "1",
+   "angle": "",
+   "url": "https://www.tiktok.com/@megantiktokaf/video/7626230904612080909"
+  },
+  {
+   "id": "7616210221781847326",
+   "handle": "carrie_williams15",
+   "views": 45052,
+   "sales": 1534,
+   "date": "2026-03-11",
+   "tier": "1",
+   "angle": "",
+   "url": "https://www.tiktok.com/@carrie_williams15/video/7616210221781847326"
+  },
+  {
+   "id": "7642464959955340574",
+   "handle": "tap2own",
+   "views": 84604,
+   "sales": 1520,
+   "date": "2026-05-21",
+   "tier": "1",
+   "angle": "",
+   "url": "https://www.tiktok.com/@tap2own/video/7642464959955340574"
+  },
+  {
+   "id": "7604220813574704415",
+   "handle": "tlynanxio",
+   "views": 50676,
+   "sales": 1516,
+   "date": "2026-02-07",
+   "tier": "1",
+   "angle": "",
+   "url": "https://www.tiktok.com/@tlynanxio/video/7604220813574704415"
+  },
+  {
+   "id": "7518524058120604942",
+   "handle": "boise_brooke",
+   "views": 33680,
+   "sales": 1510,
+   "date": "2025-06-21",
+   "tier": "1",
+   "angle": "",
+   "url": "https://www.tiktok.com/@boise_brooke/video/7518524058120604942"
+  },
+  {
+   "id": "7585055393819266335",
+   "handle": "tap2own",
+   "views": 84519,
+   "sales": 1503,
+   "date": "2025-12-17",
+   "tier": "1",
+   "angle": "",
+   "url": "https://www.tiktok.com/@tap2own/video/7585055393819266335"
+  },
+  {
+   "id": "7600155883607231775",
+   "handle": "josina_munson",
+   "views": 57350,
+   "sales": 1483,
+   "date": "2026-01-27",
+   "tier": "1",
+   "angle": "",
+   "url": "https://www.tiktok.com/@josina_munson/video/7600155883607231775"
+  },
+  {
+   "id": "7601737656761961758",
+   "handle": "explorearoundus",
+   "views": 51281,
+   "sales": 1482,
+   "date": "2026-01-31",
+   "tier": "1",
+   "angle": "",
+   "url": "https://www.tiktok.com/@explorearoundus/video/7601737656761961758"
+  },
+  {
+   "id": "7514018592225168686",
+   "handle": "tap2own",
+   "views": 60519,
+   "sales": 1472,
+   "date": "2025-06-09",
+   "tier": "1",
+   "angle": "",
+   "url": "https://www.tiktok.com/@tap2own/video/7514018592225168686"
+  },
+  {
+   "id": "7639926831512128798",
+   "handle": "marketerohispano",
+   "views": 64185,
+   "sales": 1457,
+   "date": "2026-05-14",
+   "tier": "1",
+   "angle": "",
+   "url": "https://www.tiktok.com/@marketerohispano/video/7639926831512128798"
+  },
+  {
+   "id": "7472498079560764703",
+   "handle": "grateful.nat",
+   "views": 37625,
+   "sales": 1422,
+   "date": "2025-02-17",
+   "tier": "1",
+   "angle": "",
+   "url": "https://www.tiktok.com/@grateful.nat/video/7472498079560764703"
+  },
+  {
+   "id": "7483636233785150762",
+   "handle": "miranda.shopmama",
+   "views": 31295,
+   "sales": 1402,
+   "date": "2025-03-19",
+   "tier": "1",
+   "angle": "",
+   "url": "https://www.tiktok.com/@miranda.shopmama/video/7483636233785150762"
+  },
+  {
+   "id": "7511490497559530794",
+   "handle": "marciecoltman",
+   "views": 32402,
+   "sales": 1397,
+   "date": "2025-06-02",
+   "tier": "1",
+   "angle": "",
+   "url": "https://www.tiktok.com/@marciecoltman/video/7511490497559530794"
+  },
+  {
+   "id": "7576148830266182926",
+   "handle": "neurodivergent.curls",
+   "views": 41888,
+   "sales": 1366,
+   "date": "2025-11-23",
+   "tier": "1",
+   "angle": "",
+   "url": "https://www.tiktok.com/@neurodivergent.curls/video/7576148830266182926"
+  },
+  {
+   "id": "7595416162075151630",
+   "handle": "melaniemval",
+   "views": 64630,
+   "sales": 1204,
+   "date": "2026-01-14",
+   "tier": "1",
+   "angle": "",
+   "url": "https://www.tiktok.com/@melaniemval/video/7595416162075151630"
+  },
+  {
+   "id": "7595389230499564813",
+   "handle": "jessnotsimpson1",
+   "views": 50841,
+   "sales": 1199,
+   "date": "2026-01-14",
+   "tier": "1",
+   "angle": "",
+   "url": "https://www.tiktok.com/@jessnotsimpson1/video/7595389230499564813"
+  },
+  {
+   "id": "7546601240407395639",
+   "handle": "sizovusa",
+   "views": 63725,
+   "sales": 1169,
+   "date": "2025-09-05",
+   "tier": "1",
+   "angle": "",
+   "url": "https://www.tiktok.com/@sizovusa/video/7546601240407395639"
+  },
+  {
+   "id": "7620254739766267167",
+   "handle": "marketerohispano",
+   "views": 50472,
+   "sales": 1106,
+   "date": "2026-03-22",
+   "tier": "1",
+   "angle": "",
+   "url": "https://www.tiktok.com/@marketerohispano/video/7620254739766267167"
+  },
+  {
+   "id": "7644678601140440351",
+   "handle": "tap2own",
+   "views": 64956,
+   "sales": 1080,
+   "date": "2026-05-27",
+   "tier": "1",
+   "angle": "",
+   "url": "https://www.tiktok.com/@tap2own/video/7644678601140440351"
+  },
+  {
+   "id": "7632646015363042573",
+   "handle": "egradmcq1hv",
+   "views": 71253,
+   "sales": 996,
+   "date": "2026-04-25",
+   "tier": "1",
+   "angle": "",
+   "url": "https://www.tiktok.com/@egradmcq1hv/video/7632646015363042573"
+  },
+  {
+   "id": "7647060239807679758",
+   "handle": "@zodontmiss",
+   "views": 19900000,
+   "sales": 0,
+   "date": "",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@zodontmiss/video/7647060239807679758"
+  },
+  {
+   "id": "7650220649499217166",
+   "handle": "@wwwchism3com",
+   "views": 12000000,
+   "sales": 0,
+   "date": "",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@wwwchism3com/video/7650220649499217166"
+  },
+  {
+   "id": "7655533477034544398",
+   "handle": "@storysstorie7",
+   "views": 9500000,
+   "sales": 0,
+   "date": "",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@storysstorie7/video/7655533477034544398"
+  },
+  {
+   "id": "7641782399218552078",
+   "handle": "@kinnnyb",
+   "views": 9100000,
+   "sales": 0,
+   "date": "",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@kinnnyb/video/7641782399218552078"
+  },
+  {
+   "id": "7655120356381822238",
+   "handle": "@tkmseries",
+   "views": 8000000,
+   "sales": 0,
+   "date": "",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@tkmseries/video/7655120356381822238"
+  },
+  {
+   "id": "7638745937657040141",
+   "handle": "@ashbro0ks",
+   "views": 7700000,
+   "sales": 0,
+   "date": "",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@ashbro0ks/video/7638745937657040141"
+  },
+  {
+   "id": "7647293716255804686",
+   "handle": "@atziryttfinds",
+   "views": 7300000,
+   "sales": 0,
+   "date": "",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@atziryttfinds/video/7647293716255804686"
+  },
+  {
+   "id": "7642361483443064095",
+   "handle": "@molly.on.the.mic",
+   "views": 6100000,
+   "sales": 0,
+   "date": "",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@molly.on.the.mic/video/7642361483443064095"
+  },
+  {
+   "id": "7652390074365005069",
+   "handle": "@samiking527_",
+   "views": 5500000,
+   "sales": 0,
+   "date": "",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@samiking527_/video/7652390074365005069"
+  },
+  {
+   "id": "7655340289850133790",
+   "handle": "@mama_meuli",
+   "views": 4700000,
+   "sales": 0,
+   "date": "",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@mama_meuli/video/7655340289850133790"
+  },
+  {
+   "id": "7655432790489435406",
+   "handle": "@findswithkaye",
+   "views": 4700000,
+   "sales": 0,
+   "date": "",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@findswithkaye/video/7655432790489435406"
+  },
+  {
+   "id": "7643908581129080095",
+   "handle": "@meliifinds",
+   "views": 4600000,
+   "sales": 0,
+   "date": "",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@meliifinds/video/7643908581129080095"
+  },
+  {
+   "id": "7642907705203559711",
+   "handle": "@oliviamarkle",
+   "views": 4500000,
+   "sales": 0,
+   "date": "",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@oliviamarkle/video/7642907705203559711"
+  },
+  {
+   "id": "7646869325692914975",
+   "handle": "@game.changing.products",
+   "views": 4500000,
+   "sales": 0,
+   "date": "",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@game.changing.products/video/7646869325692914975"
+  },
+  {
+   "id": "7650200851528699149",
+   "handle": "@frankiefinds2.0",
+   "views": 4100000,
+   "sales": 0,
+   "date": "",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@frankiefinds2.0/video/7650200851528699149"
+  },
+  {
+   "id": "7643859643898318111",
+   "handle": "@nicoleshow77",
+   "views": 4100000,
+   "sales": 0,
+   "date": "",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@nicoleshow77/video/7643859643898318111"
+  },
+  {
+   "id": "7643932282000133407",
+   "handle": "@aaalllxo",
+   "views": 3700000,
+   "sales": 0,
+   "date": "",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@aaalllxo/video/7643932282000133407"
+  },
+  {
+   "id": "7647952901700209934",
+   "handle": "@shopmyfavv",
+   "views": 3700000,
+   "sales": 0,
+   "date": "",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@shopmyfavv/video/7647952901700209934"
+  },
+  {
+   "id": "7655397131263429918",
+   "handle": "@az_momlife",
+   "views": 3600000,
+   "sales": 0,
+   "date": "",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@az_momlife/video/7655397131263429918"
+  },
+  {
+   "id": "7644062807922609438",
+   "handle": "@glittersprakles3000",
+   "views": 3600000,
+   "sales": 0,
+   "date": "",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@glittersprakles3000/video/7644062807922609438"
+  },
+  {
+   "id": "7645152845108366605",
+   "handle": "@findsbykennyy",
+   "views": 3500000,
+   "sales": 0,
+   "date": "",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@findsbykennyy/video/7645152845108366605"
+  },
+  {
+   "id": "7647226334216785165",
+   "handle": "@chrisorb",
+   "views": 3500000,
+   "sales": 0,
+   "date": "",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@chrisorb/video/7647226334216785165"
+  },
+  {
+   "id": "7654367673760927006",
+   "handle": "@ohimcj8",
+   "views": 3400000,
+   "sales": 0,
+   "date": "",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@ohimcj8/video/7654367673760927006"
+  },
+  {
+   "id": "7654761447951568142",
+   "handle": "@elainevdvwidrick",
+   "views": 3400000,
+   "sales": 0,
+   "date": "",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@elainevdvwidrick/video/7654761447951568142"
+  },
+  {
+   "id": "7650612444397620493",
+   "handle": "@anyeli.mgm",
+   "views": 3400000,
+   "sales": 0,
+   "date": "",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@anyeli.mgm/video/7650612444397620493"
+  },
+  {
+   "id": "7645816803913977101",
+   "handle": "@andro_diaz",
+   "views": 3400000,
+   "sales": 0,
+   "date": "",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@andro_diaz/video/7645816803913977101"
+  },
+  {
+   "id": "7654599930450873631",
+   "handle": "@freeyourself777",
+   "views": 3300000,
+   "sales": 0,
+   "date": "",
+   "tier": "1",
+   "angle": "",
+   "url": "https://www.tiktok.com/@freeyourself777/video/7654599930450873631"
+  },
+  {
+   "id": "7647709414488542495",
+   "handle": "@moralaqueteenamora",
+   "views": 3300000,
+   "sales": 0,
+   "date": "",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@moralaqueteenamora/video/7647709414488542495"
+  },
+  {
+   "id": "7647478005463256333",
+   "handle": "@thestreamerrecap",
+   "views": 3300000,
+   "sales": 0,
+   "date": "",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@thestreamerrecap/video/7647478005463256333"
+  },
+  {
+   "id": "7645341610502327582",
+   "handle": "@kkmakenna",
+   "views": 3200000,
+   "sales": 0,
+   "date": "",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@kkmakenna/video/7645341610502327582"
+  },
+  {
+   "id": "7648725017861066015",
+   "handle": "@yk.itsandy",
+   "views": 3200000,
+   "sales": 0,
+   "date": "",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@yk.itsandy/video/7648725017861066015"
+  },
+  {
+   "id": "7648070807415049502",
+   "handle": "@angiebaby754",
+   "views": 3100000,
+   "sales": 0,
+   "date": "",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@angiebaby754/video/7648070807415049502"
+  },
+  {
+   "id": "7650222685443607838",
+   "handle": "@itsteatokss",
+   "views": 3100000,
+   "sales": 0,
+   "date": "",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@itsteatokss/video/7650222685443607838"
+  },
+  {
+   "id": "7647935636145458462",
+   "handle": "@keepstackinlife",
+   "views": 3000000,
+   "sales": 0,
+   "date": "",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@keepstackinlife/video/7647935636145458462"
+  },
+  {
+   "id": "7655790396030684447",
+   "handle": "@mrnovemberr4",
+   "views": 3000000,
+   "sales": 0,
+   "date": "",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@mrnovemberr4/video/7655790396030684447"
+  },
+  {
+   "id": "7646834719769808159",
+   "handle": "@hulky_dan",
+   "views": 3000000,
+   "sales": 0,
+   "date": "",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@hulky_dan/video/7646834719769808159"
+  },
+  {
+   "id": "7651309522866294029",
+   "handle": "@vrfl",
+   "views": 2900000,
+   "sales": 0,
+   "date": "",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@vrfl/video/7651309522866294029"
+  },
+  {
+   "id": "7654069509984095501",
+   "handle": "@drew.review",
+   "views": 2900000,
+   "sales": 0,
+   "date": "",
+   "tier": "1",
+   "angle": "",
+   "url": "https://www.tiktok.com/@drew.review/video/7654069509984095501"
+  },
+  {
+   "id": "7645714079620943118",
+   "handle": "@liatiktokshopcreator",
+   "views": 2800000,
+   "sales": 0,
+   "date": "",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@liatiktokshopcreator/video/7645714079620943118"
+  },
+  {
+   "id": "7643909016858529037",
+   "handle": "@mysterypackfinds",
+   "views": 2800000,
+   "sales": 0,
+   "date": "",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@mysterypackfinds/video/7643909016858529037"
+  },
+  {
+   "id": "7655432478718446861",
+   "handle": "@tikidealhub",
+   "views": 2800000,
+   "sales": 0,
+   "date": "",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@tikidealhub/video/7655432478718446861"
+  },
+  {
+   "id": "7655381803544382734",
+   "handle": "@andresdeitaly",
+   "views": 2700000,
+   "sales": 0,
+   "date": "",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@andresdeitaly/video/7655381803544382734"
+  },
+  {
+   "id": "7646992954233589005",
+   "handle": "@sassy_relatable",
+   "views": 2600000,
+   "sales": 0,
+   "date": "",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@sassy_relatable/video/7646992954233589005"
+  },
+  {
+   "id": "7653298036323388703",
+   "handle": "@mooremoneymoves",
+   "views": 2600000,
+   "sales": 0,
+   "date": "",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@mooremoneymoves/video/7653298036323388703"
+  },
+  {
+   "id": "7652072987235061005",
+   "handle": "@cadyebs",
+   "views": 2600000,
+   "sales": 0,
+   "date": "",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@cadyebs/video/7652072987235061005"
+  },
+  {
+   "id": "7649847141413702925",
+   "handle": "@kloey.loves.you",
+   "views": 2600000,
+   "sales": 0,
+   "date": "",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@kloey.loves.you/video/7649847141413702925"
+  },
+  {
+   "id": "7656988136089636110",
+   "handle": "@elainevdvwidrick",
+   "views": 2600000,
+   "sales": 0,
+   "date": "",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@elainevdvwidrick/video/7656988136089636110"
+  },
+  {
+   "id": "7654068985180245262",
+   "handle": "@shoppingwithcharlstyn",
+   "views": 2600000,
+   "sales": 0,
+   "date": "",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@shoppingwithcharlstyn/video/7654068985180245262"
+  },
+  {
+   "id": "7650330700423515406",
+   "handle": "@plaqskiii",
+   "views": 2500000,
+   "sales": 0,
+   "date": "",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@plaqskiii/video/7650330700423515406"
+  },
+  {
+   "id": "7654640963620588831",
+   "handle": "@k.makenna",
+   "views": 2500000,
+   "sales": 0,
+   "date": "",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@k.makenna/video/7654640963620588831"
+  },
+  {
+   "id": "7648127220459916575",
+   "handle": "@oliviamarkle",
+   "views": 2500000,
+   "sales": 0,
+   "date": "",
+   "tier": "2",
+   "angle": "",
+   "url": "https://www.tiktok.com/@oliviamarkle/video/7648127220459916575"
+  },
+  {
+   "id": "7649235879944260894",
+   "handle": "@javixdshop",
+   "views": 2400000,
+   "sales": 0,
+   "date": "",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@javixdshop/video/7649235879944260894"
+  },
+  {
+   "id": "7654414044266384671",
+   "handle": "@mysterypackfinds",
+   "views": 2300000,
+   "sales": 0,
+   "date": "",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@mysterypackfinds/video/7654414044266384671"
+  },
+  {
+   "id": "7644775616453020959",
+   "handle": "@motivmour",
+   "views": 2300000,
+   "sales": 0,
+   "date": "",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@motivmour/video/7644775616453020959"
+  },
+  {
+   "id": "7652259426056916255",
+   "handle": "@validclipps",
+   "views": 2300000,
+   "sales": 0,
+   "date": "",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@validclipps/video/7652259426056916255"
+  },
+  {
+   "id": "7647241336759799071",
+   "handle": "@evies.glowupguide",
+   "views": 2300000,
+   "sales": 0,
+   "date": "",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@evies.glowupguide/video/7647241336759799071"
+  },
+  {
+   "id": "7650552558599032078",
+   "handle": "@tito_from_texas",
+   "views": 2200000,
+   "sales": 0,
+   "date": "",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@tito_from_texas/video/7650552558599032078"
+  },
+  {
+   "id": "7647171564227562783",
+   "handle": "@alli.rezny",
+   "views": 2100000,
+   "sales": 0,
+   "date": "",
+   "tier": "3",
+   "angle": "",
+   "url": "https://www.tiktok.com/@alli.rezny/video/7647171564227562783"
+  }
+ ]
+}
