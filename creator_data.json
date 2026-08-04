@@ -1,7 +1,12 @@
 {
  "brand": "Celestrie",
- "built": "2026-08-03",
+ "built": "2026-08-04",
  "note": "",
+ "show_browse": true,
+ "show_tabs": true,
+ "heart": "🧡",
+ "brand_theme": true,
+ "nvideos": 1783,
  "tiers": {
   "1": "🎃 Our Niche · Pumpkin Seed Oil",
   "2": "💊 Similar Niches · Hair Growth",
@@ -17,13 +22,14 @@
   "2": "Supplements chasing the same benefits — hair growth, skin, wellness. Keep the hook structure, adapt the words to our product.",
   "3": "Completely different product worlds. Steal the format, never the topic."
  },
+ "nposts": 13,
  "angles": {
   "1": [
    {
     "name": "GLP-1 shedding confessional — 'I finally stopped my hair falling out'",
     "short": "GLP-1 shedding confessional",
     "badge": "🏆 Proven",
-    "hook": "Top-GMV variation ($13.7k + $12.2k): a woman mid-confession — 'I could scream to every single person that's on a GLP, or just losing their hair from hormones or weight' — while pouring dark softgels from the pouch into her palm with a shocked face, caption 'This DHT blocker stopped my hair fall…",
+    "hook": "Top-GMV variation: a woman mid-confession — 'I could scream to every single person that's on a GLP, or just losing their hair from hormones or weight' — while pouring dark softgels from the pouch into her palm with a shocked face, caption 'This DHT blocker stopped my hair fall out'; sister open is…",
     "why": "Identity-match ('on a GLP like me') plus a stranger's unfiltered relief lands as peer proof, and the DHT-blocker explanation gives the viewer permission to believe the fix is real. The syringe/pen prop and shed-hair overlays make the cause undeniable before the product ever appears.",
     "sound": "",
     "videos": 10,
@@ -108,9 +114,9 @@
     "name": "Kidney warning checklist + 'nothing they can do' myth-bust (foamy-urine everyman)",
     "short": "Kidney warning checklist",
     "badge": "🏆 Proven",
-    "hook": "Top-GMV variation ($19.6k): an ordinary young man dead-serious to camera — 'These are the signs that I had and unfortunately ignored, leading to me getting diagnosed with end-stage renal disease' — under a persistent caption '5 signs that your kidneys are F*CKED', with foamy-toilet, puffy-face…",
+    "hook": "Top-GMV variation: an ordinary young man dead-serious to camera — 'These are the signs that I had and unfortunately ignored, leading to me getting diagnosed with end-stage renal disease' — under a persistent caption '5 signs that your kidneys are F*CKED', with foamy-toilet, puffy-face…",
     "why": "Health-scare curiosity ('signs I ignored') attached to a symptom the viewer has privately seen in the toilet turns scrolling into personal alarm. Withholding the product makes it feel like education instead of an ad, and the distrust framing ('why they tell you nothing works') positions the supplement as the answer doctors won't give.",
-    "sound": "",
+    "sound": "Suspense, horror, piano and music box — takaya",
     "videos": 15,
     "sales": 78193,
     "views": 4453167,
@@ -228,7 +234,7 @@
     "name": "Show-the-receipts hair transformation (before/after, side-compare, inch-a-month)",
     "short": "Show-the-receipts hair…",
     "badge": "🏆 Proven",
-    "hook": "Top-GMV variation ($13.9k): she holds out the two sides of her hair — 'This side you can thank catching COVID three times; this side, hypothyroidism or having a kid' — caption 'I thought I was gonna be bald'.",
+    "hook": "Top-GMV variation: she holds out the two sides of her hair — 'This side you can thank catching COVID three times; this side, hypothyroidism or having a kid' — caption 'I thought I was gonna be bald'.",
     "why": "Seeing is believing: a dramatic visible contrast (two sides, inches, baby hairs, dated before photos) is proof no claim can match. Naming the cause — COVID, thyroid, postpartum, PCOS — lets each viewer self-insert into the transformation.",
     "sound": "",
     "videos": 10,
@@ -313,9 +319,9 @@
     "name": "'Stop wasting money on biotin' myth-buster (hairstylist truth-teller)",
     "short": "Stop wasting money on biotin",
     "badge": "🔥 Hot right now",
-    "hook": "Top-GMV variation ($15.2k): a hairstylist points both index fingers up — 'She is completely right. As a hairstylist of 15 years...' — stacked on a shock reply-comment ('I am in complete shock! My hair stopped falling out...",
+    "hook": "Top-GMV variation: a hairstylist points both index fingers up — 'She is completely right. As a hairstylist of 15 years...' — stacked on a shock reply-comment ('I am in complete shock! My hair stopped falling out...",
     "why": "Attacking what the viewer already bought (biotin, or a cheap PSO) creates instant relevance and a knowledge gap the DHT explanation resolves. The hairstylist has touched a thousand thinning heads, so her verdict feels earned rather than sold.",
-    "sound": "",
+    "sound": "sonido original — Javier / Nurse Practitioner",
     "videos": 7,
     "sales": 46754,
     "views": 1955023,
@@ -377,7 +383,7 @@
     "name": "'I lost half my hair' hormonal-shedding confessional + PCOS/peri symptom-stack callout",
     "short": "I lost half my hair",
     "badge": "🏆 Proven",
-    "hook": "Lead variation (twin scripts, ~$16k combined): 'I lost 75% of my hair in six months. And this little thing right here is what stopped it' — holding a single softgel beside her face or leaning into camera, captions like 'My secret to fast hair growth' / 'What I wish I knew before I lost 50% of it'…",
+    "hook": "Lead variation: 'I lost 75% of my hair in six months. And this little thing right here is what stopped it' — holding a single softgel beside her face or leaning into camera, captions like 'My secret to fast hair growth' / 'What I wish I knew before I lost 50% of it'; the cause swaps freely (grief…",
     "why": "A shock number ('75% in six months') from an ordinary woman plus a one-line resolution ('this little thing stopped it') is an irresistible open. The symptom-stack variant makes PCOS/peri women feel individually seen — chin hair, acne and shedding named together, which almost no ad does.",
     "sound": "",
     "videos": 7,
@@ -441,9 +447,9 @@
     "name": "Credentialed expert explains why pumpkin seed oil works (pharmacist / researcher hook)",
     "short": "Credentialed expert…",
     "badge": "🏆 Proven",
-    "hook": "Top-GMV variation ($8.0k): 'Why is pumpkin seed oil great for hair thinning and hair falling out?' — open-palm explainer with a university staff ID-badge overlay ('Biochem & Molecular Pharmacology'), then DHT follicle diagrams, PubMed screenshots and a finger on the 3,000mg / saw-palmetto pouch…",
+    "hook": "Top-GMV variation: 'Why is pumpkin seed oil great for hair thinning and hair falling out?' — open-palm explainer with a university staff ID-badge overlay ('Biochem & Molecular Pharmacology'), then DHT follicle diagrams, PubMed screenshots and a finger on the 3,000mg / saw-palmetto pouch callouts.",
     "why": "A credential in frame (badge, scrubs, lab coat) plus on-screen studies converts skepticism into trust, and DHT gives the viewer a nameable villain their own doctor never mentioned. The dose-math and packaging callouts turn our label into the proof.",
-    "sound": "",
+    "sound": "sonido original — Javier / Nurse Practitioner",
     "videos": 8,
     "sales": 44936,
     "views": 1834928,
@@ -535,7 +541,7 @@
     "name": "Conditional matchmaker: 'If you want longer — take this' goal/symptom router",
     "short": "Conditional matchmaker",
     "badge": "🔥 Hot right now",
-    "hook": "Creator pours/holds the supplement at 0s and delivers a rapid conditional read straight to camera: 'If you want longer hair, take this. If you want thicker hair, take this.",
+    "hook": "Creator pours/holds the supplement at 0s and delivers a rapid conditional read straight to camera: 'If you want longer hair, take this. If you want thicker hair, take this. If you want longer AND thicker, take both together'.",
     "why": "The conditional structure makes the viewer self-diagnose in the first 3 seconds — whichever branch they hear, the answer is the product, so every segment of the audience is addressed and routed to checkout. Product-from-0s plus a confident prescriptive read converts like a recommendation from a friend who already solved it.",
     "sound": "",
     "videos": 11,
@@ -627,9 +633,9 @@
     "name": "Dated growth receipts: before/after journey + 'X inches by [date]' promise",
     "short": "Dated growth receipts",
     "badge": "🔥 Hot right now",
-    "hook": "Two interlocking date-anchored openers, always with proof imagery. Lead ($76K): 'How I went from losing 50% of my hair postpartum to cutting three inches off last week because it won't stop regrowing' — hair flip up front, thinning-wet-hair 'before' photo inset.",
+    "hook": "Two interlocking date-anchored openers, always with proof imagery. Lead: 'How I went from losing 50% of my hair postpartum to cutting three inches off last week because it won't stop regrowing' — hair flip up front, thinning-wet-hair 'before' photo inset.",
     "why": "Dated receipts convert skeptics: a concrete timeline plus visible before/after makes the outcome feel scheduled rather than hoped-for, and the calendar deadline ('by summer', 'by Christmas') creates a start-today urgency no discount is needed for.",
-    "sound": "",
+    "sound": "me va a costar — Kevin Kaarl",
     "videos": 51,
     "sales": 633309,
     "views": 24311587,
@@ -761,9 +767,9 @@
     "name": "'Extension allegations' real-hair discovery testimonial",
     "short": "Extension allegations",
     "badge": "🔥 Hot right now",
-    "hook": "Creator flips, unclips or runs hands through visibly long thick hair in the first seconds and drops the discovery line: 'The miracle hair growth combo — I put my life on this' ($57K), 'People keep asking where I got my extensions — this is literally my REAL hair' (morenocamy $8.5K, posh/nilla fleet…",
+    "hook": "Creator flips, unclips or runs hands through visibly long thick hair in the first seconds and drops the discovery line: 'The miracle hair growth combo — I put my life on this', 'People keep asking where I got my extensions — this is literally my REAL hair', or the salon-authority version where a…",
     "why": "The hair on screen IS the proof — the accusation of fake hair ('extensions?', 'wig?') is flipped into irrefutable social proof, and the casual 'I gatekept this' reveal makes the product feel like an insider secret rather than an ad.",
-    "sound": "",
+    "sound": "Dark heavy metal with monstrous aggressive slow(1369719) — 212soundworks",
     "videos": 65,
     "sales": 584041,
     "views": 18481441,
@@ -895,9 +901,9 @@
     "name": "Objection-killer proof demos: wig test, counterfeit warning, taste & side-effect myth-busts",
     "short": "Objection-killer proof demos",
     "badge": "🔥 Hot right now",
-    "hook": "Reply-to-comment / demo openers that stage a doubt and destroy it on camera. Lead ($41K, rev_pct 1.0): replying to 'wig' — creator brushes her hair AGGRESSIVELY then holds the clean brush to the lens: 'Not a wig.",
+    "hook": "Reply-to-comment / demo openers that stage a doubt and destroy it on camera. Lead: replying to 'wig' — creator brushes her hair AGGRESSIVELY then holds the clean brush to the lens: 'Not a wig.",
     "why": "Every purchase objection (fake hair, fake product, bad taste, scary side effects, 'doesn't work') is answered as entertainment with on-camera proof, converting the skeptical comment-section audience that testimonials alone never close.",
-    "sound": "",
+    "sound": "Calm background music with acoustic guitar and saxophone(1288148) — ame",
     "videos": 16,
     "sales": 228645,
     "views": 7478818,
@@ -1022,7 +1028,7 @@
     "name": "GLP-1 shedding rescue: audience callout + news-react",
     "short": "GLP-1 shedding rescue",
     "badge": "🔥 Hot right now",
-    "hook": "Lead ($89K, velocity 1.0): green-screen news-react — creator points at a TODAY-show clip, 'FDA has issued a warning letter to the maker of Ozempic and Wegovy…', caption 'TOLD YA', then pivots to the side-effect supplement stack including a pumpkin seed oil pouch.",
+    "hook": "Lead: green-screen news-react — creator points at a TODAY-show clip, 'FDA has issued a warning letter to the maker of Ozempic and Wegovy…', caption 'TOLD YA', then pivots to the side-effect supplement stack including a pumpkin seed oil pouch.",
     "why": "Names the audience in second one (GLP-1 users watching their hair fall out), borrows news/FDA authority for urgency, and offers a fix for the side effect without asking them to quit the drug they love — high-intent buyers with a fresh, painful problem.",
     "sound": "",
     "videos": 9,
@@ -1100,9 +1106,9 @@
     "name": "Aging-men prostate & night-pee symptom checklist",
     "short": "Aging-men prostate &…",
     "badge": "🌱 Rising",
-    "hook": "Lead ($66K, velocity 1.0): man stacks the symptoms straight at camera while doing a physical demo — 'If your prostate is swollen and you're dribbling, staining your britches… you're not getting that morning anymore' — slicing a beet against an anatomy model and holding up urine-stained boxers.",
+    "hook": "Lead: man stacks the symptoms straight at camera while doing a physical demo — 'If your prostate is swollen and you're dribbling, staining your britches… you're not getting that morning anymore' — slicing a beet against an anatomy model and holding up urine-stained boxers.",
     "why": "Names embarrassing symptoms out loud with crude visual metaphors, which stops the exact 45+ male scroller who has silently normalized them; symptom-stack plus mechanism gives him a no-doctor, no-shame fix.",
-    "sound": "",
+    "sound": "sonido original — Javier / Nurse Practitioner",
     "videos": 4,
     "sales": 173217,
     "views": 4769178,
@@ -1143,9 +1149,9 @@
     "name": "Skit scenarios: caught-misusing-it comedy & 'are those extensions?' two-person bits",
     "short": "Skit scenarios",
     "badge": "🔥 Hot right now",
-    "hook": "Scripted mini-scenes. Highest-GMV pair are men's-health couple skits ($38K: girlfriend slips him 'candy' and asks 'things flowing?'; $28K: POV meme 'you never miss the toilet again').",
+    "hook": "Scripted mini-scenes. Highest-GMV pair are men's-health couple skits. The hair fleet: absurd product-misuse gags — 'This toast will grow your hair 3 inches by March 1st', 'Dylan, why are you eating hair vitamins on your toast?', 'Today she skipped reading the bottle — ma'am!' (pouring it on her…",
     "why": "Comedy earns the full watch and disarms ad-blindness; the gag always lands on the same beat — the hair (or the fix) is real and it came from this bottle — so entertainment converts into product proof.",
-    "sound": "",
+    "sound": "fancy — audios 🧏🏻‍♀️",
     "videos": 20,
     "sales": 143954,
     "views": 3981970,
@@ -1279,9 +1285,9 @@
     "name": "Celebrity podcast-stitch reaction: 'Kourtney just admitted this on live TV'",
     "short": "Celebrity podcast-stitch…",
     "badge": "🏆 Proven",
-    "hook": "Lead ($586k — the tier's #1 GMV and #1 velocity at 5,234/day): a bearded guy in a backwards cap reacts in his kitchen, pointing up — 'Kourtney Kardashian just said this on live TV and people are losing their shit, listen to this' — over a paparazzi photo and the caption 'It's not plastic surgery'…",
+    "hook": "Lead: a bearded guy in a backwards cap reacts in his kitchen, pointing up — 'Kourtney Kardashian just said this on live TV and people are losing their shit, listen to this' — over a paparazzi photo and the caption 'It's not plastic surgery'; the product is withheld 3+ minutes while Kardashian…",
     "why": "Borrows a mega-celebrity's face and a 'leaked secret' curiosity gap to hold attention through a long clip-stacked education, so by the late reveal the product feels celebrity-endorsed and scientist-approved without the brand ever saying it.",
-    "sound": "",
+    "sound": "Horror piano, BGM when murder occurs(1193164) — syummacha",
     "videos": 3,
     "sales": 834129,
     "views": 49702556,
@@ -1314,9 +1320,9 @@
     "name": "'You're not fat, it's high cortisol' body-callout symptom checklist",
     "short": "You",
     "badge": "🌱 Rising",
-    "hook": "Lead (top GMV $220k, 2,323/day): a med-spa nurse in a lab coat holds a syringe to camera — 'If your chin looks like this and your pooch looks like this, you're not fat, babe, you just have high cortisol' — while cartoon double-chin and belly-pooch overlays pop beside her face; the same 'if you've…",
+    "hook": "Lead: a med-spa nurse in a lab coat holds a syringe to camera — 'If your chin looks like this and your pooch looks like this, you're not fat, babe, you just have high cortisol' — while cartoon double-chin and belly-pooch overlays pop beside her face; the same 'if you've got this, this and this →…",
     "why": "It absolves the viewer ('you're not fat — it's not your fault') while diagnosing them in the first 5 seconds; naming a hidden culprit turns self-consciousness into a fixable deficiency the product resolves. Body-pointing plus cartoon overlays makes it visual and personal with no credential required.",
-    "sound": "",
+    "sound": "sonido original — La Mejor Salud🧉🪴",
     "videos": 9,
     "sales": 741136,
     "views": 58461292,
@@ -1392,9 +1398,9 @@
     "name": "Credentialed 'here's the right way' expert explainer + 'what nobody tells you' myth-bust",
     "short": "Credentialed 'here's the…",
     "badge": "🏆 Proven",
-    "hook": "Lead ($97k): a pharmacist in a white coat in the pharmacy aisle raises a finger — 'Here's how to take magnesium the right way. I'm a pharmacist.' — with the caption 'From a Pharmacist'.",
+    "hook": "Lead: a pharmacist in a white coat in the pharmacy aisle raises a finger — 'Here's how to take magnesium the right way. I'm a pharmacist.' — with the caption 'From a Pharmacist'.",
     "why": "A flashed credential (license, staff ID) plus PubMed screenshots converts a sales pitch into trusted advice, and the contrarian 'what nobody tells you / stop doing this' framing opens a curiosity gap that earns the full watch before the product resolves it.",
-    "sound": "",
+    "sound": "Cool for the summer hoodtrap by Kryd — Kryd",
     "videos": 7,
     "sales": 409087,
     "views": 21803433,
@@ -1456,9 +1462,9 @@
     "name": "Bottle-in-hand from second 0: deal-drop testimonial opener",
     "short": "Bottle-in-hand from second 0",
     "badge": "🏆 Proven",
-    "hook": "Lead ($96k): a woman holds the bottle beside her face from second 0, mid-testimonial — 'My daughter even told me: Mom, I like your new self' — under a persistent caption 'This company is giving y'all $40.00, idk how long it will last', then rotates the Supplement Facts panel to camera.",
+    "hook": "Lead: a woman holds the bottle beside her face from second 0, mid-testimonial — 'My daughter even told me: Mom, I like your new self' — under a persistent caption 'This company is giving y'all $40.00, idk how long it will last', then rotates the Supplement Facts panel to camera.",
     "why": "Product-from-0s plus a life-changed testimonial removes all discovery friction, and the deal caption running the whole video gives fence-sitters a now-or-never reason while the story supplies the why; Sale/urgency openers are this tier's #1 device by revenue percentile.",
-    "sound": "",
+    "sound": "sonido original — JENNY CLAROS",
     "videos": 2,
     "sales": 157367,
     "views": 10862001,
@@ -1507,7 +1513,7 @@
     "badge": "🌱 Rising",
     "hook": "A doctor in scrubs and gloves winces while inspecting stained gloves mid-exam — 'Well, everything looks fine here… anything else I can help you with?' — under the caption 'It was because of a BIGGER PROBLEM'; the same actor plays both doctor and patient, comedic body-problem overlays punch each…",
     "why": "Comedy earns the watch-through, and the doctor-character frame lets the video diagnose the viewer's embarrassing symptoms without preaching — the product lands as the punchline prescription, softened by the laugh.",
-    "sound": "",
+    "sound": "sonido original — La Mejor Salud🧉🪴",
     "videos": 1,
     "sales": 44432,
     "views": 3064913,
@@ -46764,7 +46770,10 @@
    "at": "",
    "tg": [
     "Weight-loss / body-image"
-   ]
+   ],
+   "media": "photo",
+   "sl": 3,
+   "snd": "original sound — neverbadagain"
   },
   {
    "id": "7659077184916655374",
@@ -46792,7 +46801,10 @@
    "tg": [
     "Bloating / puffiness",
     "Summer weight loss"
-   ]
+   ],
+   "media": "photo",
+   "sl": 3,
+   "snd": "In my room hoodtrap by Kryd — Kryd"
   },
   {
    "id": "7658130493421980941",
@@ -46819,7 +46831,10 @@
    "at": "",
    "tg": [
     "Weight-loss / cutting"
-   ]
+   ],
+   "media": "photo",
+   "sl": 3,
+   "snd": "In my room hoodtrap by Kryd — Kryd"
   },
   {
    "id": "7650200851528699149",
@@ -46874,7 +46889,10 @@
    "tg": [
     "Weight-loss / cutting",
     "Bloating"
-   ]
+   ],
+   "media": "photo",
+   "sl": 3,
+   "snd": "original sound — freerift ✞"
   },
   {
    "id": "7654367673760927006",
@@ -46957,7 +46975,10 @@
    "at": "",
    "tg": [
     "Weight loss"
-   ]
+   ],
+   "media": "photo",
+   "sl": 4,
+   "snd": "original sound — ☆"
   },
   {
    "id": "7655790396030684447",
@@ -47014,7 +47035,10 @@
     "Bloating",
     "Stubborn body fat",
     "Acne"
-   ]
+   ],
+   "media": "photo",
+   "sl": 6,
+   "snd": "original sound — ᴠᴇᴛᴇʀᴀɴ"
   },
   {
    "id": "7656162122023308557",
@@ -47042,7 +47066,10 @@
    "tg": [
     "Men cutting for summer",
     "Bloating"
-   ]
+   ],
+   "media": "photo",
+   "sl": 6,
+   "snd": "original sound — ᴠᴇᴛᴇʀᴀɴ"
   },
   {
    "id": "7655352532255984910",
@@ -47069,7 +47096,10 @@
    "at": "",
    "tg": [
     "Weight-loss / body transformation"
-   ]
+   ],
+   "media": "photo",
+   "sl": 3,
+   "snd": "In my room hoodtrap by Kryd — Kryd"
   },
   {
    "id": "7650330700423515406",
@@ -47125,7 +47155,10 @@
    "tg": [
     "Bloating",
     "Weight / body image"
-   ]
+   ],
+   "media": "photo",
+   "sl": 7,
+   "snd": "sonido original — fee"
   },
   {
    "id": "7650318128596978974",
@@ -47153,7 +47186,10 @@
    "tg": [
     "Weight loss",
     "Body image insecurity"
-   ]
+   ],
+   "media": "photo",
+   "sl": 3,
+   "snd": "Love Me — Lil Wayne"
   },
   {
    "id": "7645895311302397214",
@@ -47180,7 +47216,10 @@
    "at": "",
    "tg": [
     "Weight-loss seekers"
-   ]
+   ],
+   "media": "photo",
+   "sl": 3,
+   "snd": "Love Me — Lil Wayne"
   },
   {
    "id": "7658564798052879629",
@@ -47207,7 +47246,10 @@
    "at": "",
    "tg": [
     "Weight loss seekers"
-   ]
+   ],
+   "media": "photo",
+   "sl": 5,
+   "snd": "original sound — EX7STENCE™"
   },
   {
    "id": "7644775616453020959",
@@ -47292,7 +47334,10 @@
    "at": "",
    "tg": [
     "Weight loss / cutting"
-   ]
+   ],
+   "media": "photo",
+   "sl": 3,
+   "snd": "original sound — leilani"
   },
   {
    "id": "7643908581129080095",
@@ -48301,5 +48346,6 @@
     "Kylie Jenner fans"
    ]
   }
- ]
+ ],
+ "tp_label": "Talking Points 🧡 Celestrie"
 }
